@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-06-02T14:19:52.173319",
+  "milestones": {
+    "6": {
+      "name": "Local LLM Integration",
+      "passed": true,
+      "execution_time": 0.304335,
+      "test_output": "\nTesting JARVIS LLM Integration (Milestone 6)\n\n1. Model Registry\n  [OK] Model registry has default models\n  [OK] qwen2.5 is registered\n  [OK] Can get model for 'reasoning'\n  [OK] New model is in registry\n\n2. Token Monitor\n  [OK] Usage is tracked\n  [OK] Daily usage is tracked\n  [OK] Check limit returns True (under limit)\n\n3. Prompt Engine\n  [OK] Can generate reasoning prompt\n  [OK] Can generate coding prompt\n  [OK] Can generate planning prompt\n  [OK] Context is included in prompt\n\n4. Embedding Manager\n  [OK] Embedding has 128 dimensions\n  [OK] Similarity is between 0 and 1\n  [OK] Same text has higher similarity\n\n5. Vector Store\n  [OK] Can add document to vector store\n  [OK] Search returns results\n  [OK] Can delete document\n\n6. Response Validator\n  [OK] Safe response passes validation\n  [OK] Dangerous response fails validation\n  [OK] Sanitize removes dangerous content\n\n7. Reasoning Engine\n  [OK] Rule-based planning works\n\n============================================================\nAll 21 tests passed!\n\nDangerous pattern detected: rm\\s+-rf\\s+/\n"
+    },
+    "9": {
+      "name": "Self-Evolving AI System",
+      "passed": true,
+      "execution_time": 0.255468,
+      "test_output": "\nTesting JARVIS Self-Evolving AI System...\n\n1. Evolution Manager\n  [OK] Evolution manager initialized\n\n2. Research Engine\n  [OK] Research engine returns results\n  [OK] Research has sources\n\n3. Knowledge Extractor\n  [OK] Knowledge extracted\n  [OK] Knowledge has concepts\n\n4. Learning Pipeline\n  [OK] Learning plan created\n\n5. Self Code Generation\n  [OK] Code generated\n  [OK] Executor code generated\n\n6. Sandbox Lab\n  [OK] Sandbox test returns result\n\n7. Validation Engine\n  [OK] Validation passes\n\n8. Governance Layer\n  [OK] Governance approves safe code\n\n9. Skill Registry\n  [OK] Can register skill\n\n10. End-to-End Learning (Mock)\n  [OK] Learning session completes\n\n11. Architecture Optimizer\n  [OK] Optimizer proposes optimizations\n\n12. Rollback System\n  [OK] Rollback returns success\n\n============================================================\nAll 15 evolution tests passed!\n\nRolling back upgrade proposal: test_proposal\n"
+    }
+  },
+  "summary": {
+    "total_tested": 2,
+    "total_passed": 2,
+    "total_failed": 0,
+    "pass_rate": "100.0%"
+  }
+}

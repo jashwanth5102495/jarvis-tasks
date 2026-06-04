@@ -1,0 +1,36 @@
+{
+  "tests": [
+    {
+      "test_name": "test_llm",
+      "milestone": 6,
+      "risk": "SAFE",
+      "description": "Tests LLM integration, model registry, token monitoring",
+      "dependencies": [],
+      "required_services": []
+    },
+    {
+      "test_name": "test_voice",
+      "milestone": 7,
+      "risk": "SAFE",
+      "description": "Tests voice system, wake word, TTS, conversation manager",
+      "dependencies": [],
+      "required_services": []
+    },
+    {
+      "test_name": "test_distributed",
+      "milestone": 8,
+      "risk": "SAFE",
+      "description": "Tests distributed system, node registry, sync, remote execution",
+      "dependencies": [],
+      "required_services": []
+    },
+    {
+      "test_name": "test_evolution",
+      "milestone": 9,
+      "risk": "SAFE",
+      "description": "Tests self-evolution, research, code gen, validation, governance",
+      "dependencies": [],
+      "required_services": []
+    }
+  ]
+}

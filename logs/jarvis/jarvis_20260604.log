@@ -1,0 +1,24 @@
+2026-06-04 01:06:34,941 - jarvis.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-04 01:08:10,520 - jarvis.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-04 01:09:04,888 - jarvis.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-04 01:09:07,087 - jarvis.voice.voice_profile_manager - INFO - Voice profiles saved
+2026-06-04 01:09:07,095 - jarvis.voice.text_to_speech - INFO - Loading voice profile: jarvis_classic
+2026-06-04 01:09:07,095 - jarvis.voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-04 01:09:07,450 - jarvis.voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-04 01:09:07,450 - jarvis.voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-04 01:09:07,450 - jarvis.voice.tts_engines.engine_selector - WARNING - Failed to initialize piper, falling back...
+2026-06-04 01:09:07,450 - jarvis.voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-04 01:09:07,450 - jarvis.voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-04 01:09:07,450 - jarvis.voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-04 01:09:07,459 - jarvis.voice.tts_engines.pyttsx3_engine - INFO - Initializing pyttsx3 TTS engine...
+2026-06-04 01:09:07,543 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jashw\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-04 01:09:07,543 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jashw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-06-04 01:09:07,733 - jarvis.voice.tts_engines.pyttsx3_engine - INFO - Set initial TTS speed to 150 WPM
+2026-06-04 01:09:07,736 - jarvis.voice.tts_engines.pyttsx3_engine - INFO - Available voices: 2 found
+2026-06-04 01:09:07,736 - jarvis.voice.tts_engines.pyttsx3_engine - INFO -   Voice 0: Microsoft David Desktop - English (United States)
+2026-06-04 01:09:07,736 - jarvis.voice.tts_engines.pyttsx3_engine - INFO - Found target voice: Microsoft David Desktop - English (United States)
+2026-06-04 01:09:07,736 - jarvis.voice.tts_engines.pyttsx3_engine - INFO - pyttsx3 TTS initialized successfully!
+2026-06-04 01:09:07,736 - jarvis.voice.tts_engines.engine_selector - INFO - Using TTS engine: pyttsx3
+2026-06-04 01:09:07,736 - jarvis.voice.tts_engines.pyttsx3_engine - INFO - Set TTS speed to 150 WPM (scale: 1.0)
+2026-06-04 01:09:07,904 - jarvis.voice.audio_router - INFO - Found 2 input devices, 2 output devices
+2026-06-04 01:09:07,904 - jarvis.core.orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding', 'voice']

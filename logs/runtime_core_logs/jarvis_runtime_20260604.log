@@ -1,0 +1,631 @@
+2026-06-04 00:01:39,657 - __main__ - INFO - ======================================================================
+2026-06-04 00:01:39,657 - __main__ - INFO - JARVIS AI Operating System - Persistent Runtime Starting
+2026-06-04 00:01:39,657 - __main__ - INFO - ======================================================================
+2026-06-04 00:01:58,317 - __main__ - INFO - ======================================================================
+2026-06-04 00:01:58,317 - __main__ - INFO - JARVIS AI Operating System - Persistent Runtime Starting
+2026-06-04 00:01:58,319 - __main__ - INFO - ======================================================================
+2026-06-04 00:02:39,529 - __main__ - INFO - ======================================================================
+2026-06-04 00:02:39,529 - __main__ - INFO - JARVIS AI Operating System - Persistent Runtime Starting
+2026-06-04 00:02:39,529 - __main__ - INFO - ======================================================================
+2026-06-04 00:04:51,313 - __main__ - INFO - ======================================================================
+2026-06-04 00:04:51,314 - __main__ - INFO - JARVIS AI Operating System - Persistent Runtime Starting
+2026-06-04 00:04:51,314 - __main__ - INFO - ======================================================================
+2026-06-04 00:05:15,744 - __main__ - INFO - ======================================================================
+2026-06-04 00:05:15,744 - __main__ - INFO - JARVIS AI Operating System - Persistent Runtime Starting
+2026-06-04 00:05:15,744 - __main__ - INFO - ======================================================================
+2026-06-04 00:07:23,254 - __main__ - INFO - ======================================================================
+2026-06-04 00:07:23,255 - __main__ - INFO - JARVIS AI Operating System - Persistent Runtime Starting
+2026-06-04 00:07:23,255 - __main__ - INFO - ======================================================================
+2026-06-04 00:07:23,338 - runtime.event_bus - INFO - Event Bus initialized
+2026-06-04 00:07:23,350 - runtime.runtime_state_machine - INFO - Runtime State Machine initialized at IDLE
+2026-06-04 00:07:23,377 - overlay.animation_engine - INFO - Animation engine initialized
+2026-06-04 00:07:23,377 - overlay.overlay_manager - INFO - Overlay Manager initialized
+2026-06-04 00:07:23,378 - overlay.tray_manager - INFO - Tray Manager (UI) initialized
+2026-06-04 00:07:23,390 - overlay.status_controller - INFO - Status Controller initialized
+2026-06-04 00:07:23,390 - overlay.presence_manager - INFO - Presence Manager initialized
+2026-06-04 00:07:23,392 - overlay.ui_theme_manager - INFO - UI Theme Manager initialized with theme: cinematic_blue
+2026-06-04 00:07:23,403 - overlay.state_visualizer - INFO - State Visualizer initialized
+2026-06-04 00:07:23,405 - overlay.notification_manager - INFO - Notification Manager initialized
+2026-06-04 00:07:23,405 - overlay.overlay_renderer - INFO - Overlay Renderer initialized
+2026-06-04 00:07:25,301 - overlay.tray_manager - INFO - Initializing tray manager
+2026-06-04 00:07:26,488 - overlay.tray_manager - DEBUG - Tray libraries imported successfully
+2026-06-04 00:07:26,488 - overlay.overlay_manager - INFO - Initializing overlay manager
+2026-06-04 00:07:26,488 - runtime.event_bus - DEBUG - Subscribed to STATE_CHANGE
+2026-06-04 00:07:26,488 - runtime.event_bus - DEBUG - Subscribed to PAUSE
+2026-06-04 00:07:26,489 - runtime.event_bus - DEBUG - Subscribed to RESUME
+2026-06-04 00:07:26,489 - runtime.event_bus - DEBUG - Subscribed to WAKE_WORD_DETECTED
+2026-06-04 00:07:26,489 - runtime.event_bus - DEBUG - Subscribed to COMMAND_RECEIVED
+2026-06-04 00:07:26,489 - runtime.event_bus - DEBUG - Subscribed to THINKING_STARTED
+2026-06-04 00:07:26,489 - runtime.event_bus - DEBUG - Subscribed to EXECUTION_STARTED
+2026-06-04 00:07:26,489 - runtime.event_bus - DEBUG - Subscribed to SPEAK_START
+2026-06-04 00:07:26,489 - runtime.event_bus - DEBUG - Subscribed to SPEAK_END
+2026-06-04 00:07:26,489 - overlay.presence_manager - INFO - Initializing presence manager
+2026-06-04 00:07:26,489 - overlay.tray_manager - INFO - Tray manager started
+2026-06-04 00:07:26,490 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-06-04 00:07:26,491 - overlay.overlay_manager - INFO - Creating AIIndicator instance
+2026-06-04 00:07:26,509 - overlay.ai_indicator - INFO - Glassmorphism AI Indicator initialized
+2026-06-04 00:07:26,509 - overlay.overlay_manager - INFO - AIIndicator created
+2026-06-04 00:07:26,509 - overlay.animation_engine - DEBUG - Animation target widget set: <overlay.ai_indicator.AIIndicator object at 0x000001E8B76B2490>
+2026-06-04 00:07:26,510 - overlay.ai_indicator - INFO - Setting status to RuntimeState.IDLE with details: None
+2026-06-04 00:07:26,510 - overlay.overlay_manager - INFO - Overlay updated to IDLE
+2026-06-04 00:08:19,162 - overlay.overlay_manager - INFO - Overlay watchdog started
+2026-06-04 00:08:19,162 - overlay.overlay_manager - INFO - Overlay started completely
+2026-06-04 00:08:19,384 - runtime.lifecycle_manager - INFO - Lifecycle Manager initialized
+2026-06-04 00:08:19,385 - runtime.persistent_runtime - INFO - Persistent Runtime initialized
+2026-06-04 00:08:19,385 - runtime.lifecycle_manager - INFO - ======================================================================
+2026-06-04 00:08:19,385 - runtime.lifecycle_manager - INFO - JARVIS AI Operating System - Boot Sequence Starting
+2026-06-04 00:08:19,385 - runtime.lifecycle_manager - INFO - ======================================================================
+2026-06-04 00:08:19,385 - runtime.lifecycle_manager - DEBUG - Setting up Windows signal handlers
+2026-06-04 00:08:19,385 - runtime.lifecycle_manager - DEBUG - Signal handlers set up
+2026-06-04 00:08:19,385 - runtime.event_bus - DEBUG - Subscribed to PAUSE
+2026-06-04 00:08:19,385 - runtime.event_bus - DEBUG - Subscribed to RESUME
+2026-06-04 00:08:19,385 - runtime.event_bus - DEBUG - Subscribed to SHUTDOWN
+2026-06-04 00:08:19,385 - runtime.lifecycle_manager - INFO - Initializing core subsystems...
+2026-06-04 00:08:19,386 - runtime.runtime_state_machine - DEBUG - Already in state IDLE
+2026-06-04 00:08:19,386 - runtime.lifecycle_manager - INFO - ======================================================================
+2026-06-04 00:08:19,386 - runtime.lifecycle_manager - INFO - JARVIS AI Operating System - Boot Complete
+2026-06-04 00:08:19,386 - runtime.lifecycle_manager - INFO - ======================================================================
+2026-06-04 00:08:19,386 - runtime.persistent_runtime - INFO - Starting infinite runtime loop...
+2026-06-04 00:08:19,692 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2026-06-04 00:08:19,696 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2026-06-04 00:08:19,697 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2026-06-04 00:08:19,698 - PIL.Image - DEBUG - Importing CurImagePlugin
+2026-06-04 00:08:19,701 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2026-06-04 00:08:19,708 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2026-06-04 00:08:19,713 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2026-06-04 00:08:19,717 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2026-06-04 00:08:19,722 - PIL.Image - DEBUG - Importing FliImagePlugin
+2026-06-04 00:08:19,724 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2026-06-04 00:08:19,729 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2026-06-04 00:08:19,729 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2026-06-04 00:08:19,733 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2026-06-04 00:08:19,735 - PIL.Image - DEBUG - Importing GifImagePlugin
+2026-06-04 00:08:19,735 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2026-06-04 00:08:19,737 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2026-06-04 00:08:19,741 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2026-06-04 00:08:19,749 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2026-06-04 00:08:19,753 - PIL.Image - DEBUG - Importing ImImagePlugin
+2026-06-04 00:08:19,757 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2026-06-04 00:08:19,759 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2026-06-04 00:08:19,764 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2026-06-04 00:08:19,765 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2026-06-04 00:08:19,765 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2026-06-04 00:08:19,828 - PIL.Image - DEBUG - Importing MicImagePlugin
+2026-06-04 00:08:19,832 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2026-06-04 00:08:19,832 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2026-06-04 00:08:19,834 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2026-06-04 00:08:19,854 - PIL.Image - DEBUG - Importing MspImagePlugin
+2026-06-04 00:08:19,857 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2026-06-04 00:08:19,861 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2026-06-04 00:08:19,862 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2026-06-04 00:08:19,862 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2026-06-04 00:08:19,870 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2026-06-04 00:08:19,872 - PIL.Image - DEBUG - Importing PngImagePlugin
+2026-06-04 00:08:19,872 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2026-06-04 00:08:19,872 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2026-06-04 00:08:19,874 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2026-06-04 00:08:19,875 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2026-06-04 00:08:19,878 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2026-06-04 00:08:19,880 - PIL.Image - DEBUG - Importing SunImagePlugin
+2026-06-04 00:08:19,881 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2026-06-04 00:08:19,931 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2026-06-04 00:08:19,932 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2026-06-04 00:08:19,936 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2026-06-04 00:08:19,938 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2026-06-04 00:08:19,940 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2026-06-04 00:08:19,963 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2026-06-04 00:08:20,162 - __main__ - INFO - Playing startup greeting (in main thread) - using DIRECT pyttsx3!
+2026-06-04 00:08:21,786 - comtypes - DEBUG - CoInitializeEx(None, 2)
+2026-06-04 00:08:21,927 - voice.voice_profile_manager - INFO - Loaded 4 voice profiles
+2026-06-04 00:08:21,944 - voice.text_to_speech - INFO - Loading voice profile: jarvis_classic
+2026-06-04 00:08:21,944 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-04 00:08:25,596 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-04 00:08:25,596 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-04 00:08:25,596 - voice.tts_engines.engine_selector - WARNING - Failed to initialize piper, falling back...
+2026-06-04 00:08:25,596 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-04 00:08:25,596 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-04 00:08:25,597 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-04 00:08:25,597 - voice.tts_engines.pyttsx3_engine - INFO - Initializing pyttsx3 TTS engine...
+2026-06-04 00:08:26,325 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jashw\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-04 00:08:26,325 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jashw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-06-04 00:08:27,341 - comtypes.client._create - DEBUG - SAPI.SPVoice -> {96749377-3391-11D2-9EE3-00C04F797396}
+2026-06-04 00:08:27,341 - comtypes.client._create - DEBUG - SAPI.SPVoice -> {96749377-3391-11D2-9EE3-00C04F797396}
+2026-06-04 00:08:27,341 - comtypes.client._create - DEBUG - CoCreateInstance({96749377-3391-11D2-9EE3-00C04F797396}, clsctx=None, interface=None)
+2026-06-04 00:08:27,341 - comtypes.client._create - DEBUG - CoCreateInstance({96749377-3391-11D2-9EE3-00C04F797396}, clsctx=None, interface=None)
+2026-06-04 00:08:27,357 - comtypes.client._managing - DEBUG - GetBestInterface(<POINTER(IUnknown) ptr=0x1e8b3b2bda0 at 1e8e3b415d0>)
+2026-06-04 00:08:27,357 - comtypes.client._managing - DEBUG - GetBestInterface(<POINTER(IUnknown) ptr=0x1e8b3b295c0 at 1e8e3b41750>)
+2026-06-04 00:08:27,357 - comtypes.client._managing - DEBUG - Does implement IProvideClassInfo
+2026-06-04 00:08:27,357 - comtypes.client._managing - DEBUG - Does implement IProvideClassInfo
+2026-06-04 00:08:27,359 - comtypes.client._managing - DEBUG - Default interface is {269316D8-57BD-11D2-9EEE-00C04F797396}
+2026-06-04 00:08:27,359 - comtypes.client._managing - DEBUG - Default interface is {269316D8-57BD-11D2-9EEE-00C04F797396}
+2026-06-04 00:08:27,359 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8b3b2bde0 at 1e8e3b41bd0>
+2026-06-04 00:08:27,359 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8b3b29600 at 1e8e3b41f50>
+2026-06-04 00:08:27,439 - comtypes.client._generate - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2026-06-04 00:08:27,440 - comtypes.client._generate - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2026-06-04 00:08:27,440 - comtypes.client._managing - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechVoice'>
+2026-06-04 00:08:27,440 - comtypes.client._managing - DEBUG - Final result is <POINTER(ISpeechVoice) ptr=0x1e8b3b2bde0 at 1e8e3b42050>
+2026-06-04 00:08:27,440 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IProvideClassInfo) ptr=0x1e8b3b2be00 at 1e8e3b41650>
+2026-06-04 00:08:27,440 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1e8e36a9868 at 1e8e3b417d0>
+2026-06-04 00:08:27,441 - comtypes.client._managing - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechVoice'>
+2026-06-04 00:08:27,441 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1e8e36a98c0 at 1e8e3b419d0>
+2026-06-04 00:08:27,441 - comtypes.client._managing - DEBUG - Final result is <POINTER(ISpeechVoice) ptr=0x1e8b3b29600 at 1e8e3b41b50>
+2026-06-04 00:08:27,441 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeLib) ptr=0x1e8e35f1b60 at 1e8e3b41fd0>
+2026-06-04 00:08:27,441 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IProvideClassInfo) ptr=0x1e8b3b29620 at 1e8e3b416d0>
+2026-06-04 00:08:27,441 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8b3b2bda0 at 1e8e3b415d0>
+2026-06-04 00:08:27,441 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1e8e36a9868 at 1e8e3b41850>
+2026-06-04 00:08:27,441 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1e8e36a98c0 at 1e8e3b41d50>
+2026-06-04 00:08:27,441 - comtypes.client._events - DEBUG - <POINTER(ISpeechVoice) ptr=0x1e8b3b2bde0 at 1e8e3b42050> using sinkinterface from clsid <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4._ISpeechVoiceEvents'>
+2026-06-04 00:08:27,441 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeLib) ptr=0x1e8e35f1b60 at 1e8e3b41f50>
+2026-06-04 00:08:27,441 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IProvideClassInfo2) ptr=0x1e8b3b2be00 at 1e8e3b415d0>
+2026-06-04 00:08:27,441 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8b3b295c0 at 1e8e3b41750>
+2026-06-04 00:08:27,443 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>: _ISpeechVoiceEvents.VoiceChange not implemented
+2026-06-04 00:08:27,443 - comtypes.client._events - DEBUG - <POINTER(ISpeechVoice) ptr=0x1e8b3b29600 at 1e8e3b41b50> using sinkinterface from clsid <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4._ISpeechVoiceEvents'>
+2026-06-04 00:08:27,444 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>: _ISpeechVoiceEvents.Bookmark not implemented
+2026-06-04 00:08:27,444 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IProvideClassInfo2) ptr=0x1e8b3b29620 at 1e8e3888ed0>
+2026-06-04 00:08:27,444 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>: _ISpeechVoiceEvents.Sentence not implemented
+2026-06-04 00:08:27,444 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38E91F0>: _ISpeechVoiceEvents.VoiceChange not implemented
+2026-06-04 00:08:27,444 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>: _ISpeechVoiceEvents.Phoneme not implemented
+2026-06-04 00:08:27,444 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38E91F0>: _ISpeechVoiceEvents.Bookmark not implemented
+2026-06-04 00:08:27,445 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>: _ISpeechVoiceEvents.Viseme not implemented
+2026-06-04 00:08:27,445 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38E91F0>: _ISpeechVoiceEvents.Sentence not implemented
+2026-06-04 00:08:27,445 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>: _ISpeechVoiceEvents.AudioLevel not implemented
+2026-06-04 00:08:27,445 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38E91F0>: _ISpeechVoiceEvents.Phoneme not implemented
+2026-06-04 00:08:27,445 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>: _ISpeechVoiceEvents.EnginePrivate not implemented
+2026-06-04 00:08:27,445 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38E91F0>: _ISpeechVoiceEvents.Viseme not implemented
+2026-06-04 00:08:27,445 - comtypes.client._events - DEBUG - Start advise <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4._ISpeechVoiceEvents'>
+2026-06-04 00:08:27,445 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38E91F0>: _ISpeechVoiceEvents.AudioLevel not implemented
+2026-06-04 00:08:27,446 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.QueryInterface({A372ACD1-3BEF-4BBD-8FFB-CB3E2B416AF8}) -> S_OK
+2026-06-04 00:08:27,446 - comtypes._vtbl - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38E91F0>: _ISpeechVoiceEvents.EnginePrivate not implemented
+2026-06-04 00:08:27,446 - comtypes._comobject - DEBUG - 1 active COM objects: Added   <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>
+2026-06-04 00:08:27,446 - comtypes.client._events - DEBUG - Start advise <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4._ISpeechVoiceEvents'>
+2026-06-04 00:08:27,446 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 1
+2026-06-04 00:08:27,446 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38E91F0>.QueryInterface({A372ACD1-3BEF-4BBD-8FFB-CB3E2B416AF8}) -> S_OK
+2026-06-04 00:08:27,446 - comtypes._comobject - DEBUG - 2 active COM objects: Added   <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38E91F0>
+2026-06-04 00:08:27,446 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38E91F0>.AddRef() -> 1
+2026-06-04 00:08:27,449 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IConnectionPointContainer) ptr=0x1e8b3b2be08 at 1e8e38895d0>
+2026-06-04 00:08:27,450 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IConnectionPointContainer) ptr=0x1e8b3b29628 at 1e8e3889bd0>
+2026-06-04 00:08:27,668 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(ISpeechObjectToken) ptr=0x1e8b3b60cb0 at 1e8e3b43ed0>)
+2026-06-04 00:08:27,668 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(ISpeechObjectToken) ptr=0x1e8b3b60f80 at 1e8e38895d0>)
+2026-06-04 00:08:27,668 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1e8b3b60cb0 at 1e8e3b43ed0>
+2026-06-04 00:08:27,669 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1e8b3b60f80 at 1e8e38895d0>
+2026-06-04 00:08:27,669 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(ISpeechObjectTokens) ptr=0x1e8e3dab9d0 at 1e8e3b43ed0>)
+2026-06-04 00:08:27,669 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(ISpeechObjectTokens) ptr=0x1e8e3daba50 at 1e8e38895d0>)
+2026-06-04 00:08:27,669 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e3db9c20 at 1e8e38891d0>
+2026-06-04 00:08:27,669 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e3db9900 at 1e8e38892d0>
+2026-06-04 00:08:27,669 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x1e8b79f5e60 at 1e8e3b88050>)
+2026-06-04 00:08:27,669 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x1e8b79f5ef0 at 1e8e3b88350>)
+2026-06-04 00:08:27,669 - comtypes.client._managing - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x1e8b79f5e60 at 1e8e3b88050>)
+2026-06-04 00:08:27,669 - comtypes.client._managing - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x1e8b79f5ef0 at 1e8e3b88350>)
+2026-06-04 00:08:27,671 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2026-06-04 00:08:27,671 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2026-06-04 00:08:27,671 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2026-06-04 00:08:27,671 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2026-06-04 00:08:27,673 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e36a9970 at 1e8e3b887d0>
+2026-06-04 00:08:27,673 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e36a9970 at 1e8e3b88850>
+2026-06-04 00:08:27,673 - comtypes.client._managing - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2026-06-04 00:08:27,673 - comtypes.client._managing - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2026-06-04 00:08:27,673 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8b79f5e60 at 1e8e3b88950>
+2026-06-04 00:08:27,673 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8b79f5ef0 at 1e8e3b88a50>
+2026-06-04 00:08:27,673 - comtypes.client._generate - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2026-06-04 00:08:27,673 - comtypes.client._generate - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2026-06-04 00:08:27,673 - comtypes.client._managing - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2026-06-04 00:08:27,673 - comtypes.client._managing - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x1e8b79f5e60 at 1e8e3b887d0>
+2026-06-04 00:08:27,673 - comtypes.client._managing - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2026-06-04 00:08:27,673 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f5e60 at 1e8e3b88650>
+2026-06-04 00:08:27,674 - comtypes.client._managing - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x1e8b79f5ef0 at 1e8e3b88850>
+2026-06-04 00:08:27,674 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1e8e36a9970 at 1e8e3b888d0>
+2026-06-04 00:08:27,674 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f5ef0 at 1e8e3b88750>
+2026-06-04 00:08:27,675 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeLib) ptr=0x1e8e35f1b60 at 1e8e3b88950>
+2026-06-04 00:08:27,675 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1e8e36a9970 at 1e8e3b889d0>
+2026-06-04 00:08:27,675 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f5e60 at 1e8e3b88050>
+2026-06-04 00:08:27,675 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeLib) ptr=0x1e8e35f1b60 at 1e8e3b88a50>
+2026-06-04 00:08:27,675 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IEnumVARIANT) ptr=0x1e8e3db9c20 at 1e8e3b880d0>
+2026-06-04 00:08:27,675 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f5ef0 at 1e8e3b88350>
+2026-06-04 00:08:27,675 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectTokens) ptr=0x1e8e3dab9d0 at 1e8e3b43ed0>
+2026-06-04 00:08:27,675 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IEnumVARIANT) ptr=0x1e8e3db9900 at 1e8e3b88150>
+2026-06-04 00:08:27,676 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectTokens) ptr=0x1e8e3daba50 at 1e8e38895d0>
+2026-06-04 00:08:27,676 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1e8b79f5e60 at 1e8e3b887d0>
+2026-06-04 00:08:27,676 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1e8b79f5ef0 at 1e8e3b88850>
+2026-06-04 00:08:27,676 - voice.tts_engines.pyttsx3_engine - INFO - Set initial TTS speed to 150 WPM
+2026-06-04 00:08:27,677 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(ISpeechObjectTokens) ptr=0x1e8e3dab9d0 at 1e8e3b43ed0>)
+2026-06-04 00:08:27,677 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(ISpeechObjectTokens) ptr=0x1e8e3daba50 at 1e8e3888a50>)
+2026-06-04 00:08:27,677 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e3db9900 at 1e8e38892d0>
+2026-06-04 00:08:27,677 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectTokens) ptr=0x1e8e3dab9d0 at 1e8e3b43ed0>
+2026-06-04 00:08:27,677 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e3db9950 at 1e8e38895d0>
+2026-06-04 00:08:27,677 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x1e8b79f5e60 at 1e8e3b887d0>)
+2026-06-04 00:08:27,677 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectTokens) ptr=0x1e8e3daba50 at 1e8e3888a50>
+2026-06-04 00:08:27,677 - comtypes.client._managing - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x1e8b79f5e60 at 1e8e3b887d0>)
+2026-06-04 00:08:27,677 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x1e8b79f5ef0 at 1e8e3b88850>)
+2026-06-04 00:08:27,678 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2026-06-04 00:08:27,678 - comtypes.client._managing - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x1e8b79f5ef0 at 1e8e3b88850>)
+2026-06-04 00:08:27,678 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2026-06-04 00:08:27,678 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2026-06-04 00:08:27,678 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e36a9970 at 1e8e3b88550>
+2026-06-04 00:08:27,679 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2026-06-04 00:08:27,679 - comtypes.client._managing - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2026-06-04 00:08:27,679 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e36a9970 at 1e8e3b889d0>
+2026-06-04 00:08:27,679 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8b79f5e60 at 1e8e3b883d0>
+2026-06-04 00:08:27,679 - comtypes.client._managing - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2026-06-04 00:08:27,679 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8b79f5ef0 at 1e8e3b88450>
+2026-06-04 00:08:27,679 - comtypes.client._generate - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2026-06-04 00:08:27,680 - comtypes.client._generate - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2026-06-04 00:08:27,680 - comtypes.client._managing - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2026-06-04 00:08:27,680 - comtypes.client._managing - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2026-06-04 00:08:27,680 - comtypes.client._managing - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x1e8b79f5e60 at 1e8e3b88550>
+2026-06-04 00:08:27,680 - comtypes.client._managing - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x1e8b79f5ef0 at 1e8e3b889d0>
+2026-06-04 00:08:27,680 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f5e60 at 1e8e3b88350>
+2026-06-04 00:08:27,680 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f5ef0 at 1e8e3b88050>
+2026-06-04 00:08:27,680 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1e8e36a9970 at 1e8e3b881d0>
+2026-06-04 00:08:27,682 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1e8e36a9970 at 1e8e3b88750>
+2026-06-04 00:08:27,682 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeLib) ptr=0x1e8e35f1b60 at 1e8e3b883d0>
+2026-06-04 00:08:27,682 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeLib) ptr=0x1e8e35f1b60 at 1e8e3b88450>
+2026-06-04 00:08:27,682 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f5e60 at 1e8e3b887d0>
+2026-06-04 00:08:27,682 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f5ef0 at 1e8e3b88850>
+2026-06-04 00:08:27,682 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x1e8b79f6760 at 1e8e3b887d0>)
+2026-06-04 00:08:27,682 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x1e8b79f6d00 at 1e8e3b88a50>)
+2026-06-04 00:08:27,682 - comtypes.client._managing - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x1e8b79f6760 at 1e8e3b887d0>)
+2026-06-04 00:08:27,682 - comtypes.client._managing - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x1e8b79f6d00 at 1e8e3b88a50>)
+2026-06-04 00:08:27,683 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2026-06-04 00:08:27,683 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2026-06-04 00:08:27,683 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2026-06-04 00:08:27,684 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2026-06-04 00:08:27,684 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e36a9970 at 1e8e3b881d0>
+2026-06-04 00:08:27,684 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e36a9970 at 1e8e3b88ad0>
+2026-06-04 00:08:27,684 - comtypes.client._managing - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2026-06-04 00:08:27,684 - comtypes.client._managing - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2026-06-04 00:08:27,684 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8b79f6760 at 1e8e3b88650>
+2026-06-04 00:08:27,684 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8b79f6d00 at 1e8e3b882d0>
+2026-06-04 00:08:27,685 - comtypes.client._generate - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2026-06-04 00:08:27,685 - comtypes.client._generate - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2026-06-04 00:08:27,685 - comtypes.client._managing - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2026-06-04 00:08:27,685 - comtypes.client._managing - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2026-06-04 00:08:27,685 - comtypes.client._managing - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x1e8b79f6d00 at 1e8e3b881d0>
+2026-06-04 00:08:27,685 - comtypes.client._managing - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x1e8b79f6760 at 1e8e3b88cd0>
+2026-06-04 00:08:27,685 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f6d00 at 1e8e3b88150>
+2026-06-04 00:08:27,685 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f6760 at 1e8e3b88050>
+2026-06-04 00:08:27,685 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1e8e36a9970 at 1e8e3b88b50>
+2026-06-04 00:08:27,685 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1e8e36a9970 at 1e8e3b88350>
+2026-06-04 00:08:27,685 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeLib) ptr=0x1e8e35f1b60 at 1e8e3b882d0>
+2026-06-04 00:08:27,685 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeLib) ptr=0x1e8e35f1b60 at 1e8e3b88650>
+2026-06-04 00:08:27,686 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f6d00 at 1e8e3b88a50>
+2026-06-04 00:08:27,686 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f6760 at 1e8e3b887d0>
+2026-06-04 00:08:27,686 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1e8b79f5ef0 at 1e8e3b889d0>
+2026-06-04 00:08:27,686 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1e8b79f5e60 at 1e8e3b88550>
+2026-06-04 00:08:27,686 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IEnumVARIANT) ptr=0x1e8e3db9900 at 1e8e38891d0>
+2026-06-04 00:08:27,686 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IEnumVARIANT) ptr=0x1e8e3db9950 at 1e8e3889450>
+2026-06-04 00:08:27,687 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1e8b79f6760 at 1e8e3b88cd0>
+2026-06-04 00:08:27,687 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1e8b79f6d00 at 1e8e3b881d0>
+2026-06-04 00:08:27,687 - voice.tts_engines.pyttsx3_engine - INFO - Available voices: 2 found
+2026-06-04 00:08:27,687 - __main__ - INFO - Calling engine.runAndWait()
+2026-06-04 00:08:27,687 - voice.tts_engines.pyttsx3_engine - INFO -   Voice 0: Microsoft David Desktop - English (United States)
+2026-06-04 00:08:27,687 - voice.tts_engines.pyttsx3_engine - INFO - Found target voice: Microsoft David Desktop - English (United States)
+2026-06-04 00:08:27,687 - voice.tts_engines.pyttsx3_engine - INFO - pyttsx3 TTS initialized successfully!
+2026-06-04 00:08:27,687 - voice.tts_engines.engine_selector - INFO - Using TTS engine: pyttsx3
+2026-06-04 00:08:27,687 - voice.tts_engines.pyttsx3_engine - INFO - Set TTS speed to 150 WPM (scale: 1.0)
+2026-06-04 00:08:27,688 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(ISpeechObjectTokens) ptr=0x1e8e3dab9d0 at 1e8e38892d0>)
+2026-06-04 00:08:27,688 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e3db9310 at 1e8d8498bd0>
+2026-06-04 00:08:27,688 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x1e8b79f5e60 at 1e8e38891d0>)
+2026-06-04 00:08:27,688 - comtypes.client._managing - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x1e8b79f5e60 at 1e8e38891d0>)
+2026-06-04 00:08:27,688 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2026-06-04 00:08:27,688 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2026-06-04 00:08:27,688 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e36a9970 at 1e8e3b88850>
+2026-06-04 00:08:27,688 - comtypes.client._managing - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2026-06-04 00:08:27,690 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8b79f5e60 at 1e8e3b88650>
+2026-06-04 00:08:27,690 - comtypes.client._generate - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2026-06-04 00:08:27,690 - comtypes.client._managing - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2026-06-04 00:08:27,690 - comtypes.client._managing - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x1e8b79f5e60 at 1e8e3b88850>
+2026-06-04 00:08:27,690 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f5e60 at 1e8e3b88450>
+2026-06-04 00:08:27,691 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1e8e36a9970 at 1e8e3b887d0>
+2026-06-04 00:08:27,691 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeLib) ptr=0x1e8e35f1b60 at 1e8e3b88650>
+2026-06-04 00:08:27,691 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b79f5e60 at 1e8e38891d0>
+2026-06-04 00:08:27,691 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IEnumVARIANT) ptr=0x1e8e3db9310 at 1e8e38895d0>
+2026-06-04 00:08:27,691 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectTokens) ptr=0x1e8e3dab9d0 at 1e8e38892d0>
+2026-06-04 00:08:27,691 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1e8b79f5e60 at 1e8e3b88850>
+2026-06-04 00:08:27,691 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(ISpeechObjectToken) ptr=0x1e8b3b60f80 at 1e8d8498bd0>)
+2026-06-04 00:08:27,691 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1e8b3b60f80 at 1e8d8498bd0>
+2026-06-04 00:08:27,831 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:27,831 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:27,831 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:27,831 - comtypes.client._managing - DEBUG - wrap_outparam(<POINTER(IDispatch) ptr=0x1e8b3b60050 at 1e8e3b88850>)
+2026-06-04 00:08:27,831 - comtypes.client._managing - DEBUG - GetBestInterface(<POINTER(IDispatch) ptr=0x1e8b3b60050 at 1e8e3b88850>)
+2026-06-04 00:08:27,833 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo, trying IProvideClassInfo2
+2026-06-04 00:08:27,833 - comtypes.client._managing - DEBUG - Does NOT implement IProvideClassInfo/IProvideClassInfo2
+2026-06-04 00:08:27,833 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8e36a9970 at 1e8e3b88dd0>
+2026-06-04 00:08:27,833 - comtypes.client._managing - DEBUG - Default interface is {C74A3ADC-B727-4500-A84A-B526721C8B8C}
+2026-06-04 00:08:27,833 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IUnknown) ptr=0x1e8b3b60050 at 1e8e3b88fd0>
+2026-06-04 00:08:27,833 - comtypes.client._generate - DEBUG - GetModule(TLIBATTR(GUID={C866CA3A-32F7-11D2-9602-00C04F8EE628}, Version=5.4, LCID=0, FLags=0x8))
+2026-06-04 00:08:27,833 - comtypes.client._managing - DEBUG - Implements default interface from typeinfo <class 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.ISpeechObjectToken'>
+2026-06-04 00:08:27,834 - comtypes.client._managing - DEBUG - Final result is <POINTER(ISpeechObjectToken) ptr=0x1e8b3b60050 at 1e8e3b88dd0>
+2026-06-04 00:08:27,834 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b3b60050 at 1e8e3b88d50>
+2026-06-04 00:08:27,834 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeInfo) ptr=0x1e8e36a9970 at 1e8e3b88ad0>
+2026-06-04 00:08:27,834 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ITypeLib) ptr=0x1e8e35f1b60 at 1e8e3b88fd0>
+2026-06-04 00:08:27,834 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IDispatch) ptr=0x1e8b3b60050 at 1e8e3b88850>
+2026-06-04 00:08:27,834 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_VoiceChange called
+2026-06-04 00:08:27,835 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechObjectToken) ptr=0x1e8b3b60050 at 1e8e3b88dd0>
+2026-06-04 00:08:27,835 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:27,835 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:27,835 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Sentence called
+2026-06-04 00:08:27,835 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:27,835 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:27,835 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:27,835 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:27,835 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:27,835 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:27,835 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:27,936 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:27,936 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:27,936 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:27,936 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:27,936 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:27,936 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:27,936 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:27,936 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:27,987 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:27,987 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:27,987 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,038 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,038 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:28,038 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,038 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,038 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:28,038 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,139 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,139 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:28,139 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,139 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,139 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:28,139 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,190 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,190 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:28,190 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,190 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,190 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:28,190 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,241 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,241 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:28,241 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,241 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,241 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:28,241 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,292 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,292 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:28,292 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,292 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,292 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:28,292 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,393 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,393 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,393 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,393 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:28,393 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,393 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,393 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:28,393 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,494 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,494 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:28,494 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,494 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,494 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:28,494 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,595 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,595 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:28,595 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,595 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,595 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:28,595 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,646 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,646 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:28,646 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,646 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,646 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:28,646 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,747 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,747 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:28,747 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,798 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,798 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:28,798 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,798 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,798 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:28,798 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,950 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,950 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:28,950 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:28,950 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:28,950 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:28,950 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:29,705 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:29,705 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Sentence called
+2026-06-04 00:08:29,705 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:29,705 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:29,706 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:29,706 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:29,706 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:29,706 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:29,706 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:29,807 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:29,807 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:29,807 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:29,807 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:29,807 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:29,807 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:29,807 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:29,807 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:29,908 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:29,908 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:29,908 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:29,908 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:29,908 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:29,908 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,014 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,014 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,014 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,014 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,014 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,014 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,014 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,014 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,116 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,116 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,116 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,116 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,116 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,116 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,218 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,218 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,218 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,218 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,218 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,218 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,319 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,319 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,319 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,319 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,319 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,319 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,319 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,319 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,319 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,319 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,320 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,320 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,370 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,370 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,370 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,370 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,370 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,370 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,471 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,471 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,471 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,471 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,471 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,471 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,522 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,522 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,522 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,522 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,523 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,523 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,523 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,523 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,624 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,624 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,624 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,624 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,624 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,624 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,675 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,675 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,675 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,675 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,675 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,675 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,726 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,726 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,726 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,726 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,726 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,726 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,827 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,827 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,827 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,827 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,828 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,828 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,878 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,878 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,878 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,878 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,879 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,879 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,979 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,979 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:30,979 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,979 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,979 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,979 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:30,979 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:30,979 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:30,979 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,082 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,082 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:31,082 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,082 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,082 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:31,082 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,133 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,133 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:31,133 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,133 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,133 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:31,133 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,183 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,183 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,183 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,183 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:31,184 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,184 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,184 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:31,184 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,335 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,335 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:31,335 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,335 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,335 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:31,335 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,386 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,386 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,386 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,386 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:31,386 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,386 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,386 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:31,386 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,437 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,437 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:31,437 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,437 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,437 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:31,437 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,538 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,538 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:31,538 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,538 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,538 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:31,538 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,589 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,589 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:31,589 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,589 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,589 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:31,589 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,792 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,792 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Phoneme called
+2026-06-04 00:08:31,792 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:31,792 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:31,792 - comtypes._vtbl - DEBUG - unimplemented method _ISpeechVoiceEvents_Viseme called
+2026-06-04 00:08:31,792 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:32,494 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.AddRef() -> 2
+2026-06-04 00:08:32,494 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 1
+2026-06-04 00:08:32,545 - __main__ - INFO - TTS FINISHED SPEAKING (SUCCESS!)
+2026-06-04 00:08:32,573 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(ISpeechVoice) ptr=0x1e8b3b2bde0 at 1e8e3b42050>
+2026-06-04 00:08:32,573 - comtypes._comobject - DEBUG - <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>.Release() -> 0
+2026-06-04 00:08:32,573 - comtypes._comobject - DEBUG - 1 active COM objects: Removed <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38D1B20>
+2026-06-04 00:08:32,573 - comtypes._comobject - DEBUG - Remaining: [<comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001E8E38E91F0>]
+2026-06-04 00:08:32,575 - comtypes._post_coinit.unknwn - DEBUG - Release <POINTER(IConnectionPoint) ptr=0x1e8b3b2bde8 at 1e8e3888bd0>
+2026-06-04 09:45:15,109 - __main__ - INFO - ======================================================================
+2026-06-04 09:45:15,484 - __main__ - INFO - JARVIS AI Operating System - Persistent Runtime Starting
+2026-06-04 09:45:15,484 - __main__ - INFO - ======================================================================
+2026-06-04 18:23:52,120 - __main__ - INFO - ======================================================================
+2026-06-04 18:23:52,129 - __main__ - INFO - JARVIS AI Operating System - Persistent Runtime Starting
+2026-06-04 18:23:52,129 - __main__ - INFO - ======================================================================
+2026-06-04 19:22:06,218 - __main__ - INFO - ======================================================================
+2026-06-04 19:22:07,014 - __main__ - INFO - JARVIS AI Operating System - Persistent Runtime Starting
+2026-06-04 19:22:07,014 - __main__ - INFO - ======================================================================
+2026-06-04 21:09:35,353 - __main__ - INFO - ======================================================================
+2026-06-04 21:09:35,415 - __main__ - INFO - JARVIS AI Operating System - Persistent Runtime Starting
+2026-06-04 21:09:35,416 - __main__ - INFO - ======================================================================
+2026-06-04 22:29:44,084 - __main__ - INFO - ======================================================================
+2026-06-04 22:29:44,094 - __main__ - INFO - JARVIS AI Operating System - Persistent Runtime Starting
+2026-06-04 22:29:44,094 - __main__ - INFO - ======================================================================

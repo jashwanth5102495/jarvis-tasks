@@ -1,0 +1,226 @@
+{
+  "nodes": [
+    {
+      "node_id": "c3d3be2f-3f99-4b8f-be48-250bd2586f50",
+      "node_type": "desktop",
+      "name": "Test Desktop",
+      "status": "online",
+      "capabilities": [
+        "computer_control",
+        "coding",
+        "browser"
+      ],
+      "last_seen": "2026-06-02T13:44:17.817862",
+      "ip_address": "192.168.1.100",
+      "metadata": {}
+    },
+    {
+      "node_id": "4ea22df5-cc80-43a6-8590-65ed1538debf",
+      "node_type": "mobile",
+      "name": "Test Mobile",
+      "status": "online",
+      "capabilities": [
+        "lightweight",
+        "voice"
+      ],
+      "last_seen": "2026-06-02T13:44:17.817862",
+      "ip_address": "192.168.1.101",
+      "metadata": {}
+    },
+    {
+      "node_id": "9e4dd71b-25ce-4e2f-b744-3b8f359d1eb1",
+      "node_type": "desktop",
+      "name": "Test Node",
+      "status": "online",
+      "capabilities": [
+        "computer_control",
+        "coding",
+        "browser",
+        "voice"
+      ],
+      "last_seen": "2026-06-02T13:44:18.034467",
+      "ip_address": null,
+      "metadata": {}
+    },
+    {
+      "node_id": "52896ac2-333a-4c74-8bd8-493a6aabc338",
+      "node_type": "desktop",
+      "name": "Test Desktop",
+      "status": "online",
+      "capabilities": [
+        "computer_control",
+        "coding",
+        "browser"
+      ],
+      "last_seen": "2026-06-02T13:44:47.024116",
+      "ip_address": "192.168.1.100",
+      "metadata": {}
+    },
+    {
+      "node_id": "c0100c5a-fb07-4dee-8ac7-252c1af9b811",
+      "node_type": "mobile",
+      "name": "Test Mobile",
+      "status": "online",
+      "capabilities": [
+        "lightweight",
+        "voice"
+      ],
+      "last_seen": "2026-06-02T13:44:47.025116",
+      "ip_address": "192.168.1.101",
+      "metadata": {}
+    },
+    {
+      "node_id": "a85717f6-c39a-4fdd-9b71-077392752fb2",
+      "node_type": "desktop",
+      "name": "Test Node",
+      "status": "online",
+      "capabilities": [
+        "computer_control",
+        "coding",
+        "browser",
+        "voice"
+      ],
+      "last_seen": "2026-06-02T13:44:47.245092",
+      "ip_address": null,
+      "metadata": {}
+    },
+    {
+      "node_id": "abde5ba9-ee9c-4873-8547-ba2a1a8fcb95",
+      "node_type": "desktop",
+      "name": "Test Desktop",
+      "status": "online",
+      "capabilities": [
+        "computer_control",
+        "coding",
+        "browser"
+      ],
+      "last_seen": "2026-06-02T13:52:07.343711",
+      "ip_address": "192.168.1.100",
+      "metadata": {}
+    },
+    {
+      "node_id": "326a07db-2e5f-4ea0-91e6-c8363c3714d6",
+      "node_type": "mobile",
+      "name": "Test Mobile",
+      "status": "online",
+      "capabilities": [
+        "lightweight",
+        "voice"
+      ],
+      "last_seen": "2026-06-02T13:52:07.344712",
+      "ip_address": "192.168.1.101",
+      "metadata": {}
+    },
+    {
+      "node_id": "7db58ea2-fea0-4570-8c66-ea992209d1e4",
+      "node_type": "desktop",
+      "name": "Test Node",
+      "status": "online",
+      "capabilities": [
+        "computer_control",
+        "coding",
+        "browser",
+        "voice"
+      ],
+      "last_seen": "2026-06-02T13:52:07.635836",
+      "ip_address": null,
+      "metadata": {}
+    },
+    {
+      "node_id": "71e928cd-5c5d-4f53-afcf-ae17973ef4ad",
+      "node_type": "desktop",
+      "name": "Test Desktop",
+      "status": "online",
+      "capabilities": [
+        "computer_control",
+        "coding",
+        "browser"
+      ],
+      "last_seen": "2026-06-02T14:02:40.635636",
+      "ip_address": "192.168.1.100",
+      "metadata": {}
+    },
+    {
+      "node_id": "21ae66c6-54cb-480e-9e63-298c2c706913",
+      "node_type": "mobile",
+      "name": "Test Mobile",
+      "status": "online",
+      "capabilities": [
+        "lightweight",
+        "voice"
+      ],
+      "last_seen": "2026-06-02T14:02:40.636637",
+      "ip_address": "192.168.1.101",
+      "metadata": {}
+    },
+    {
+      "node_id": "fcd6aebd-cb53-46f8-b17a-ae25ad7ec07a",
+      "node_type": "desktop",
+      "name": "Test Node",
+      "status": "online",
+      "capabilities": [
+        "computer_control",
+        "coding",
+        "browser",
+        "voice"
+      ],
+      "last_seen": "2026-06-02T14:02:40.889589",
+      "ip_address": null,
+      "metadata": {}
+    },
+    {
+      "node_id": "b9cb3284-eae4-4961-bb06-aa32e2d9f823",
+      "node_type": "desktop",
+      "name": "Test Desktop",
+      "status": "online",
+      "capabilities": [
+        "computer_control",
+        "coding",
+        "browser"
+      ],
+      "last_seen": "2026-06-02T14:17:01.290080",
+      "ip_address": "192.168.1.100",
+      "metadata": {}
+    },
+    {
+      "node_id": "92a17f10-2c37-4b30-af93-43ef8448065a",
+      "node_type": "mobile",
+      "name": "Test Mobile",
+      "status": "online",
+      "capabilities": [
+        "lightweight",
+        "voice"
+      ],
+      "last_seen": "2026-06-02T14:17:01.291080",
+      "ip_address": "192.168.1.101",
+      "metadata": {}
+    },
+    {
+      "node_id": "eb0c74ab-71d0-453f-afe2-5830aec8e28d",
+      "node_type": "desktop",
+      "name": "Test Node",
+      "status": "online",
+      "capabilities": [
+        "computer_control",
+        "coding",
+        "browser",
+        "voice"
+      ],
+      "last_seen": "2026-06-02T14:17:01.530387",
+      "ip_address": null,
+      "metadata": {}
+    },
+    {
+      "node_id": "f5aedb99-a8a4-4d65-b02e-97a9cad70c2d",
+      "node_type": "desktop",
+      "name": "Test",
+      "status": "online",
+      "capabilities": [
+        "a"
+      ],
+      "last_seen": "2026-06-02T14:19:26.589174",
+      "ip_address": "1.2.3.4",
+      "metadata": {}
+    }
+  ]
+}

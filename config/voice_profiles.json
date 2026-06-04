@@ -1,0 +1,30 @@
+{
+    "jarvis_classic": {
+        "engine": "piper",
+        "voice": "en_GB-alan-medium",
+        "speed": 1.0,
+        "volume": 1.0,
+        "tone": "calm"
+    },
+    "professional": {
+        "engine": "piper",
+        "voice": "en_US-lessac-medium",
+        "speed": 1.0,
+        "volume": 1.0,
+        "tone": "professional"
+    },
+    "friendly": {
+        "engine": "piper",
+        "voice": "en_US-amy-medium",
+        "speed": 1.0,
+        "volume": 1.0,
+        "tone": "friendly"
+    },
+    "technical": {
+        "engine": "piper",
+        "voice": "en_US-ryan-high",
+        "speed": 1.1,
+        "volume": 1.0,
+        "tone": "technical"
+    }
+}

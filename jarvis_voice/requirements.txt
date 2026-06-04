@@ -1,0 +1,6 @@
+
+pvporcupine
+faster-whisper
+pyaudio
+numpy
+requests

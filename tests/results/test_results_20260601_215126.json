@@ -1,0 +1,487 @@
+{
+  "timestamp": "2026-06-01T21:51:26.666231",
+  "total": 10,
+  "passed": 10,
+  "failed": 0,
+  "results": [
+    {
+      "index": 1,
+      "input": "Create brochure",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 89.6,
+      "requirements": [
+        "brochure"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.42,
+      "error": null,
+      "tags": [
+        "design",
+        "core"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "89.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "89.6%",
+          "detail": ""
+        },
+        {
+          "name": "req:brochure",
+          "passed": true,
+          "expected": "\"brochure\" in requirements",
+          "actual": "['brochure']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "input": "Create poster",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 89.6,
+      "requirements": [
+        "poster"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.2,
+      "error": null,
+      "tags": [
+        "design",
+        "core"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "89.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "89.6%",
+          "detail": ""
+        },
+        {
+          "name": "req:poster",
+          "passed": true,
+          "expected": "\"poster\" in requirements",
+          "actual": "['poster']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "input": "Make futuristic logo",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 94.2,
+      "requirements": [
+        "futuristic",
+        "logo"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.23,
+      "error": null,
+      "tags": [
+        "design",
+        "synonym"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "94.2%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "94.2%",
+          "detail": ""
+        },
+        {
+          "name": "req:logo",
+          "passed": true,
+          "expected": "\"logo\" in requirements",
+          "actual": "['futuristic', 'logo']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "input": "Create premium AI course poster with modern design",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 95.0,
+      "requirements": [
+        "modern design",
+        "poster",
+        "premium AI course"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.3,
+      "error": null,
+      "tags": [
+        "design",
+        "phrase",
+        "requirements"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "req:poster",
+          "passed": true,
+          "expected": "\"poster\" in requirements",
+          "actual": "['modern design', 'poster', 'premium AI course']",
+          "detail": ""
+        },
+        {
+          "name": "req:premium ai course",
+          "passed": true,
+          "expected": "\"premium ai course\" in requirements",
+          "actual": "['modern design', 'poster', 'premium AI course']",
+          "detail": ""
+        },
+        {
+          "name": "req:modern design",
+          "passed": true,
+          "expected": "\"modern design\" in requirements",
+          "actual": "['modern design', 'poster', 'premium AI course']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "input": "Design a company banner",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 95.0,
+      "requirements": [
+        "company banner",
+        "design"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.26,
+      "error": null,
+      "tags": [
+        "design",
+        "core"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "req:banner",
+          "passed": true,
+          "expected": "\"banner\" in requirements",
+          "actual": "['company banner', 'design']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "input": "Build a cybersecurity banner",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 95.0,
+      "requirements": [
+        "cybersecurity banner"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.27,
+      "error": null,
+      "tags": [
+        "design",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "req:cybersecurity banner",
+          "passed": true,
+          "expected": "\"cybersecurity banner\" in requirements",
+          "actual": "['cybersecurity banner']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "input": "Make a marketing flyer",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 94.7,
+      "requirements": [
+        "flyer"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.33,
+      "error": null,
+      "tags": [
+        "design",
+        "synonym"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "94.7%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "94.7%",
+          "detail": ""
+        },
+        {
+          "name": "req:flyer",
+          "passed": true,
+          "expected": "\"flyer\" in requirements",
+          "actual": "['flyer']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "input": "Generate a brand identity",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 94.2,
+      "requirements": [
+        "brand identity"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.24,
+      "error": null,
+      "tags": [
+        "design",
+        "synonym"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 60%",
+          "actual": "94.2%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "94.2%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "input": "Design a modern infographic",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 95.0,
+      "requirements": [
+        "design",
+        "infographic",
+        "modern"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.25,
+      "error": null,
+      "tags": [
+        "design"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "input": "Create a social media post",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 94.2,
+      "requirements": [
+        "social media post"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.25,
+      "error": null,
+      "tags": [
+        "design",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 60%",
+          "actual": "94.2%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "94.2%",
+          "detail": ""
+        }
+      ]
+    }
+  ]
+}

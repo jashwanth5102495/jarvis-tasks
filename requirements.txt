@@ -1,4 +1,29 @@
-
 fastapi
 uvicorn
-pydantic
+# Core
+pymongo==4.6.1
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+requests>=2.31.0
+
+# Console UI
+rich>=13.0.0
+
+# Computer Control (Milestone 4)
+pyautogui==0.9.54
+Pillow>=10.0.0
+opencv-python>=4.9.0
+psutil>=6.0.0
+
+# Runtime System (Milestone 11)
+keyboard>=0.13.5
+pystray>=0.19.5
+PyQt6>=6.6.0
+
+# Text-to-Speech (Milestone 12)
+pyttsx3>=2.90
+piper-tts>=1.2.0
+sounddevice>=0.4.6
+numpy>=1.24.0
+

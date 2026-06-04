@@ -1,0 +1,455 @@
+{
+  "last_sync": "2026-06-02T14:17:01.521345",
+  "sync_history": [
+    {
+      "sync_id": "push_20260602134417",
+      "operation_type": "push",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:17.848198",
+      "completed_at": "2026-06-02T13:44:17.849200",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602134417",
+      "operation_type": "pull",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:17.856723",
+      "completed_at": "2026-06-02T13:44:17.863782",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602134417",
+      "operation_type": "pull",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:17.872306",
+      "completed_at": "2026-06-02T13:44:17.879830",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602134417",
+      "operation_type": "push",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:17.886337",
+      "completed_at": "2026-06-02T13:44:17.895078",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602134417",
+      "operation_type": "pull",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:17.912205",
+      "completed_at": "2026-06-02T13:44:17.920251",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602134417",
+      "operation_type": "push",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:17.936844",
+      "completed_at": "2026-06-02T13:44:17.944536",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602134417",
+      "operation_type": "pull",
+      "data_type": "workflows",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:17.953567",
+      "completed_at": "2026-06-02T13:44:17.961593",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602134417",
+      "operation_type": "push",
+      "data_type": "workflows",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:17.969527",
+      "completed_at": "2026-06-02T13:44:17.977547",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602134417",
+      "operation_type": "pull",
+      "data_type": "execution_history",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:17.986125",
+      "completed_at": "2026-06-02T13:44:17.994211",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602134418",
+      "operation_type": "push",
+      "data_type": "execution_history",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:18.015851",
+      "completed_at": "2026-06-02T13:44:18.025906",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602134447",
+      "operation_type": "push",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:47.059679",
+      "completed_at": "2026-06-02T13:44:47.060181",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602134447",
+      "operation_type": "pull",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:47.069208",
+      "completed_at": "2026-06-02T13:44:47.076729",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602134447",
+      "operation_type": "pull",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:47.085278",
+      "completed_at": "2026-06-02T13:44:47.093753",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602134447",
+      "operation_type": "push",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:47.102373",
+      "completed_at": "2026-06-02T13:44:47.123833",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602134447",
+      "operation_type": "pull",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:47.131871",
+      "completed_at": "2026-06-02T13:44:47.140401",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602134447",
+      "operation_type": "push",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:47.149439",
+      "completed_at": "2026-06-02T13:44:47.159209",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602134447",
+      "operation_type": "pull",
+      "data_type": "workflows",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:47.171114",
+      "completed_at": "2026-06-02T13:44:47.183164",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602134447",
+      "operation_type": "push",
+      "data_type": "workflows",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:47.192388",
+      "completed_at": "2026-06-02T13:44:47.201588",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602134447",
+      "operation_type": "pull",
+      "data_type": "execution_history",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:47.210615",
+      "completed_at": "2026-06-02T13:44:47.219204",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602134447",
+      "operation_type": "push",
+      "data_type": "execution_history",
+      "status": "completed",
+      "started_at": "2026-06-02T13:44:47.228236",
+      "completed_at": "2026-06-02T13:44:47.236497",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602135207",
+      "operation_type": "push",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T13:52:07.396181",
+      "completed_at": "2026-06-02T13:52:07.397735",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602135207",
+      "operation_type": "pull",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T13:52:07.407208",
+      "completed_at": "2026-06-02T13:52:07.414793",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602135207",
+      "operation_type": "pull",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T13:52:07.423832",
+      "completed_at": "2026-06-02T13:52:07.431901",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602135207",
+      "operation_type": "push",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T13:52:07.440915",
+      "completed_at": "2026-06-02T13:52:07.449032",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602135207",
+      "operation_type": "pull",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T13:52:07.458603",
+      "completed_at": "2026-06-02T13:52:07.482820",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602135207",
+      "operation_type": "push",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T13:52:07.491853",
+      "completed_at": "2026-06-02T13:52:07.501396",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602135207",
+      "operation_type": "pull",
+      "data_type": "workflows",
+      "status": "completed",
+      "started_at": "2026-06-02T13:52:07.510456",
+      "completed_at": "2026-06-02T13:52:07.518486",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602135207",
+      "operation_type": "push",
+      "data_type": "workflows",
+      "status": "completed",
+      "started_at": "2026-06-02T13:52:07.527004",
+      "completed_at": "2026-06-02T13:52:07.536029",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602135207",
+      "operation_type": "pull",
+      "data_type": "execution_history",
+      "status": "completed",
+      "started_at": "2026-06-02T13:52:07.545081",
+      "completed_at": "2026-06-02T13:52:07.553607",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602135207",
+      "operation_type": "push",
+      "data_type": "execution_history",
+      "status": "completed",
+      "started_at": "2026-06-02T13:52:07.561684",
+      "completed_at": "2026-06-02T13:52:07.627331",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602140240",
+      "operation_type": "push",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T14:02:40.677037",
+      "completed_at": "2026-06-02T14:02:40.677037",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602140240",
+      "operation_type": "pull",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T14:02:40.687594",
+      "completed_at": "2026-06-02T14:02:40.698696",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602140240",
+      "operation_type": "pull",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T14:02:40.708333",
+      "completed_at": "2026-06-02T14:02:40.718483",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602140240",
+      "operation_type": "push",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T14:02:40.746339",
+      "completed_at": "2026-06-02T14:02:40.756353",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602140240",
+      "operation_type": "pull",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T14:02:40.766375",
+      "completed_at": "2026-06-02T14:02:40.776847",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602140240",
+      "operation_type": "push",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T14:02:40.786228",
+      "completed_at": "2026-06-02T14:02:40.796745",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602140240",
+      "operation_type": "pull",
+      "data_type": "workflows",
+      "status": "completed",
+      "started_at": "2026-06-02T14:02:40.807185",
+      "completed_at": "2026-06-02T14:02:40.816445",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602140240",
+      "operation_type": "push",
+      "data_type": "workflows",
+      "status": "completed",
+      "started_at": "2026-06-02T14:02:40.827496",
+      "completed_at": "2026-06-02T14:02:40.836585",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602140240",
+      "operation_type": "pull",
+      "data_type": "execution_history",
+      "status": "completed",
+      "started_at": "2026-06-02T14:02:40.847113",
+      "completed_at": "2026-06-02T14:02:40.858317",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602140240",
+      "operation_type": "push",
+      "data_type": "execution_history",
+      "status": "completed",
+      "started_at": "2026-06-02T14:02:40.869430",
+      "completed_at": "2026-06-02T14:02:40.878441",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602141701",
+      "operation_type": "push",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T14:17:01.326311",
+      "completed_at": "2026-06-02T14:17:01.328311",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602141701",
+      "operation_type": "pull",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T14:17:01.337456",
+      "completed_at": "2026-06-02T14:17:01.348526",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602141701",
+      "operation_type": "pull",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T14:17:01.358057",
+      "completed_at": "2026-06-02T14:17:01.387232",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602141701",
+      "operation_type": "push",
+      "data_type": "projects",
+      "status": "completed",
+      "started_at": "2026-06-02T14:17:01.396363",
+      "completed_at": "2026-06-02T14:17:01.406390",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602141701",
+      "operation_type": "pull",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T14:17:01.416415",
+      "completed_at": "2026-06-02T14:17:01.425949",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602141701",
+      "operation_type": "push",
+      "data_type": "preferences",
+      "status": "completed",
+      "started_at": "2026-06-02T14:17:01.435143",
+      "completed_at": "2026-06-02T14:17:01.444160",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602141701",
+      "operation_type": "pull",
+      "data_type": "workflows",
+      "status": "completed",
+      "started_at": "2026-06-02T14:17:01.454232",
+      "completed_at": "2026-06-02T14:17:01.464258",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602141701",
+      "operation_type": "push",
+      "data_type": "workflows",
+      "status": "completed",
+      "started_at": "2026-06-02T14:17:01.473791",
+      "completed_at": "2026-06-02T14:17:01.483317",
+      "error": null
+    },
+    {
+      "sync_id": "pull_20260602141701",
+      "operation_type": "pull",
+      "data_type": "execution_history",
+      "status": "completed",
+      "started_at": "2026-06-02T14:17:01.491851",
+      "completed_at": "2026-06-02T14:17:01.501652",
+      "error": null
+    },
+    {
+      "sync_id": "push_20260602141701",
+      "operation_type": "push",
+      "data_type": "execution_history",
+      "status": "completed",
+      "started_at": "2026-06-02T14:17:01.511304",
+      "completed_at": "2026-06-02T14:17:01.521345",
+      "error": null
+    }
+  ]
+}
