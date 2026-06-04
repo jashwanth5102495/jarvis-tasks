@@ -1,0 +1,101 @@
+{
+  "tokens": [
+    {
+      "token_id": "5woGUob2NRDpKMt0Xbpz0NGYOlL-PmYh91O9w1CEn7o",
+      "node_id": "c3d3be2f-3f99-4b8f-be48-250bd2586f50",
+      "token_hash": "675f16c16d4ecd5ad28b188aaa6631f1e2edc2afd48f67cb8f71a9bf9eec4fe6",
+      "permissions": [
+        "execute",
+        "read"
+      ],
+      "created_at": "2026-06-02T13:44:17.833658",
+      "expires_at": "2026-07-02T13:44:17.833658"
+    },
+    {
+      "token_id": "mn5diaoji6e2cl0DQPu_qUPY_4sRUxSMSe3fdlA-GgA",
+      "node_id": "52896ac2-333a-4c74-8bd8-493a6aabc338",
+      "token_hash": "869510652e86b57e81b5a3e88a62c34e918595fe6d5e2f81fada7980bb4b300d",
+      "permissions": [
+        "execute",
+        "read"
+      ],
+      "created_at": "2026-06-02T13:44:47.043594",
+      "expires_at": "2026-07-02T13:44:47.043594"
+    },
+    {
+      "token_id": "JR7ukG3T6ypQMZzsrVzRlf7BufAPNfYWmolpygmWRuw",
+      "node_id": "abde5ba9-ee9c-4873-8547-ba2a1a8fcb95",
+      "token_hash": "5a7b5f357f39899744863d861fe71745b49d4b507a4a5bd9d5b117d46a5bdcb6",
+      "permissions": [
+        "execute",
+        "read"
+      ],
+      "created_at": "2026-06-02T13:52:07.364971",
+      "expires_at": "2026-07-02T13:52:07.364971"
+    },
+    {
+      "token_id": "oeur0LY7TrQ9riu5UHZTM2GLTEIuN3SpWejocTtGWgE",
+      "node_id": "71e928cd-5c5d-4f53-afcf-ae17973ef4ad",
+      "token_hash": "dadcee7b48ab1cbbb8ac6344486fdf841c55d76e9d09fe231f81552b05145c1b",
+      "permissions": [
+        "execute",
+        "read"
+      ],
+      "created_at": "2026-06-02T14:02:40.657749",
+      "expires_at": "2026-07-02T14:02:40.657749"
+    },
+    {
+      "token_id": "-PcrbqMTFxkEBGJ8vgLTIbo3-e9Qn-LquBLe1MCFjCc",
+      "node_id": "b9cb3284-eae4-4961-bb06-aa32e2d9f823",
+      "token_hash": "245cea00899401a251bbf3b00761b2a7c16f17d08ee10f748743a77d935c87e5",
+      "permissions": [
+        "execute",
+        "read"
+      ],
+      "created_at": "2026-06-02T14:17:01.308740",
+      "expires_at": "2026-07-02T14:17:01.308740"
+    }
+  ],
+  "pairings": [
+    {
+      "pairing_id": "CuHBVtXgkVpQRTdJYrzDjA",
+      "node_id": "c3d3be2f-3f99-4b8f-be48-250bd2586f50",
+      "pairing_code": "E4DF14",
+      "is_paired": true,
+      "created_at": "2026-06-02T13:44:17.825104",
+      "expires_at": "2026-06-02T13:54:17.825104"
+    },
+    {
+      "pairing_id": "FFE2O8IhIIA2gh-t4z1oDg",
+      "node_id": "52896ac2-333a-4c74-8bd8-493a6aabc338",
+      "pairing_code": "4F340E",
+      "is_paired": true,
+      "created_at": "2026-06-02T13:44:47.035391",
+      "expires_at": "2026-06-02T13:54:47.035391"
+    },
+    {
+      "pairing_id": "pyCTv9uSxxODB7DHDlIw1w",
+      "node_id": "abde5ba9-ee9c-4873-8547-ba2a1a8fcb95",
+      "pairing_code": "7AF4C2",
+      "is_paired": true,
+      "created_at": "2026-06-02T13:52:07.354773",
+      "expires_at": "2026-06-02T14:02:07.354773"
+    },
+    {
+      "pairing_id": "DY8xXDpJ5mSy7kwOCu2ZqA",
+      "node_id": "71e928cd-5c5d-4f53-afcf-ae17973ef4ad",
+      "pairing_code": "580633",
+      "is_paired": true,
+      "created_at": "2026-06-02T14:02:40.648688",
+      "expires_at": "2026-06-02T14:12:40.648688"
+    },
+    {
+      "pairing_id": "K9AynXycXEBdnIv1S1sSvg",
+      "node_id": "b9cb3284-eae4-4961-bb06-aa32e2d9f823",
+      "pairing_code": "4D5BD6",
+      "is_paired": true,
+      "created_at": "2026-06-02T14:17:01.299139",
+      "expires_at": "2026-06-02T14:27:01.299139"
+    }
+  ]
+}

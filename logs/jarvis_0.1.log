@@ -1,0 +1,1295 @@
+2026-06-01 19:56:26,009 - __main__ - INFO - Task received: Create a professional AI course poster
+2026-06-01 19:56:26,010 - core.brain - INFO - Analyzing task: Create a professional AI course poster
+2026-06-01 19:56:26,011 - core.brain - INFO - Goal generated: goal='Create a professional AI course poster' category='design' requirements=[] priority='normal'
+2026-06-01 19:56:26,012 - core.planner - INFO - Creating plan for goal: Create a professional AI course poster, category: design
+2026-06-01 19:56:26,012 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 19:56:26,027 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-01 19:56:26,321 - core.memory - INFO - Memory saved successfully with ID: 6a1d96921aeac9e846cea4ef
+2026-06-01 19:57:19,374 - __main__ - INFO - Task received: Create a professional AI course poster
+2026-06-01 19:57:19,374 - core.brain - INFO - Analyzing task: Create a professional AI course poster
+2026-06-01 19:57:19,375 - core.brain - INFO - Goal generated: goal='Create a professional AI course poster' category='design' requirements=[] priority='normal'
+2026-06-01 19:57:19,377 - core.planner - INFO - Creating plan for goal: Create a professional AI course poster, category: design
+2026-06-01 19:57:19,378 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 19:57:19,416 - core.memory - INFO - Memory saved successfully with ID: 6a1d96c71aeac9e846cea4f0
+2026-06-01 20:03:40,434 - __main__ - INFO - Task received: Create a professional AI course poster
+2026-06-01 20:03:40,434 - core.brain - INFO - Analyzing task: Create a professional AI course poster
+2026-06-01 20:03:40,435 - core.brain - INFO - Goal generated: goal='Create a professional AI course poster' category='design' requirements=[] priority='normal'
+2026-06-01 20:03:40,435 - core.planner - INFO - Creating plan for goal: Create a professional AI course poster, category: design
+2026-06-01 20:03:40,435 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:03:40,436 - core.memory - INFO - Memory saved successfully with ID: 6a1d98441aeac9e846cea4f1
+2026-06-01 20:04:47,013 - __main__ - INFO - Task received: Build an employee management system
+2026-06-01 20:04:47,013 - core.brain - INFO - Analyzing task: Build an employee management system
+2026-06-01 20:04:47,013 - core.brain - INFO - Goal generated: goal='Build an employee management system' category='general' requirements=[] priority='normal'
+2026-06-01 20:04:47,013 - core.planner - INFO - Creating plan for goal: Build an employee management system, category: general
+2026-06-01 20:04:47,013 - core.planner - INFO - Plan created with 4 steps
+2026-06-01 20:04:47,015 - core.memory - INFO - Memory saved successfully with ID: 6a1d98871aeac9e846cea4f2
+2026-06-01 20:06:51,530 - __main__ - INFO - Task received: Create a professional AI course poster
+2026-06-01 20:06:51,530 - core.brain - INFO - Analyzing task: Create a professional AI course poster
+2026-06-01 20:06:51,530 - core.brain - INFO - Goal generated: goal='Create a professional AI course poster' category='design' requirements=[] priority='normal'
+2026-06-01 20:06:51,530 - core.planner - INFO - Creating plan for goal: Create a professional AI course poster, category: design
+2026-06-01 20:06:51,531 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:06:51,533 - core.memory - INFO - Memory saved successfully with ID: 6a1d99031aeac9e846cea4f3
+2026-06-01 20:08:11,905 - core.memory - INFO - Preference saved successfully: I = prefer React projects
+2026-06-01 20:09:45,642 - __main__ - INFO - Task received: Create poster
+2026-06-01 20:09:45,642 - core.brain - INFO - Analyzing task: Create poster
+2026-06-01 20:09:45,643 - core.brain - INFO - Goal generated: goal='Create poster' category='design' requirements=[] priority='normal'
+2026-06-01 20:09:45,643 - core.planner - INFO - Creating plan for goal: Create poster, category: design
+2026-06-01 20:09:45,643 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:09:45,645 - core.memory - INFO - Memory saved successfully with ID: 6a1d99b11aeac9e846cea4f5
+2026-06-01 20:09:45,650 - __main__ - INFO - Task received: Build CRM
+2026-06-01 20:09:45,651 - core.brain - INFO - Analyzing task: Build CRM
+2026-06-01 20:09:45,653 - core.brain - INFO - Goal generated: goal='Build CRM' category='general' requirements=[] priority='normal'
+2026-06-01 20:09:45,654 - core.planner - INFO - Creating plan for goal: Build CRM, category: general
+2026-06-01 20:09:45,654 - core.planner - INFO - Plan created with 4 steps
+2026-06-01 20:09:45,655 - core.memory - INFO - Memory saved successfully with ID: 6a1d99b11aeac9e846cea4f6
+2026-06-01 20:09:45,658 - __main__ - INFO - Task received: Research AI models
+2026-06-01 20:09:45,658 - core.brain - INFO - Analyzing task: Research AI models
+2026-06-01 20:09:45,658 - core.brain - INFO - Goal generated: goal='Research AI models' category='research' requirements=[] priority='normal'
+2026-06-01 20:09:45,658 - core.planner - INFO - Creating plan for goal: Research AI models, category: research
+2026-06-01 20:09:45,660 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:09:45,661 - core.memory - INFO - Memory saved successfully with ID: 6a1d99b11aeac9e846cea4f7
+2026-06-01 20:09:50,528 - __main__ - INFO - Task received: Create marketing campaign
+2026-06-01 20:09:50,529 - core.brain - INFO - Analyzing task: Create marketing campaign
+2026-06-01 20:09:50,529 - core.brain - INFO - Goal generated: goal='Create marketing campaign' category='business' requirements=[] priority='normal'
+2026-06-01 20:09:50,529 - core.planner - INFO - Creating plan for goal: Create marketing campaign, category: business
+2026-06-01 20:09:50,540 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:09:50,541 - core.memory - INFO - Memory saved successfully with ID: 6a1d99b61aeac9e846cea4f8
+2026-06-01 20:10:02,443 - __main__ - INFO - Task received: asdfghjkl
+2026-06-01 20:10:02,444 - core.brain - INFO - Analyzing task: asdfghjkl
+2026-06-01 20:10:02,445 - core.brain - INFO - Goal generated: goal='asdfghjkl' category='general' requirements=[] priority='normal'
+2026-06-01 20:10:02,445 - core.planner - INFO - Creating plan for goal: asdfghjkl, category: general
+2026-06-01 20:10:02,445 - core.planner - INFO - Plan created with 4 steps
+2026-06-01 20:10:02,447 - core.memory - INFO - Memory saved successfully with ID: 6a1d99c21aeac9e846cea4f9
+2026-06-01 20:10:31,076 - __main__ - INFO - Task received: Build website
+2026-06-01 20:10:31,076 - core.brain - INFO - Analyzing task: Build website
+2026-06-01 20:10:31,076 - core.brain - INFO - Goal generated: goal='Build website' category='research' requirements=[] priority='normal'
+2026-06-01 20:10:31,076 - core.planner - INFO - Creating plan for goal: Build website, category: research
+2026-06-01 20:10:31,076 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:10:31,077 - core.memory - INFO - Memory saved successfully with ID: 6a1d99df1aeac9e846cea4fa
+2026-06-01 20:10:31,078 - __main__ - INFO - Task received: Create poster
+2026-06-01 20:10:31,078 - core.brain - INFO - Analyzing task: Create poster
+2026-06-01 20:10:31,079 - core.brain - INFO - Goal generated: goal='Create poster' category='design' requirements=[] priority='normal'
+2026-06-01 20:10:31,079 - core.planner - INFO - Creating plan for goal: Create poster, category: design
+2026-06-01 20:10:31,079 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:10:31,079 - core.memory - INFO - Memory saved successfully with ID: 6a1d99df1aeac9e846cea4fb
+2026-06-01 20:10:31,080 - __main__ - INFO - Task received: Create brochure
+2026-06-01 20:10:31,081 - core.brain - INFO - Analyzing task: Create brochure
+2026-06-01 20:10:31,081 - core.brain - INFO - Goal generated: goal='Create brochure' category='general' requirements=[] priority='normal'
+2026-06-01 20:10:31,081 - core.planner - INFO - Creating plan for goal: Create brochure, category: general
+2026-06-01 20:10:31,081 - core.planner - INFO - Plan created with 4 steps
+2026-06-01 20:10:31,082 - core.memory - INFO - Memory saved successfully with ID: 6a1d99df1aeac9e846cea4fc
+2026-06-01 20:10:31,083 - __main__ - INFO - Task received: Research AI
+2026-06-01 20:10:31,083 - core.brain - INFO - Analyzing task: Research AI
+2026-06-01 20:10:31,083 - core.brain - INFO - Goal generated: goal='Research AI' category='research' requirements=[] priority='normal'
+2026-06-01 20:10:31,083 - core.planner - INFO - Creating plan for goal: Research AI, category: research
+2026-06-01 20:10:31,083 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:10:31,083 - core.memory - INFO - Memory saved successfully with ID: 6a1d99df1aeac9e846cea4fd
+2026-06-01 20:10:31,085 - __main__ - INFO - Task received: Send proposal
+2026-06-01 20:10:31,086 - core.brain - INFO - Analyzing task: Send proposal
+2026-06-01 20:10:31,086 - core.brain - INFO - Goal generated: goal='Send proposal' category='general' requirements=[] priority='normal'
+2026-06-01 20:10:31,086 - core.planner - INFO - Creating plan for goal: Send proposal, category: general
+2026-06-01 20:10:31,086 - core.planner - INFO - Plan created with 4 steps
+2026-06-01 20:10:31,086 - core.memory - INFO - Memory saved successfully with ID: 6a1d99df1aeac9e846cea4fe
+2026-06-01 20:15:46,068 - __main__ - INFO - Task received: Build an employee management system
+2026-06-01 20:15:46,068 - core.brain - INFO - Analyzing task: Build an employee management system
+2026-06-01 20:15:46,068 - core.brain - INFO - Goal generated: goal='Build an employee management system' category='general' requirements=[] priority='normal'
+2026-06-01 20:15:46,068 - core.planner - INFO - Creating plan for goal: Build an employee management system, category: general
+2026-06-01 20:15:46,068 - core.planner - INFO - Plan created with 4 steps
+2026-06-01 20:15:46,070 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b1a1aeac9e846cea4ff
+2026-06-01 20:16:01,341 - __main__ - INFO - Task received: Build website
+2026-06-01 20:16:01,341 - core.brain - INFO - Analyzing task: Build website
+2026-06-01 20:16:01,342 - core.brain - INFO - Goal generated: goal='Build website' category='research' requirements=[] priority='normal'
+2026-06-01 20:16:01,342 - core.planner - INFO - Creating plan for goal: Build website, category: research
+2026-06-01 20:16:01,342 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:16:01,343 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b291aeac9e846cea500
+2026-06-01 20:16:08,928 - __main__ - INFO - Task received: Create CRM application
+2026-06-01 20:16:08,930 - core.brain - INFO - Analyzing task: Create CRM application
+2026-06-01 20:16:08,930 - core.brain - INFO - Goal generated: goal='Create CRM application' category='software_development' requirements=[] priority='normal'
+2026-06-01 20:16:08,930 - core.planner - INFO - Creating plan for goal: Create CRM application, category: software_development
+2026-06-01 20:16:08,930 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:16:08,932 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b301aeac9e846cea501
+2026-06-01 20:16:22,877 - __main__ - INFO - Task received: Develop inventory management system
+2026-06-01 20:16:22,878 - core.brain - INFO - Analyzing task: Develop inventory management system
+2026-06-01 20:16:22,878 - core.brain - INFO - Goal generated: goal='Develop inventory management system' category='software_development' requirements=[] priority='normal'
+2026-06-01 20:16:22,878 - core.planner - INFO - Creating plan for goal: Develop inventory management system, category: software_development
+2026-06-01 20:16:22,878 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:16:22,879 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b3e1aeac9e846cea502
+2026-06-01 20:16:49,041 - __main__ - INFO - Task received: Create brochure
+2026-06-01 20:16:49,041 - core.brain - INFO - Analyzing task: Create brochure
+2026-06-01 20:16:49,041 - core.brain - INFO - Goal generated: goal='Create brochure' category='general' requirements=[] priority='normal'
+2026-06-01 20:16:49,042 - core.planner - INFO - Creating plan for goal: Create brochure, category: general
+2026-06-01 20:16:49,042 - core.planner - INFO - Plan created with 4 steps
+2026-06-01 20:16:49,043 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b591aeac9e846cea503
+2026-06-01 20:16:58,908 - __main__ - INFO - Task received: Create a premium AI course poster
+2026-06-01 20:16:58,908 - core.brain - INFO - Analyzing task: Create a premium AI course poster
+2026-06-01 20:16:58,908 - core.brain - INFO - Goal generated: goal='Create a premium AI course poster' category='design' requirements=[] priority='normal'
+2026-06-01 20:16:58,908 - core.planner - INFO - Creating plan for goal: Create a premium AI course poster, category: design
+2026-06-01 20:16:58,908 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:16:58,910 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b621aeac9e846cea504
+2026-06-01 20:17:07,719 - __main__ - INFO - Task received: Send proposal to client
+2026-06-01 20:17:07,719 - core.brain - INFO - Analyzing task: Send proposal to client
+2026-06-01 20:17:07,719 - core.brain - INFO - Goal generated: goal='Send proposal to client' category='general' requirements=[] priority='normal'
+2026-06-01 20:17:07,719 - core.planner - INFO - Creating plan for goal: Send proposal to client, category: general
+2026-06-01 20:17:07,719 - core.planner - INFO - Plan created with 4 steps
+2026-06-01 20:17:07,721 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b6b1aeac9e846cea505
+2026-06-01 20:17:14,739 - __main__ - INFO - Task received: Research latest AI models
+2026-06-01 20:17:14,739 - core.brain - INFO - Analyzing task: Research latest AI models
+2026-06-01 20:17:14,739 - core.brain - INFO - Goal generated: goal='Research latest AI models' category='research' requirements=[] priority='normal'
+2026-06-01 20:17:14,739 - core.planner - INFO - Creating plan for goal: Research latest AI models, category: research
+2026-06-01 20:17:14,739 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:17:14,741 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b721aeac9e846cea506
+2026-06-01 20:17:21,712 - __main__ - INFO - Task received: Automate weekly report generation
+2026-06-01 20:17:21,712 - core.brain - INFO - Analyzing task: Automate weekly report generation
+2026-06-01 20:17:21,713 - core.brain - INFO - Goal generated: goal='Automate weekly report generation' category='automation' requirements=[] priority='normal'
+2026-06-01 20:17:21,713 - core.planner - INFO - Creating plan for goal: Automate weekly report generation, category: automation
+2026-06-01 20:17:21,713 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:17:21,714 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b791aeac9e846cea507
+2026-06-01 20:17:28,525 - __main__ - INFO - Task received: Schedule daily backup task
+2026-06-01 20:17:28,526 - core.brain - INFO - Analyzing task: Schedule daily backup task
+2026-06-01 20:17:28,526 - core.brain - INFO - Goal generated: goal='Schedule daily backup task' category='general' requirements=[] priority='normal'
+2026-06-01 20:17:28,526 - core.planner - INFO - Creating plan for goal: Schedule daily backup task, category: general
+2026-06-01 20:17:28,526 - core.planner - INFO - Plan created with 4 steps
+2026-06-01 20:17:28,527 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b801aeac9e846cea508
+2026-06-01 20:17:34,922 - __main__ - INFO - Task received: asdfghjkl
+2026-06-01 20:17:34,922 - core.brain - INFO - Analyzing task: asdfghjkl
+2026-06-01 20:17:34,922 - core.brain - INFO - Goal generated: goal='asdfghjkl' category='general' requirements=[] priority='normal'
+2026-06-01 20:17:34,922 - core.planner - INFO - Creating plan for goal: asdfghjkl, category: general
+2026-06-01 20:17:34,922 - core.planner - INFO - Plan created with 4 steps
+2026-06-01 20:17:34,923 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b861aeac9e846cea509
+2026-06-01 20:17:48,580 - __main__ - INFO - Task received: Create a premium AI course poster with modern design
+2026-06-01 20:17:48,581 - core.brain - INFO - Analyzing task: Create a premium AI course poster with modern design
+2026-06-01 20:17:48,581 - core.brain - INFO - Goal generated: goal='Create a premium AI course poster with modern design' category='design' requirements=[] priority='normal'
+2026-06-01 20:17:48,581 - core.planner - INFO - Creating plan for goal: Create a premium AI course poster with modern design, category: design
+2026-06-01 20:17:48,581 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:17:48,583 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b941aeac9e846cea50a
+2026-06-01 20:17:56,063 - __main__ - INFO - Task received: Create poster
+2026-06-01 20:17:56,063 - core.brain - INFO - Analyzing task: Create poster
+2026-06-01 20:17:56,065 - core.brain - INFO - Goal generated: goal='Create poster' category='design' requirements=[] priority='normal'
+2026-06-01 20:17:56,065 - core.planner - INFO - Creating plan for goal: Create poster, category: design
+2026-06-01 20:17:56,065 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:17:56,065 - core.memory - INFO - Memory saved successfully with ID: 6a1d9b9c1aeac9e846cea50b
+2026-06-01 20:18:07,003 - __main__ - INFO - Task received: Do something useful
+2026-06-01 20:18:07,004 - core.brain - INFO - Analyzing task: Do something useful
+2026-06-01 20:18:07,004 - core.brain - INFO - Goal generated: goal='Do something useful' category='general' requirements=[] priority='normal'
+2026-06-01 20:18:07,004 - core.planner - INFO - Creating plan for goal: Do something useful, category: general
+2026-06-01 20:18:07,005 - core.planner - INFO - Plan created with 4 steps
+2026-06-01 20:18:07,006 - core.memory - INFO - Memory saved successfully with ID: 6a1d9ba71aeac9e846cea50c
+2026-06-01 20:18:12,785 - core.memory - INFO - Preference saved successfully: I = prefer React projects
+2026-06-01 20:41:27,514 - database.mongodb - INFO - MongoDB connection closed
+2026-06-01 20:42:16,576 - __main__ - INFO - Task received: Build website
+2026-06-01 20:42:16,576 - core.brain - INFO - Analyzing task: Build website
+2026-06-01 20:42:16,576 - core.brain - INFO - Goal generated: Category=software_development, Confidence=95.0%
+2026-06-01 20:42:16,577 - core.planner - INFO - Creating plan for goal: Build website, category: software_development
+2026-06-01 20:42:16,577 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:42:16,581 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-01 20:42:16,587 - core.memory - INFO - Memory saved successfully with ID: 6a1da150cccb90fec24c7d2a
+2026-06-01 20:42:34,975 - __main__ - INFO - Task received: Create CRM application
+2026-06-01 20:42:34,976 - core.brain - INFO - Analyzing task: Create CRM application
+2026-06-01 20:42:34,976 - core.brain - INFO - Goal generated: Category=software_development, Confidence=95.0%
+2026-06-01 20:42:34,976 - core.planner - INFO - Creating plan for goal: Create CRM application, category: software_development
+2026-06-01 20:42:34,976 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:42:34,977 - core.memory - INFO - Memory saved successfully with ID: 6a1da162cccb90fec24c7d2b
+2026-06-01 20:42:54,247 - __main__ - INFO - Task received: Develop inventory management system
+2026-06-01 20:42:54,247 - core.brain - INFO - Analyzing task: Develop inventory management system
+2026-06-01 20:42:54,247 - core.brain - INFO - Goal generated: Category=software_development, Confidence=66.7%
+2026-06-01 20:42:54,247 - core.planner - INFO - Creating plan for goal: Develop inventory management system, category: software_development
+2026-06-01 20:42:54,248 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:42:54,248 - core.memory - INFO - Memory saved successfully with ID: 6a1da176cccb90fec24c7d2c
+2026-06-01 20:43:25,617 - __main__ - INFO - Task received: Build employee management system
+2026-06-01 20:43:25,618 - core.brain - INFO - Analyzing task: Build employee management system
+2026-06-01 20:43:25,618 - core.brain - INFO - Goal generated: Category=software_development, Confidence=80.8%
+2026-06-01 20:43:25,618 - core.planner - INFO - Creating plan for goal: Build employee management system, category: software_development
+2026-06-01 20:43:25,619 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:43:25,619 - core.memory - INFO - Memory saved successfully with ID: 6a1da195cccb90fec24c7d2d
+2026-06-01 20:43:38,083 - __main__ - INFO - Task received: Create brochure
+2026-06-01 20:43:38,083 - core.brain - INFO - Analyzing task: Create brochure
+2026-06-01 20:43:38,083 - core.brain - INFO - Goal generated: Category=design, Confidence=95.0%
+2026-06-01 20:43:38,083 - core.planner - INFO - Creating plan for goal: Create brochure, category: design
+2026-06-01 20:43:38,083 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:43:38,084 - core.memory - INFO - Memory saved successfully with ID: 6a1da1a2cccb90fec24c7d2e
+2026-06-01 20:43:47,382 - __main__ - INFO - Task received: Design company banner
+2026-06-01 20:43:47,382 - core.brain - INFO - Analyzing task: Design company banner
+2026-06-01 20:43:47,382 - core.brain - INFO - Goal generated: Category=design, Confidence=95.0%
+2026-06-01 20:43:47,384 - core.planner - INFO - Creating plan for goal: Design company banner, category: design
+2026-06-01 20:43:47,384 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:43:47,385 - core.memory - INFO - Memory saved successfully with ID: 6a1da1abcccb90fec24c7d2f
+2026-06-01 20:43:56,482 - __main__ - INFO - Task received: Create modern logo
+2026-06-01 20:43:56,482 - core.brain - INFO - Analyzing task: Create modern logo
+2026-06-01 20:43:56,482 - core.brain - INFO - Goal generated: Category=design, Confidence=95.0%
+2026-06-01 20:43:56,482 - core.planner - INFO - Creating plan for goal: Create modern logo, category: design
+2026-06-01 20:43:56,482 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:43:56,484 - core.memory - INFO - Memory saved successfully with ID: 6a1da1b4cccb90fec24c7d30
+2026-06-01 20:44:13,227 - __main__ - INFO - Task received: Research latest AI models
+2026-06-01 20:44:13,227 - core.brain - INFO - Analyzing task: Research latest AI models
+2026-06-01 20:44:13,227 - core.brain - INFO - Goal generated: Category=research, Confidence=95.0%
+2026-06-01 20:44:13,227 - core.planner - INFO - Creating plan for goal: Research latest AI models, category: research
+2026-06-01 20:44:13,227 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:44:13,228 - core.memory - INFO - Memory saved successfully with ID: 6a1da1c5cccb90fec24c7d31
+2026-06-01 20:44:22,758 - __main__ - INFO - Task received: Research competitor products
+2026-06-01 20:44:22,758 - core.brain - INFO - Analyzing task: Research competitor products
+2026-06-01 20:44:22,759 - core.brain - INFO - Goal generated: Category=research, Confidence=95.0%
+2026-06-01 20:44:22,759 - core.planner - INFO - Creating plan for goal: Research competitor products, category: research
+2026-06-01 20:44:22,759 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:44:22,759 - core.memory - INFO - Memory saved successfully with ID: 6a1da1cecccb90fec24c7d32
+2026-06-01 20:44:31,940 - __main__ - INFO - Task received: Automate weekly report generation
+2026-06-01 20:44:31,940 - core.brain - INFO - Analyzing task: Automate weekly report generation
+2026-06-01 20:44:31,940 - core.brain - INFO - Goal generated: Category=automation, Confidence=95.0%
+2026-06-01 20:44:31,940 - core.planner - INFO - Creating plan for goal: Automate weekly report generation, category: automation
+2026-06-01 20:44:31,941 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:44:31,942 - core.memory - INFO - Memory saved successfully with ID: 6a1da1d7cccb90fec24c7d33
+2026-06-01 20:44:45,493 - __main__ - INFO - Task received: Automate invoice creation
+2026-06-01 20:44:45,493 - core.brain - INFO - Analyzing task: Automate invoice creation
+2026-06-01 20:44:45,494 - core.brain - INFO - Goal generated: Category=automation, Confidence=95.0%
+2026-06-01 20:44:45,494 - core.planner - INFO - Creating plan for goal: Automate invoice creation, category: automation
+2026-06-01 20:44:45,494 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:44:45,496 - core.memory - INFO - Memory saved successfully with ID: 6a1da1e5cccb90fec24c7d34
+2026-06-01 20:44:55,662 - __main__ - INFO - Task received: Send proposal to client
+2026-06-01 20:44:55,662 - core.brain - INFO - Analyzing task: Send proposal to client
+2026-06-01 20:44:55,663 - core.brain - INFO - Goal generated: Category=communication, Confidence=95.0%
+2026-06-01 20:44:55,663 - core.planner - INFO - Creating plan for goal: Send proposal to client, category: communication
+2026-06-01 20:44:55,663 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:44:55,664 - core.memory - INFO - Memory saved successfully with ID: 6a1da1efcccb90fec24c7d35
+2026-06-01 20:45:04,261 - __main__ - INFO - Task received: Draft email for internship completion
+2026-06-01 20:45:04,265 - core.brain - INFO - Analyzing task: Draft email for internship completion
+2026-06-01 20:45:04,266 - core.brain - INFO - Goal generated: Category=communication, Confidence=95.0%
+2026-06-01 20:45:04,266 - core.planner - INFO - Creating plan for goal: Draft email for internship completion, category: communication
+2026-06-01 20:45:04,266 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:45:04,283 - core.memory - INFO - Memory saved successfully with ID: 6a1da1f8cccb90fec24c7d36
+2026-06-01 20:45:12,224 - __main__ - INFO - Task received: Send meeting reminder
+2026-06-01 20:45:12,224 - core.brain - INFO - Analyzing task: Send meeting reminder
+2026-06-01 20:45:12,224 - core.brain - INFO - Goal generated: Category=communication, Confidence=50.0%
+2026-06-01 20:45:12,225 - core.planner - INFO - Creating plan for goal: Send meeting reminder, category: communication
+2026-06-01 20:45:12,225 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:45:12,226 - core.memory - INFO - Memory saved successfully with ID: 6a1da200cccb90fec24c7d37
+2026-06-01 20:45:24,274 - __main__ - INFO - Task received: Schedule daily backup task
+2026-06-01 20:45:24,274 - core.brain - INFO - Analyzing task: Schedule daily backup task
+2026-06-01 20:45:24,274 - core.brain - INFO - Goal generated: Category=unknown, Confidence=38.5%
+2026-06-01 20:45:36,605 - __main__ - INFO - Task received: Clean temporary files
+2026-06-01 20:45:36,605 - core.brain - INFO - Analyzing task: Clean temporary files
+2026-06-01 20:45:36,605 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-01 20:45:43,392 - __main__ - INFO - Task received: asdfghjkl
+2026-06-01 20:45:43,393 - core.brain - INFO - Analyzing task: asdfghjkl
+2026-06-01 20:45:53,325 - __main__ - INFO - Task received: Create poster
+2026-06-01 20:45:53,325 - core.brain - INFO - Analyzing task: Create poster
+2026-06-01 20:45:53,325 - core.brain - INFO - Goal generated: Category=design, Confidence=95.0%
+2026-06-01 20:45:53,326 - core.planner - INFO - Creating plan for goal: Create poster, category: design
+2026-06-01 20:45:53,326 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:45:53,326 - core.memory - INFO - Memory saved successfully with ID: 6a1da229cccb90fec24c7d38
+2026-06-01 20:46:11,061 - __main__ - INFO - Task received: Create premium AI course poster with modern design
+2026-06-01 20:46:11,061 - core.brain - INFO - Analyzing task: Create premium AI course poster with modern design
+2026-06-01 20:46:11,062 - core.brain - INFO - Goal generated: Category=design, Confidence=95.0%
+2026-06-01 20:46:11,063 - core.planner - INFO - Creating plan for goal: Create premium AI course poster with modern design, category: design
+2026-06-01 20:46:11,063 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:46:11,064 - core.memory - INFO - Memory saved successfully with ID: 6a1da23bcccb90fec24c7d39
+2026-06-01 20:46:37,182 - __main__ - INFO - Task received: Create poster
+2026-06-01 20:46:37,182 - core.brain - INFO - Analyzing task: Create poster
+2026-06-01 20:46:37,183 - core.brain - INFO - Goal generated: Category=design, Confidence=95.0%
+2026-06-01 20:46:37,183 - core.planner - INFO - Creating plan for goal: Create poster, category: design
+2026-06-01 20:46:37,183 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:46:37,184 - core.memory - INFO - Memory saved successfully with ID: 6a1da255cccb90fec24c7d3a
+2026-06-01 20:46:37,185 - __main__ - INFO - Task received: Build website
+2026-06-01 20:46:37,185 - core.brain - INFO - Analyzing task: Build website
+2026-06-01 20:46:37,186 - core.brain - INFO - Goal generated: Category=software_development, Confidence=95.0%
+2026-06-01 20:46:37,187 - core.planner - INFO - Creating plan for goal: Build website, category: software_development
+2026-06-01 20:46:37,187 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:46:37,189 - core.memory - INFO - Memory saved successfully with ID: 6a1da255cccb90fec24c7d3b
+2026-06-01 20:46:37,191 - __main__ - INFO - Task received: Research AI agents
+2026-06-01 20:46:37,191 - core.brain - INFO - Analyzing task: Research AI agents
+2026-06-01 20:46:37,191 - core.brain - INFO - Goal generated: Category=research, Confidence=95.0%
+2026-06-01 20:46:37,191 - core.planner - INFO - Creating plan for goal: Research AI agents, category: research
+2026-06-01 20:46:37,191 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:46:37,194 - core.memory - INFO - Memory saved successfully with ID: 6a1da255cccb90fec24c7d3c
+2026-06-01 20:46:37,196 - __main__ - INFO - Task received: Send proposal
+2026-06-01 20:46:37,196 - core.brain - INFO - Analyzing task: Send proposal
+2026-06-01 20:46:37,196 - core.brain - INFO - Goal generated: Category=communication, Confidence=95.0%
+2026-06-01 20:46:37,196 - core.planner - INFO - Creating plan for goal: Send proposal, category: communication
+2026-06-01 20:46:37,196 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:46:37,198 - core.memory - INFO - Memory saved successfully with ID: 6a1da255cccb90fec24c7d3d
+2026-06-01 20:46:37,199 - __main__ - INFO - Task received: Automate backup
+2026-06-01 20:46:37,199 - core.brain - INFO - Analyzing task: Automate backup
+2026-06-01 20:46:37,200 - core.brain - INFO - Goal generated: Category=automation, Confidence=50.0%
+2026-06-01 20:46:37,202 - core.planner - INFO - Creating plan for goal: Automate backup, category: automation
+2026-06-01 20:46:37,203 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:46:37,204 - core.memory - INFO - Memory saved successfully with ID: 6a1da255cccb90fec24c7d3e
+2026-06-01 20:46:37,205 - __main__ - INFO - Task received: Create logo
+2026-06-01 20:46:37,206 - core.brain - INFO - Analyzing task: Create logo
+2026-06-01 20:46:37,206 - core.brain - INFO - Goal generated: Category=design, Confidence=95.0%
+2026-06-01 20:46:37,209 - core.planner - INFO - Creating plan for goal: Create logo, category: design
+2026-06-01 20:46:37,209 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:46:37,210 - core.memory - INFO - Memory saved successfully with ID: 6a1da255cccb90fec24c7d3f
+2026-06-01 20:46:37,212 - __main__ - INFO - Task received: Analyze competitors
+2026-06-01 20:46:37,212 - core.brain - INFO - Analyzing task: Analyze competitors
+2026-06-01 20:46:37,212 - core.brain - INFO - Goal generated: Category=research, Confidence=95.0%
+2026-06-01 20:46:37,212 - core.planner - INFO - Creating plan for goal: Analyze competitors, category: research
+2026-06-01 20:46:37,213 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:46:37,219 - core.memory - INFO - Memory saved successfully with ID: 6a1da255cccb90fec24c7d40
+2026-06-01 20:46:37,224 - __main__ - INFO - Task received: Build CRM
+2026-06-01 20:46:37,224 - core.brain - INFO - Analyzing task: Build CRM
+2026-06-01 20:46:37,224 - core.brain - INFO - Goal generated: Category=software_development, Confidence=95.0%
+2026-06-01 20:46:37,224 - core.planner - INFO - Creating plan for goal: Build CRM, category: software_development
+2026-06-01 20:46:37,225 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 20:46:37,226 - core.memory - INFO - Memory saved successfully with ID: 6a1da255cccb90fec24c7d41
+2026-06-01 20:46:38,960 - __main__ - INFO - Task received: asdfghjkl
+2026-06-01 20:46:38,960 - core.brain - INFO - Analyzing task: asdfghjkl
+2026-06-01 20:59:23,129 - database.mongodb - INFO - MongoDB connection closed
+2026-06-01 21:00:18,270 - __main__ - INFO - Task received: Build website
+2026-06-01 21:00:18,270 - core.brain - INFO - Analyzing task: Build website
+2026-06-01 21:00:18,271 - core.brain - INFO - Goal generated: Category=software_development, Confidence=100.0%
+2026-06-01 21:00:18,271 - core.planner - INFO - Creating plan for goal: Build website, category: software_development
+2026-06-01 21:00:18,271 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 21:00:18,276 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-01 21:00:18,280 - core.memory - INFO - Memory saved successfully with ID: 6a1da58ac40116157d1a3bd3
+2026-06-01 21:00:29,273 - __main__ - INFO - Task received: Develop website
+2026-06-01 21:00:29,273 - core.brain - INFO - Analyzing task: Develop website
+2026-06-01 21:00:29,273 - core.brain - INFO - Goal generated: Category=software_development, Confidence=100.0%
+2026-06-01 21:00:29,273 - core.planner - INFO - Creating plan for goal: Develop website, category: software_development
+2026-06-01 21:00:29,274 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 21:00:29,274 - core.memory - INFO - Memory saved successfully with ID: 6a1da595c40116157d1a3bd4
+2026-06-01 21:00:39,652 - __main__ - INFO - Task received: Make inventory dashboard
+2026-06-01 21:00:39,652 - core.brain - INFO - Analyzing task: Make inventory dashboard
+2026-06-01 21:00:39,653 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-01 21:00:48,009 - __main__ - INFO - Task received: Create brochure
+2026-06-01 21:00:48,009 - core.brain - INFO - Analyzing task: Create brochure
+2026-06-01 21:00:48,009 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-01 21:00:54,925 - __main__ - INFO - Task received: Create brochure
+2026-06-01 21:00:54,925 - core.brain - INFO - Analyzing task: Create brochure
+2026-06-01 21:00:54,925 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-01 21:01:08,030 - __main__ - INFO - Task received: Create brochure
+2026-06-01 21:01:08,031 - core.brain - INFO - Analyzing task: Create brochure
+2026-06-01 21:01:08,031 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-01 21:01:31,195 - __main__ - INFO - Task received: Make futuristic logo
+2026-06-01 21:01:31,195 - core.brain - INFO - Analyzing task: Make futuristic logo
+2026-06-01 21:01:31,196 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-01 21:01:53,194 - __main__ - INFO - Task received: Send proposal to client
+2026-06-01 21:01:53,194 - core.brain - INFO - Analyzing task: Send proposal to client
+2026-06-01 21:01:53,195 - core.brain - INFO - Goal generated: Category=communication, Confidence=86.7%
+2026-06-01 21:01:53,195 - core.planner - INFO - Creating plan for goal: Send proposal to client, category: communication
+2026-06-01 21:01:53,195 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 21:01:53,196 - core.memory - INFO - Memory saved successfully with ID: 6a1da5e9c40116157d1a3bd5
+2026-06-01 21:02:02,005 - __main__ - INFO - Task received: Compose internship mail
+2026-06-01 21:02:02,006 - core.brain - INFO - Analyzing task: Compose internship mail
+2026-06-01 21:02:02,006 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-01 21:02:10,921 - __main__ - INFO - Task received: Monitor server logs
+2026-06-01 21:02:10,921 - core.brain - INFO - Analyzing task: Monitor server logs
+2026-06-01 21:02:10,921 - core.brain - INFO - Goal generated: Category=system_operations, Confidence=100.0%
+2026-06-01 21:02:10,921 - core.planner - INFO - Creating plan for goal: Monitor server logs, category: system_operations
+2026-06-01 21:02:10,923 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 21:02:10,923 - core.memory - INFO - Memory saved successfully with ID: 6a1da5fac40116157d1a3bd6
+2026-06-01 21:02:18,734 - __main__ - INFO - Task received: Clean temporary files
+2026-06-01 21:02:18,734 - core.brain - INFO - Analyzing task: Clean temporary files
+2026-06-01 21:02:18,734 - core.brain - INFO - Goal generated: Category=system_operations, Confidence=100.0%
+2026-06-01 21:02:18,734 - core.planner - INFO - Creating plan for goal: Clean temporary files, category: system_operations
+2026-06-01 21:02:18,734 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 21:02:18,735 - core.memory - INFO - Memory saved successfully with ID: 6a1da602c40116157d1a3bd7
+2026-06-01 21:02:25,962 - __main__ - INFO - Task received: Run maintenance cleanup
+2026-06-01 21:02:25,962 - core.brain - INFO - Analyzing task: Run maintenance cleanup
+2026-06-01 21:02:25,962 - core.brain - INFO - Goal generated: Category=system_operations, Confidence=100.0%
+2026-06-01 21:02:25,962 - core.planner - INFO - Creating plan for goal: Run maintenance cleanup, category: system_operations
+2026-06-01 21:02:25,963 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 21:02:25,964 - core.memory - INFO - Memory saved successfully with ID: 6a1da609c40116157d1a3bd8
+2026-06-01 21:02:33,967 - __main__ - INFO - Task received: Create poster
+2026-06-01 21:02:33,967 - core.brain - INFO - Analyzing task: Create poster
+2026-06-01 21:02:33,968 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-01 21:16:46,886 - __main__ - INFO - Task received: Send meeting reminder
+2026-06-01 21:16:46,886 - core.brain - INFO - Analyzing task: Send meeting reminder
+2026-06-01 21:16:46,886 - core.brain - INFO - Goal generated: Category=communication, Confidence=50.0%
+2026-06-01 21:16:46,886 - core.planner - INFO - Creating plan for goal: Send meeting reminder, category: communication
+2026-06-01 21:16:46,886 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 21:16:46,888 - core.memory - INFO - Memory saved successfully with ID: 6a1da966c40116157d1a3bd9
+2026-06-01 21:17:01,496 - __main__ - INFO - Task received: Create premium AI course poster with modern design
+2026-06-01 21:17:01,497 - core.brain - INFO - Analyzing task: Create premium AI course poster with modern design
+2026-06-01 21:17:01,497 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-01 21:17:22,797 - __main__ - INFO - Task received: asdfghjkl
+2026-06-01 21:17:22,797 - core.brain - INFO - Analyzing task: asdfghjkl
+2026-06-01 21:17:39,863 - __main__ - INFO - Task received: Enable debug mode
+2026-06-01 21:17:39,863 - core.brain - INFO - Analyzing task: Enable debug mode
+2026-06-01 21:17:39,863 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-01 21:43:34,555 - __main__ - INFO - Task received: Create brochure
+2026-06-01 21:43:34,556 - core.brain - INFO - Analyzing task: Create brochure
+2026-06-01 21:43:34,557 - core.brain - INFO - Goal generated: Category=design, Confidence=89.6%
+2026-06-01 21:43:34,557 - core.planner - INFO - Creating plan for goal: Create brochure, category: design
+2026-06-01 21:43:34,557 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 21:43:34,561 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-01 21:43:34,568 - core.memory - INFO - Memory saved successfully with ID: 6a1dafae16421712fe44c529
+2026-06-01 21:43:47,806 - __main__ - INFO - Task received: Create poster
+2026-06-01 21:43:47,806 - core.brain - INFO - Analyzing task: Create poster
+2026-06-01 21:43:47,807 - core.brain - INFO - Goal generated: Category=design, Confidence=89.6%
+2026-06-01 21:43:47,807 - core.planner - INFO - Creating plan for goal: Create poster, category: design
+2026-06-01 21:43:47,807 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 21:43:47,808 - core.memory - INFO - Memory saved successfully with ID: 6a1dafbb16421712fe44c52a
+2026-06-01 21:43:58,959 - __main__ - INFO - Task received: Make futuristic logo
+2026-06-01 21:43:58,960 - core.brain - INFO - Analyzing task: Make futuristic logo
+2026-06-01 21:43:58,960 - core.brain - INFO - Goal generated: Category=design, Confidence=94.2%
+2026-06-01 21:43:58,960 - core.planner - INFO - Creating plan for goal: Make futuristic logo, category: design
+2026-06-01 21:43:58,961 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 21:43:58,961 - core.memory - INFO - Memory saved successfully with ID: 6a1dafc616421712fe44c52b
+2026-06-01 21:51:39,083 - __main__ - INFO - Task received: Make futuristic logo
+2026-06-01 21:51:39,083 - core.brain - INFO - Analyzing task: Make futuristic logo
+2026-06-01 21:51:39,084 - core.brain - INFO - Goal generated: Category=design, Confidence=94.2%
+2026-06-01 21:51:39,084 - core.planner - INFO - Creating plan for goal: Make futuristic logo, category: design
+2026-06-01 21:51:39,084 - core.planner - INFO - Plan created with 5 steps
+2026-06-01 21:51:39,085 - core.memory - INFO - Memory saved successfully with ID: 6a1db19316421712fe44c52c
+2026-06-01 22:49:56,313 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-01 22:49:56,692 - skills.execution.task_router - INFO - TaskRouter: 3 step(s) planned for category='software_development'
+2026-06-01 22:49:56,694 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-01 22:49:56,697 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='research'
+2026-06-01 22:49:56,697 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='system_operations'
+2026-06-01 22:49:56,710 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-01 22:49:56,710 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-01 22:49:56,713 - skills.execution.task_router - INFO - TaskRouter: 3 step(s) planned for category='software_development'
+2026-06-01 22:49:56,715 - skills.executors.base_executor - INFO - [coding] executing action='generate_project_structure' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-01 22:49:56,740 - skills.executors.coding_executor - INFO - CodingExecutor: scaffolded build_flask_api_project
+2026-06-01 22:49:56,743 - skills.executors.base_executor - INFO - [coding] executing action='write_starter_files' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-01 22:49:56,745 - skills.executors.coding_executor - INFO - CodingExecutor: starter files written for build_flask_api_project
+2026-06-01 22:49:56,748 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_flask_api_project/README.md', 'content': '# Build Flask API project\n\n## Overview\n\nAuto-generated by JARVIS.\n\n## Requirements\n\n- authentication\n- REST API\n\n## Getting Started\n\n```bash\n# Install dependencies\npip install -r requirements.txt\n\n# Run the project\npython main.py\n```\n'}
+2026-06-01 22:49:56,756 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-01 22:49:56,757 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'design/create_poster/brief.md', 'content': '# Design Brief: Create poster\n\n## Requirements\n\n- poster\n\n## Style Notes\n\n- (add style notes here)\n\n## Deliverables\n\n- Final design file\n- Export in PNG/PDF\n'}
+2026-06-01 22:49:56,759 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_test_workspace_wc02npoi\design\create_poster\brief.md
+2026-06-01 22:49:56,762 - skills.executors.base_executor - INFO - [browser] executing action='open_url' params={'url': 'https://www.canva.com'}
+2026-06-01 22:49:57,013 - skills.executors.browser_executor - INFO - BrowserExecutor: opened https://www.canva.com
+2026-06-01 22:49:57,019 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-01 22:49:57,019 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'design/create_poster/brief.md', 'content': '# Design Brief: Create poster\n\n## Requirements\n\n- poster\n\n## Style Notes\n\n- (add style notes here)\n\n## Deliverables\n\n- Final design file\n- Export in PNG/PDF\n'}
+2026-06-01 22:49:57,023 - skills.execution.permissions - WARNING - Permission denied — browser.open_url: Action is denied by policy.
+2026-06-01 22:50:56,859 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-01 22:50:56,895 - skills.execution.task_router - INFO - TaskRouter: 3 step(s) planned for category='software_development'
+2026-06-01 22:50:56,896 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-01 22:50:56,897 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='research'
+2026-06-01 22:50:56,897 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='system_operations'
+2026-06-01 22:50:56,913 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-01 22:50:56,913 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-01 22:50:56,915 - skills.execution.task_router - INFO - TaskRouter: 3 step(s) planned for category='software_development'
+2026-06-01 22:50:56,916 - skills.executors.base_executor - INFO - [coding] executing action='generate_project_structure' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-01 22:50:56,925 - skills.executors.coding_executor - INFO - CodingExecutor: scaffolded build_flask_api_project
+2026-06-01 22:50:56,928 - skills.executors.base_executor - INFO - [coding] executing action='write_starter_files' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-01 22:50:56,929 - skills.executors.coding_executor - INFO - CodingExecutor: starter files written for build_flask_api_project
+2026-06-01 22:50:56,932 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_flask_api_project/README.md', 'content': '# Build Flask API project\n\n## Overview\n\nAuto-generated by JARVIS.\n\n## Requirements\n\n- authentication\n- REST API\n\n## Getting Started\n\n```bash\n# Install dependencies\npip install -r requirements.txt\n\n# Run the project\npython main.py\n```\n'}
+2026-06-01 22:50:56,939 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-01 22:50:56,939 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'design/create_poster/brief.md', 'content': '# Design Brief: Create poster\n\n## Requirements\n\n- poster\n\n## Style Notes\n\n- (add style notes here)\n\n## Deliverables\n\n- Final design file\n- Export in PNG/PDF\n'}
+2026-06-01 22:50:56,942 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_test_workspace_eru_phqb\design\create_poster\brief.md
+2026-06-01 22:50:56,945 - skills.executors.base_executor - INFO - [browser] executing action='open_url' params={'url': 'https://www.canva.com'}
+2026-06-01 22:50:57,160 - skills.executors.browser_executor - INFO - BrowserExecutor: opened https://www.canva.com
+2026-06-01 22:50:57,168 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-01 22:50:57,168 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'design/create_poster/brief.md', 'content': '# Design Brief: Create poster\n\n## Requirements\n\n- poster\n\n## Style Notes\n\n- (add style notes here)\n\n## Deliverables\n\n- Final design file\n- Export in PNG/PDF\n'}
+2026-06-01 22:50:57,172 - skills.execution.permissions - WARNING - Permission denied — browser.open_url: Action is denied by policy.
+2026-06-02 00:35:02,570 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 00:35:02,591 - skills.execution.task_router - INFO - TaskRouter: 3 step(s) planned for category='software_development'
+2026-06-02 00:35:02,593 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-02 00:35:02,594 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='research'
+2026-06-02 00:35:02,595 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='system_operations'
+2026-06-02 00:35:02,603 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 00:35:02,604 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 00:35:02,607 - skills.execution.task_router - INFO - TaskRouter: 3 step(s) planned for category='software_development'
+2026-06-02 00:35:02,608 - skills.executors.base_executor - INFO - [coding] executing action='generate_project_structure' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-02 00:35:02,639 - skills.executors.coding_executor - INFO - CodingExecutor: scaffolded build_flask_api_project
+2026-06-02 00:35:02,643 - skills.executors.base_executor - INFO - [coding] executing action='write_starter_files' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-02 00:35:02,644 - skills.executors.coding_executor - INFO - CodingExecutor: starter files written for build_flask_api_project
+2026-06-02 00:35:02,647 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_flask_api_project/README.md', 'content': '# Build Flask API project\n\n## Overview\n\nAuto-generated by JARVIS.\n\n## Requirements\n\n- authentication\n- REST API\n\n## Getting Started\n\n```bash\n# Install dependencies\npip install -r requirements.txt\n\n# Run the project\npython main.py\n```\n'}
+2026-06-02 00:35:02,656 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-02 00:35:02,657 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'design/create_poster/brief.md', 'content': '# Design Brief: Create poster\n\n## Requirements\n\n- poster\n\n## Style Notes\n\n- (add style notes here)\n\n## Deliverables\n\n- Final design file\n- Export in PNG/PDF\n'}
+2026-06-02 00:35:02,660 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_test_workspace_kq8aj8ex\design\create_poster\brief.md
+2026-06-02 00:35:02,663 - skills.executors.base_executor - INFO - [browser] executing action='open_url' params={'url': 'https://www.canva.com'}
+2026-06-02 00:35:02,843 - skills.executors.browser_executor - INFO - BrowserExecutor: opened https://www.canva.com
+2026-06-02 00:35:02,849 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-02 00:35:02,850 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'design/create_poster/brief.md', 'content': '# Design Brief: Create poster\n\n## Requirements\n\n- poster\n\n## Style Notes\n\n- (add style notes here)\n\n## Deliverables\n\n- Final design file\n- Export in PNG/PDF\n'}
+2026-06-02 00:35:02,853 - skills.execution.permissions - WARNING - Permission denied — browser.open_url: Action is denied by policy.
+2026-06-02 00:42:37,722 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 00:42:37,733 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 00:42:44,247 - __main__ - INFO - Task received: Create Flask API project
+2026-06-02 00:42:44,247 - core.brain - INFO - Analyzing task: Create Flask API project
+2026-06-02 00:42:44,248 - core.brain - INFO - Goal generated: Category=software_development, Confidence=94.7%
+2026-06-02 00:42:44,248 - core.planner - INFO - Creating plan for goal: 'Create Flask API project', category: software_development
+2026-06-02 00:42:44,248 - core.planner - INFO - Plan created with 5 steps
+2026-06-02 00:42:44,257 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 00:42:44,273 - core.memory - INFO - Memory saved successfully with ID: 6a1dd9acc419a524a787bea4
+2026-06-02 00:42:48,847 - skills.execution.task_router - INFO - TaskRouter: 3 step(s) planned for category='software_development'
+2026-06-02 00:42:48,847 - skills.executors.base_executor - INFO - [coding] executing action='generate_project_structure' params={'project_name': 'create_flask_api_project', 'goal': 'Create Flask API project', 'requirements': ['api']}
+2026-06-02 00:42:48,856 - skills.executors.coding_executor - INFO - CodingExecutor: scaffolded create_flask_api_project
+2026-06-02 00:42:48,860 - skills.executors.base_executor - INFO - [coding] executing action='write_starter_files' params={'project_name': 'create_flask_api_project', 'goal': 'Create Flask API project', 'requirements': ['api']}
+2026-06-02 00:42:48,861 - skills.executors.coding_executor - INFO - CodingExecutor: starter files written for create_flask_api_project
+2026-06-02 00:42:48,864 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'create_flask_api_project/README.md', 'content': '# Create Flask API project\n\n## Overview\n\nAuto-generated by JARVIS.\n\n## Requirements\n\n- api\n\n## Getting Started\n\n```bash\n# Install dependencies\npip install -r requirements.txt\n\n# Run the project\npython main.py\n```\n'}
+2026-06-02 01:06:55,655 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 01:06:55,883 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:06:55,883 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:06:55,883 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: resolved template='flask_api' with 5 steps
+2026-06-02 01:06:55,883 - orchestration.workflow_validator - INFO - WorkflowValidator: 0 errors, 0 warnings for 5 steps
+2026-06-02 01:06:55,887 - skills.executors.base_executor - INFO - [coding] executing action='generate_project_structure' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-02 01:06:55,912 - skills.executors.coding_executor - INFO - CodingExecutor: scaffolded build_flask_api_project
+2026-06-02 01:06:55,926 - skills.executors.base_executor - INFO - [coding] executing action='write_starter_files' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-02 01:06:55,927 - skills.executors.coding_executor - INFO - CodingExecutor: starter files written for build_flask_api_project
+2026-06-02 01:06:55,934 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_flask_api_project/README.md', 'content': '# Build Flask Api Project\n\n> Build Flask API project\n\n## Requirements\n\n- authentication\n- REST API\n\n## Setup\n\n```bash\npip install -r requirements.txt\npython main.py\n```\n\n## Generated by\n\nJARVIS AI Operating System — Milestone 3\n'}
+2026-06-02 01:06:55,941 - skills.executors.base_executor - INFO - [coding] executing action='verify_syntax' params={'script_path': 'build_flask_api_project/app.py'}
+2026-06-02 01:06:56,096 - skills.executors.base_executor - INFO - [file] executing action='append_file' params={'path': 'logs/workflows.log', 'content': '[WORKFLOW] flask_api: Build Flask API project\n'}
+2026-06-02 01:06:56,098 - skills.executors.file_executor - INFO - FileExecutor: appended to C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\logs\workflows.log
+2026-06-02 01:06:56,118 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:06:56,118 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: resolved template='portfolio_website' with 8 steps
+2026-06-02 01:06:56,118 - orchestration.workflow_validator - INFO - WorkflowValidator: 0 errors, 0 warnings for 8 steps
+2026-06-02 01:06:56,121 - skills.executors.base_executor - INFO - [browser] executing action='search' params={'query': 'portfolio website inspiration Build portfolio website'}
+2026-06-02 01:06:56,385 - skills.executors.browser_executor - INFO - BrowserExecutor: search opened for 'portfolio website inspiration Build portfolio website'
+2026-06-02 01:06:56,387 - skills.executors.base_executor - INFO - [coding] executing action='generate_project_structure' params={'project_name': 'build_portfolio_website', 'goal': 'Build portfolio website', 'requirements': ['projects', 'contact']}
+2026-06-02 01:06:56,398 - skills.executors.coding_executor - INFO - CodingExecutor: scaffolded build_portfolio_website
+2026-06-02 01:06:56,401 - skills.executors.base_executor - INFO - [file] executing action='create_dir' params={'path': 'build_portfolio_website/assets'}
+2026-06-02 01:06:56,402 - skills.executors.file_executor - INFO - FileExecutor: created directory C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\build_portfolio_website\assets
+2026-06-02 01:06:56,405 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_portfolio_website/index.html', 'content': '<!DOCTYPE html>\n<html lang="en">\n<head>\n  <meta charset="UTF-8">\n  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n  <title>Build Portfolio Website</title>\n  <link rel="stylesheet" href="assets/css/style.css">\n</head>\n<body>\n  <header>\n    <h1>Build Portfolio Website</h1>\n    <nav></nav>\n  </header>\n  <main>\n    <section id="about">\n      <h2>About</h2>\n      <p>Build portfolio website</p>\n    </section>\n    <section id="projects">\n      <h2>Projects</h2>\n    </section>\n    <section id="contact">\n      <h2>Contact</h2>\n    </section>\n  </main>\n  <footer><p>Generated by JARVIS</p></footer>\n</body>\n</html>\n'}
+2026-06-02 01:06:56,406 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\build_portfolio_website\index.html
+2026-06-02 01:06:56,414 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_portfolio_website/README.md', 'content': '# Build Portfolio Website\n\n> Build portfolio website\n\n## Requirements\n\n- projects\n- contact\n\n## Setup\n\n```bash\npip install -r requirements.txt\npython main.py\n```\n\n## Generated by\n\nJARVIS AI Operating System — Milestone 3\n'}
+2026-06-02 01:06:56,421 - skills.executors.base_executor - INFO - [file] executing action='create_dir' params={'path': 'build_portfolio_website/assets/css'}
+2026-06-02 01:06:56,422 - skills.executors.file_executor - INFO - FileExecutor: created directory C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\build_portfolio_website\assets\css
+2026-06-02 01:06:56,428 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_portfolio_website/assets/css/style.css', 'content': '* { box-sizing: border-box; margin: 0; padding: 0; }\nbody { font-family: system-ui, sans-serif; line-height: 1.6; color: #333; }\nheader { background: #1a1a2e; color: white; padding: 1rem 2rem; }\nmain { max-width: 1100px; margin: 2rem auto; padding: 0 1rem; }\nsection { margin-bottom: 3rem; }\nh1, h2 { margin-bottom: 1rem; }\nfooter { text-align: center; padding: 2rem; color: #666; }\n'}
+2026-06-02 01:06:56,463 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\build_portfolio_website\assets\css\style.css
+2026-06-02 01:06:56,603 - skills.executors.base_executor - INFO - [file] executing action='append_file' params={'path': 'logs/workflows.log', 'content': '[WORKFLOW] portfolio_website: Build portfolio website\n'}
+2026-06-02 01:06:56,610 - skills.executors.file_executor - INFO - FileExecutor: appended to C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\logs\workflows.log
+2026-06-02 01:06:56,732 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:06:56,732 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: resolved template='research_pipeline' with 4 steps
+2026-06-02 01:06:56,732 - orchestration.workflow_validator - INFO - WorkflowValidator: 0 errors, 0 warnings for 4 steps
+2026-06-02 01:06:56,775 - skills.executors.base_executor - INFO - [browser] executing action='search' params={'query': 'Research latest AI models'}
+2026-06-02 01:06:56,917 - skills.executors.browser_executor - INFO - BrowserExecutor: search opened for 'Research latest AI models'
+2026-06-02 01:06:56,927 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'research/research_latest_ai_models_notes.md', 'content': '# Research: Research latest AI models\n\n## Query\n\nResearch latest AI models\n\n## Notes\n\n'}
+2026-06-02 01:06:56,929 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\research\research_latest_ai_models_notes.md
+2026-06-02 01:06:56,943 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'research/research_latest_ai_models_summary.md', 'content': '# Summary: Research latest AI models\n\n## Key Findings\n\n- (fill in)\n\n## Sources\n\n'}
+2026-06-02 01:06:57,038 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\research\research_latest_ai_models_summary.md
+2026-06-02 01:06:57,066 - skills.executors.base_executor - INFO - [file] executing action='append_file' params={'path': 'logs/workflows.log', 'content': '[WORKFLOW] research_pipeline: Research latest AI models\n'}
+2026-06-02 01:06:57,070 - skills.executors.file_executor - INFO - FileExecutor: appended to C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\logs\workflows.log
+2026-06-02 01:06:57,201 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:06:57,247 - skills.executors.base_executor - INFO - [file] executing action='create_dir' params={'path': 'dep_test/src'}
+2026-06-02 01:06:57,248 - skills.executors.file_executor - INFO - FileExecutor: created directory C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\dep_test\src
+2026-06-02 01:06:57,255 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'dep_test/src/main.py', 'content': '# main'}
+2026-06-02 01:06:57,257 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\dep_test\src\main.py
+2026-06-02 01:06:57,262 - skills.executors.base_executor - INFO - [file] executing action='append_file' params={'path': 'dep_test/build.log', 'content': 'built\n'}
+2026-06-02 01:06:57,264 - skills.executors.file_executor - INFO - FileExecutor: appended to C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\dep_test\build.log
+2026-06-02 01:06:57,270 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:06:57,276 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': '../../etc/passwd', 'content': 'x'}
+2026-06-02 01:06:57,278 - orchestration.workflow_orchestrator - ERROR - [file.create_file] failed: Path escapes sandbox boundary.
+  Attempted : C:\Users\jashw\AppData\Local\etc\passwd
+  Workspace : C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_
+Traceback (most recent call last):
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\execution\sandbox.py", line 93, in _check
+    resolved.relative_to(self._root)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\pathlib.py", line 682, in relative_to
+    raise ValueError(f"{str(self)!r} is not in the subpath of {str(other)!r}")
+ValueError: 'C:\\Users\\jashw\\AppData\\Local\\etc\\passwd' is not in the subpath of 'C:\\Users\\jashw\\AppData\\Local\\Temp\\jarvis_orch_test_rnll7pz_'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\orchestration\workflow_orchestrator.py", line 259, in _execute_workflow
+    output = executor.execute(ctx)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\executors\base_executor.py", line 63, in execute
+    return handler(ctx)
+           ^^^^^^^^^^^^
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\executors\file_executor.py", line 62, in _action_create_file
+    target  = sandbox.resolve(path)
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\execution\sandbox.py", line 63, in resolve
+    self._check(candidate)
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\execution\sandbox.py", line 95, in _check
+    raise SandboxViolation(
+skills.execution.sandbox.SandboxViolation: Path escapes sandbox boundary.
+  Attempted : C:\Users\jashw\AppData\Local\etc\passwd
+  Workspace : C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_
+2026-06-02 01:06:57,378 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'recovery_test/independent.txt', 'content': 'independent'}
+2026-06-02 01:06:57,380 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_rnll7pz_\recovery_test\independent.txt
+2026-06-02 01:09:08,618 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 01:09:08,638 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:09:08,639 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:09:08,639 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: resolved template='flask_api' with 5 steps
+2026-06-02 01:09:08,639 - orchestration.workflow_validator - INFO - WorkflowValidator: 0 errors, 0 warnings for 5 steps
+2026-06-02 01:09:08,646 - skills.executors.base_executor - INFO - [coding] executing action='generate_project_structure' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-02 01:09:08,655 - skills.executors.coding_executor - INFO - CodingExecutor: scaffolded build_flask_api_project
+2026-06-02 01:09:08,660 - skills.executors.base_executor - INFO - [coding] executing action='write_starter_files' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-02 01:09:08,661 - skills.executors.coding_executor - INFO - CodingExecutor: starter files written for build_flask_api_project
+2026-06-02 01:09:08,664 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_flask_api_project/README.md', 'content': '# Build Flask Api Project\n\n> Build Flask API project\n\n## Requirements\n\n- authentication\n- REST API\n\n## Setup\n\n```bash\npip install -r requirements.txt\npython main.py\n```\n\n## Generated by\n\nJARVIS AI Operating System — Milestone 3\n'}
+2026-06-02 01:09:08,668 - skills.executors.base_executor - INFO - [coding] executing action='verify_syntax' params={'script_path': 'build_flask_api_project/app.py'}
+2026-06-02 01:09:08,788 - skills.executors.base_executor - INFO - [file] executing action='append_file' params={'path': 'logs/workflows.log', 'content': '[WORKFLOW] flask_api: Build Flask API project\n'}
+2026-06-02 01:09:08,790 - skills.executors.file_executor - INFO - FileExecutor: appended to C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\logs\workflows.log
+2026-06-02 01:09:08,803 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:09:08,804 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: resolved template='portfolio_website' with 8 steps
+2026-06-02 01:09:08,804 - orchestration.workflow_validator - INFO - WorkflowValidator: 0 errors, 0 warnings for 8 steps
+2026-06-02 01:09:08,807 - skills.executors.base_executor - INFO - [browser] executing action='search' params={'query': 'portfolio website inspiration Build portfolio website'}
+2026-06-02 01:09:09,043 - skills.executors.browser_executor - INFO - BrowserExecutor: search opened for 'portfolio website inspiration Build portfolio website'
+2026-06-02 01:09:09,049 - skills.executors.base_executor - INFO - [coding] executing action='generate_project_structure' params={'project_name': 'build_portfolio_website', 'goal': 'Build portfolio website', 'requirements': ['projects', 'contact']}
+2026-06-02 01:09:09,063 - skills.executors.coding_executor - INFO - CodingExecutor: scaffolded build_portfolio_website
+2026-06-02 01:09:09,097 - skills.executors.base_executor - INFO - [file] executing action='create_dir' params={'path': 'build_portfolio_website/assets'}
+2026-06-02 01:09:09,099 - skills.executors.file_executor - INFO - FileExecutor: created directory C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\build_portfolio_website\assets
+2026-06-02 01:09:09,176 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_portfolio_website/index.html', 'content': '<!DOCTYPE html>\n<html lang="en">\n<head>\n  <meta charset="UTF-8">\n  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n  <title>Build Portfolio Website</title>\n  <link rel="stylesheet" href="assets/css/style.css">\n</head>\n<body>\n  <header>\n    <h1>Build Portfolio Website</h1>\n    <nav></nav>\n  </header>\n  <main>\n    <section id="about">\n      <h2>About</h2>\n      <p>Build portfolio website</p>\n    </section>\n    <section id="projects">\n      <h2>Projects</h2>\n    </section>\n    <section id="contact">\n      <h2>Contact</h2>\n    </section>\n  </main>\n  <footer><p>Generated by JARVIS</p></footer>\n</body>\n</html>\n'}
+2026-06-02 01:09:09,181 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\build_portfolio_website\index.html
+2026-06-02 01:09:09,202 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_portfolio_website/README.md', 'content': '# Build Portfolio Website\n\n> Build portfolio website\n\n## Requirements\n\n- projects\n- contact\n\n## Setup\n\n```bash\npip install -r requirements.txt\npython main.py\n```\n\n## Generated by\n\nJARVIS AI Operating System — Milestone 3\n'}
+2026-06-02 01:09:09,211 - skills.executors.base_executor - INFO - [file] executing action='create_dir' params={'path': 'build_portfolio_website/assets/css'}
+2026-06-02 01:09:09,231 - skills.executors.file_executor - INFO - FileExecutor: created directory C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\build_portfolio_website\assets\css
+2026-06-02 01:09:09,265 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_portfolio_website/assets/css/style.css', 'content': '* { box-sizing: border-box; margin: 0; padding: 0; }\nbody { font-family: system-ui, sans-serif; line-height: 1.6; color: #333; }\nheader { background: #1a1a2e; color: white; padding: 1rem 2rem; }\nmain { max-width: 1100px; margin: 2rem auto; padding: 0 1rem; }\nsection { margin-bottom: 3rem; }\nh1, h2 { margin-bottom: 1rem; }\nfooter { text-align: center; padding: 2rem; color: #666; }\n'}
+2026-06-02 01:09:09,280 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\build_portfolio_website\assets\css\style.css
+2026-06-02 01:09:09,301 - skills.executors.base_executor - INFO - [file] executing action='append_file' params={'path': 'logs/workflows.log', 'content': '[WORKFLOW] portfolio_website: Build portfolio website\n'}
+2026-06-02 01:09:09,303 - skills.executors.file_executor - INFO - FileExecutor: appended to C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\logs\workflows.log
+2026-06-02 01:09:09,362 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:09:09,363 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: resolved template='research_pipeline' with 4 steps
+2026-06-02 01:09:09,363 - orchestration.workflow_validator - INFO - WorkflowValidator: 0 errors, 0 warnings for 4 steps
+2026-06-02 01:09:09,371 - skills.executors.base_executor - INFO - [browser] executing action='search' params={'query': 'Research latest AI models'}
+2026-06-02 01:09:09,472 - skills.executors.browser_executor - INFO - BrowserExecutor: search opened for 'Research latest AI models'
+2026-06-02 01:09:09,478 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'research/research_latest_ai_models_notes.md', 'content': '# Research: Research latest AI models\n\n## Query\n\nResearch latest AI models\n\n## Notes\n\n'}
+2026-06-02 01:09:09,479 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\research\research_latest_ai_models_notes.md
+2026-06-02 01:09:09,484 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'research/research_latest_ai_models_summary.md', 'content': '# Summary: Research latest AI models\n\n## Key Findings\n\n- (fill in)\n\n## Sources\n\n'}
+2026-06-02 01:09:09,486 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\research\research_latest_ai_models_summary.md
+2026-06-02 01:09:09,540 - skills.executors.base_executor - INFO - [file] executing action='append_file' params={'path': 'logs/workflows.log', 'content': '[WORKFLOW] research_pipeline: Research latest AI models\n'}
+2026-06-02 01:09:09,542 - skills.executors.file_executor - INFO - FileExecutor: appended to C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\logs\workflows.log
+2026-06-02 01:09:09,659 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:09:09,661 - skills.executors.base_executor - INFO - [file] executing action='create_dir' params={'path': 'dep_test/src'}
+2026-06-02 01:09:09,666 - skills.executors.file_executor - INFO - FileExecutor: created directory C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\dep_test\src
+2026-06-02 01:09:09,759 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'dep_test/src/main.py', 'content': '# main'}
+2026-06-02 01:09:09,772 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\dep_test\src\main.py
+2026-06-02 01:09:09,793 - skills.executors.base_executor - INFO - [file] executing action='append_file' params={'path': 'dep_test/build.log', 'content': 'built\n'}
+2026-06-02 01:09:09,795 - skills.executors.file_executor - INFO - FileExecutor: appended to C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\dep_test\build.log
+2026-06-02 01:09:09,939 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:09:09,945 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': '../../etc/passwd', 'content': 'x'}
+2026-06-02 01:09:09,952 - orchestration.workflow_orchestrator - ERROR - [file.create_file] failed: Path escapes sandbox boundary.
+  Attempted : C:\Users\jashw\AppData\Local\etc\passwd
+  Workspace : C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9
+Traceback (most recent call last):
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\execution\sandbox.py", line 93, in _check
+    resolved.relative_to(self._root)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\pathlib.py", line 682, in relative_to
+    raise ValueError(f"{str(self)!r} is not in the subpath of {str(other)!r}")
+ValueError: 'C:\\Users\\jashw\\AppData\\Local\\etc\\passwd' is not in the subpath of 'C:\\Users\\jashw\\AppData\\Local\\Temp\\jarvis_orch_test_85a9djm9'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\orchestration\workflow_orchestrator.py", line 259, in _execute_workflow
+    output = executor.execute(ctx)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\executors\base_executor.py", line 63, in execute
+    return handler(ctx)
+           ^^^^^^^^^^^^
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\executors\file_executor.py", line 62, in _action_create_file
+    target  = sandbox.resolve(path)
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\execution\sandbox.py", line 63, in resolve
+    self._check(candidate)
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\execution\sandbox.py", line 95, in _check
+    raise SandboxViolation(
+skills.execution.sandbox.SandboxViolation: Path escapes sandbox boundary.
+  Attempted : C:\Users\jashw\AppData\Local\etc\passwd
+  Workspace : C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9
+2026-06-02 01:09:09,981 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'recovery_test/independent.txt', 'content': 'independent'}
+2026-06-02 01:09:09,984 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_85a9djm9\recovery_test\independent.txt
+2026-06-02 01:11:01,197 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 01:11:01,228 - skills.execution.task_router - INFO - TaskRouter: 3 step(s) planned for category='software_development'
+2026-06-02 01:11:01,230 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-02 01:11:01,232 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='research'
+2026-06-02 01:11:01,232 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='system_operations'
+2026-06-02 01:11:01,240 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:11:01,240 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:11:01,242 - skills.execution.task_router - INFO - TaskRouter: 3 step(s) planned for category='software_development'
+2026-06-02 01:11:01,244 - skills.executors.base_executor - INFO - [coding] executing action='generate_project_structure' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-02 01:11:01,255 - skills.executors.coding_executor - INFO - CodingExecutor: scaffolded build_flask_api_project
+2026-06-02 01:11:01,258 - skills.executors.base_executor - INFO - [coding] executing action='write_starter_files' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-02 01:11:01,260 - skills.executors.coding_executor - INFO - CodingExecutor: starter files written for build_flask_api_project
+2026-06-02 01:11:01,263 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_flask_api_project/README.md', 'content': '# Build Flask API project\n\n## Overview\n\nAuto-generated by JARVIS.\n\n## Requirements\n\n- authentication\n- REST API\n\n## Getting Started\n\n```bash\n# Install dependencies\npip install -r requirements.txt\n\n# Run the project\npython main.py\n```\n'}
+2026-06-02 01:11:01,273 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-02 01:11:01,275 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'design/create_poster/brief.md', 'content': '# Design Brief: Create poster\n\n## Requirements\n\n- poster\n\n## Style Notes\n\n- (add style notes here)\n\n## Deliverables\n\n- Final design file\n- Export in PNG/PDF\n'}
+2026-06-02 01:11:01,277 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_test_workspace_oqfe9ias\design\create_poster\brief.md
+2026-06-02 01:11:01,281 - skills.executors.base_executor - INFO - [browser] executing action='open_url' params={'url': 'https://www.canva.com'}
+2026-06-02 01:11:01,533 - skills.executors.browser_executor - INFO - BrowserExecutor: opened https://www.canva.com
+2026-06-02 01:11:01,540 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-02 01:11:01,541 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'design/create_poster/brief.md', 'content': '# Design Brief: Create poster\n\n## Requirements\n\n- poster\n\n## Style Notes\n\n- (add style notes here)\n\n## Deliverables\n\n- Final design file\n- Export in PNG/PDF\n'}
+2026-06-02 01:11:01,545 - skills.execution.permissions - WARNING - Permission denied — browser.open_url: Action is denied by policy.
+2026-06-02 01:11:26,490 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 01:11:26,515 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:11:26,515 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:11:26,516 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: resolved template='flask_api' with 5 steps
+2026-06-02 01:11:26,516 - orchestration.workflow_validator - INFO - WorkflowValidator: 0 errors, 0 warnings for 5 steps
+2026-06-02 01:11:26,520 - skills.executors.base_executor - INFO - [coding] executing action='generate_project_structure' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-02 01:11:26,574 - skills.executors.coding_executor - INFO - CodingExecutor: scaffolded build_flask_api_project
+2026-06-02 01:11:26,577 - skills.executors.base_executor - INFO - [coding] executing action='write_starter_files' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-02 01:11:26,578 - skills.executors.coding_executor - INFO - CodingExecutor: starter files written for build_flask_api_project
+2026-06-02 01:11:26,580 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_flask_api_project/README.md', 'content': '# Build Flask Api Project\n\n> Build Flask API project\n\n## Requirements\n\n- authentication\n- REST API\n\n## Setup\n\n```bash\npip install -r requirements.txt\npython main.py\n```\n\n## Generated by\n\nJARVIS AI Operating System — Milestone 3\n'}
+2026-06-02 01:11:26,583 - skills.executors.base_executor - INFO - [coding] executing action='verify_syntax' params={'script_path': 'build_flask_api_project/app.py'}
+2026-06-02 01:11:26,701 - skills.executors.base_executor - INFO - [file] executing action='append_file' params={'path': 'logs/workflows.log', 'content': '[WORKFLOW] flask_api: Build Flask API project\n'}
+2026-06-02 01:11:26,702 - skills.executors.file_executor - INFO - FileExecutor: appended to C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\logs\workflows.log
+2026-06-02 01:11:26,715 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:11:26,716 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: resolved template='portfolio_website' with 8 steps
+2026-06-02 01:11:26,716 - orchestration.workflow_validator - INFO - WorkflowValidator: 0 errors, 0 warnings for 8 steps
+2026-06-02 01:11:26,719 - skills.executors.base_executor - INFO - [browser] executing action='search' params={'query': 'portfolio website inspiration Build portfolio website'}
+2026-06-02 01:11:26,904 - skills.executors.browser_executor - INFO - BrowserExecutor: search opened for 'portfolio website inspiration Build portfolio website'
+2026-06-02 01:11:26,908 - skills.executors.base_executor - INFO - [coding] executing action='generate_project_structure' params={'project_name': 'build_portfolio_website', 'goal': 'Build portfolio website', 'requirements': ['projects', 'contact']}
+2026-06-02 01:11:26,916 - skills.executors.coding_executor - INFO - CodingExecutor: scaffolded build_portfolio_website
+2026-06-02 01:11:26,920 - skills.executors.base_executor - INFO - [file] executing action='create_dir' params={'path': 'build_portfolio_website/assets'}
+2026-06-02 01:11:26,921 - skills.executors.file_executor - INFO - FileExecutor: created directory C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\build_portfolio_website\assets
+2026-06-02 01:11:26,926 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_portfolio_website/index.html', 'content': '<!DOCTYPE html>\n<html lang="en">\n<head>\n  <meta charset="UTF-8">\n  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n  <title>Build Portfolio Website</title>\n  <link rel="stylesheet" href="assets/css/style.css">\n</head>\n<body>\n  <header>\n    <h1>Build Portfolio Website</h1>\n    <nav></nav>\n  </header>\n  <main>\n    <section id="about">\n      <h2>About</h2>\n      <p>Build portfolio website</p>\n    </section>\n    <section id="projects">\n      <h2>Projects</h2>\n    </section>\n    <section id="contact">\n      <h2>Contact</h2>\n    </section>\n  </main>\n  <footer><p>Generated by JARVIS</p></footer>\n</body>\n</html>\n'}
+2026-06-02 01:11:26,928 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\build_portfolio_website\index.html
+2026-06-02 01:11:26,932 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_portfolio_website/README.md', 'content': '# Build Portfolio Website\n\n> Build portfolio website\n\n## Requirements\n\n- projects\n- contact\n\n## Setup\n\n```bash\npip install -r requirements.txt\npython main.py\n```\n\n## Generated by\n\nJARVIS AI Operating System — Milestone 3\n'}
+2026-06-02 01:11:26,942 - skills.executors.base_executor - INFO - [file] executing action='create_dir' params={'path': 'build_portfolio_website/assets/css'}
+2026-06-02 01:11:26,943 - skills.executors.file_executor - INFO - FileExecutor: created directory C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\build_portfolio_website\assets\css
+2026-06-02 01:11:26,954 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_portfolio_website/assets/css/style.css', 'content': '* { box-sizing: border-box; margin: 0; padding: 0; }\nbody { font-family: system-ui, sans-serif; line-height: 1.6; color: #333; }\nheader { background: #1a1a2e; color: white; padding: 1rem 2rem; }\nmain { max-width: 1100px; margin: 2rem auto; padding: 0 1rem; }\nsection { margin-bottom: 3rem; }\nh1, h2 { margin-bottom: 1rem; }\nfooter { text-align: center; padding: 2rem; color: #666; }\n'}
+2026-06-02 01:11:26,956 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\build_portfolio_website\assets\css\style.css
+2026-06-02 01:11:27,073 - skills.executors.base_executor - INFO - [file] executing action='append_file' params={'path': 'logs/workflows.log', 'content': '[WORKFLOW] portfolio_website: Build portfolio website\n'}
+2026-06-02 01:11:27,103 - skills.executors.file_executor - INFO - FileExecutor: appended to C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\logs\workflows.log
+2026-06-02 01:11:27,248 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:11:27,249 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: resolved template='research_pipeline' with 4 steps
+2026-06-02 01:11:27,249 - orchestration.workflow_validator - INFO - WorkflowValidator: 0 errors, 0 warnings for 4 steps
+2026-06-02 01:11:27,256 - skills.executors.base_executor - INFO - [browser] executing action='search' params={'query': 'Research latest AI models'}
+2026-06-02 01:11:27,310 - skills.executors.browser_executor - INFO - BrowserExecutor: search opened for 'Research latest AI models'
+2026-06-02 01:11:27,314 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'research/research_latest_ai_models_notes.md', 'content': '# Research: Research latest AI models\n\n## Query\n\nResearch latest AI models\n\n## Notes\n\n'}
+2026-06-02 01:11:27,316 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\research\research_latest_ai_models_notes.md
+2026-06-02 01:11:27,333 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'research/research_latest_ai_models_summary.md', 'content': '# Summary: Research latest AI models\n\n## Key Findings\n\n- (fill in)\n\n## Sources\n\n'}
+2026-06-02 01:11:27,336 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\research\research_latest_ai_models_summary.md
+2026-06-02 01:11:27,379 - skills.executors.base_executor - INFO - [file] executing action='append_file' params={'path': 'logs/workflows.log', 'content': '[WORKFLOW] research_pipeline: Research latest AI models\n'}
+2026-06-02 01:11:27,381 - skills.executors.file_executor - INFO - FileExecutor: appended to C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\logs\workflows.log
+2026-06-02 01:11:27,585 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:11:27,586 - skills.executors.base_executor - INFO - [file] executing action='create_dir' params={'path': 'dep_test/src'}
+2026-06-02 01:11:27,588 - skills.executors.file_executor - INFO - FileExecutor: created directory C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\dep_test\src
+2026-06-02 01:11:27,606 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'dep_test/src/main.py', 'content': '# main'}
+2026-06-02 01:11:27,607 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\dep_test\src\main.py
+2026-06-02 01:11:27,611 - skills.executors.base_executor - INFO - [file] executing action='append_file' params={'path': 'dep_test/build.log', 'content': 'built\n'}
+2026-06-02 01:11:27,613 - skills.executors.file_executor - INFO - FileExecutor: appended to C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\dep_test\build.log
+2026-06-02 01:11:27,620 - orchestration.workflow_orchestrator - INFO - WorkflowOrchestrator: registered ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:11:27,621 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': '../../etc/passwd', 'content': 'x'}
+2026-06-02 01:11:27,622 - orchestration.workflow_orchestrator - ERROR - [file.create_file] failed: Path escapes sandbox boundary.
+  Attempted : C:\Users\jashw\AppData\Local\etc\passwd
+  Workspace : C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb
+Traceback (most recent call last):
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\execution\sandbox.py", line 93, in _check
+    resolved.relative_to(self._root)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\pathlib.py", line 682, in relative_to
+    raise ValueError(f"{str(self)!r} is not in the subpath of {str(other)!r}")
+ValueError: 'C:\\Users\\jashw\\AppData\\Local\\etc\\passwd' is not in the subpath of 'C:\\Users\\jashw\\AppData\\Local\\Temp\\jarvis_orch_test_g7ldf8sb'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\orchestration\workflow_orchestrator.py", line 259, in _execute_workflow
+    output = executor.execute(ctx)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\executors\base_executor.py", line 63, in execute
+    return handler(ctx)
+           ^^^^^^^^^^^^
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\executors\file_executor.py", line 62, in _action_create_file
+    target  = sandbox.resolve(path)
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\execution\sandbox.py", line 63, in resolve
+    self._check(candidate)
+  File "C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\skills\execution\sandbox.py", line 95, in _check
+    raise SandboxViolation(
+skills.execution.sandbox.SandboxViolation: Path escapes sandbox boundary.
+  Attempted : C:\Users\jashw\AppData\Local\etc\passwd
+  Workspace : C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb
+2026-06-02 01:11:27,645 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'recovery_test/independent.txt', 'content': 'independent'}
+2026-06-02 01:11:27,648 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_orch_test_g7ldf8sb\recovery_test\independent.txt
+2026-06-02 01:14:22,689 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 01:14:22,722 - skills.execution.task_router - INFO - TaskRouter: 3 step(s) planned for category='software_development'
+2026-06-02 01:14:22,724 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-02 01:14:22,726 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='research'
+2026-06-02 01:14:22,726 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='system_operations'
+2026-06-02 01:14:22,734 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:14:22,734 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:14:22,736 - skills.execution.task_router - INFO - TaskRouter: 3 step(s) planned for category='software_development'
+2026-06-02 01:14:22,737 - skills.executors.base_executor - INFO - [coding] executing action='generate_project_structure' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-02 01:14:22,748 - skills.executors.coding_executor - INFO - CodingExecutor: scaffolded build_flask_api_project
+2026-06-02 01:14:22,751 - skills.executors.base_executor - INFO - [coding] executing action='write_starter_files' params={'project_name': 'build_flask_api_project', 'goal': 'Build Flask API project', 'requirements': ['authentication', 'REST API']}
+2026-06-02 01:14:22,752 - skills.executors.coding_executor - INFO - CodingExecutor: starter files written for build_flask_api_project
+2026-06-02 01:14:22,755 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'build_flask_api_project/README.md', 'content': '# Build Flask API project\n\n## Overview\n\nAuto-generated by JARVIS.\n\n## Requirements\n\n- authentication\n- REST API\n\n## Getting Started\n\n```bash\n# Install dependencies\npip install -r requirements.txt\n\n# Run the project\npython main.py\n```\n'}
+2026-06-02 01:14:22,764 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-02 01:14:22,765 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'design/create_poster/brief.md', 'content': '# Design Brief: Create poster\n\n## Requirements\n\n- poster\n\n## Style Notes\n\n- (add style notes here)\n\n## Deliverables\n\n- Final design file\n- Export in PNG/PDF\n'}
+2026-06-02 01:14:22,768 - skills.executors.file_executor - INFO - FileExecutor: created C:\Users\jashw\AppData\Local\Temp\jarvis_test_workspace_4evy81es\design\create_poster\brief.md
+2026-06-02 01:14:22,771 - skills.executors.base_executor - INFO - [browser] executing action='open_url' params={'url': 'https://www.canva.com'}
+2026-06-02 01:14:22,955 - skills.executors.browser_executor - INFO - BrowserExecutor: opened https://www.canva.com
+2026-06-02 01:14:22,961 - skills.execution.task_router - INFO - TaskRouter: 2 step(s) planned for category='design'
+2026-06-02 01:14:22,962 - skills.executors.base_executor - INFO - [file] executing action='create_file' params={'path': 'design/create_poster/brief.md', 'content': '# Design Brief: Create poster\n\n## Requirements\n\n- poster\n\n## Style Notes\n\n- (add style notes here)\n\n## Deliverables\n\n- Final design file\n- Export in PNG/PDF\n'}
+2026-06-02 01:14:22,965 - skills.execution.permissions - WARNING - Permission denied — browser.open_url: Action is denied by policy.
+2026-06-02 01:38:44,668 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 01:38:44,802 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 01:38:45,103 - computer_control.action_queue - INFO - ActionQueue: mouse.move_to succeeded (attempt 1)
+2026-06-02 01:38:45,403 - computer_control.action_queue - INFO - ActionQueue: keyboard.press succeeded (attempt 1)
+2026-06-02 01:38:45,466 - computer_control.cc_permissions - WARNING - CC Permission denied — mouse.move_to: CRITICAL risk actions are unconditionally blocked.
+2026-06-02 01:38:45,526 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 01:38:45,530 - computer_control.action_queue - INFO - ActionQueue: app.open_app succeeded (attempt 1)
+2026-06-02 01:38:45,830 - computer_control.action_queue - INFO - ActionQueue: app.wait_for_app succeeded (attempt 1)
+2026-06-02 01:38:46,131 - computer_control.action_queue - INFO - ActionQueue: browser.search_google succeeded (attempt 1)
+2026-06-02 01:38:46,139 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 01:40:44,494 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 01:40:44,503 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 01:40:44,804 - computer_control.action_queue - INFO - ActionQueue: mouse.move_to succeeded (attempt 1)
+2026-06-02 01:40:45,104 - computer_control.action_queue - INFO - ActionQueue: keyboard.press succeeded (attempt 1)
+2026-06-02 01:40:45,109 - computer_control.cc_permissions - WARNING - CC Permission denied — mouse.move_to: CRITICAL risk actions are unconditionally blocked.
+2026-06-02 01:40:45,175 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 01:40:45,177 - computer_control.action_queue - INFO - ActionQueue: app.open_app succeeded (attempt 1)
+2026-06-02 01:40:45,478 - computer_control.action_queue - INFO - ActionQueue: app.wait_for_app succeeded (attempt 1)
+2026-06-02 01:40:45,778 - computer_control.action_queue - INFO - ActionQueue: browser.search_google succeeded (attempt 1)
+2026-06-02 01:40:45,786 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 01:40:45,790 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 01:40:46,091 - computer_control.action_queue - INFO - ActionQueue: screenshot.capture_screen succeeded (attempt 1)
+2026-06-02 01:41:56,507 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 01:41:56,516 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 01:41:56,817 - computer_control.action_queue - INFO - ActionQueue: mouse.move_to succeeded (attempt 1)
+2026-06-02 01:41:57,118 - computer_control.action_queue - INFO - ActionQueue: keyboard.press succeeded (attempt 1)
+2026-06-02 01:41:57,125 - computer_control.cc_permissions - WARNING - CC Permission denied — mouse.move_to: CRITICAL risk actions are unconditionally blocked.
+2026-06-02 01:41:57,186 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 01:41:57,188 - computer_control.action_queue - INFO - ActionQueue: app.open_app succeeded (attempt 1)
+2026-06-02 01:41:57,490 - computer_control.action_queue - INFO - ActionQueue: app.wait_for_app succeeded (attempt 1)
+2026-06-02 01:41:57,791 - computer_control.action_queue - INFO - ActionQueue: browser.search_google succeeded (attempt 1)
+2026-06-02 01:41:57,798 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 01:41:57,800 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 01:41:58,101 - computer_control.action_queue - INFO - ActionQueue: screenshot.capture_screen succeeded (attempt 1)
+2026-06-02 01:45:08,116 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 01:45:08,246 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:45:12,057 - __main__ - INFO - Task received: Move mouse to center of screen
+2026-06-02 01:45:12,057 - core.brain - INFO - Analyzing task: Move mouse to center of screen
+2026-06-02 01:45:12,058 - core.brain - INFO - Goal generated: Category=unknown, Confidence=25.0%
+2026-06-02 01:45:45,355 - __main__ - INFO - Task received: Right click
+2026-06-02 01:45:45,355 - core.brain - INFO - Analyzing task: Right click
+2026-06-02 01:45:45,356 - core.brain - INFO - Goal generated: Category=unknown, Confidence=25.0%
+2026-06-02 01:45:54,303 - __main__ - INFO - Task received: Type hello world
+2026-06-02 01:45:54,304 - core.brain - INFO - Analyzing task: Type hello world
+2026-06-02 01:45:54,304 - core.brain - INFO - Goal generated: Category=unknown, Confidence=25.0%
+2026-06-02 01:46:00,428 - __main__ - INFO - Task received: Enter key pressed
+2026-06-02 01:46:00,428 - core.brain - INFO - Analyzing task: Enter key pressed
+2026-06-02 01:46:00,429 - core.brain - INFO - Goal generated: Category=unknown, Confidence=25.0%
+2026-06-02 01:57:02,931 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 01:57:02,944 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 01:57:44,409 - __main__ - INFO - Task received: Move mouse to center of scr
+2026-06-02 01:57:44,409 - core.brain - INFO - Analyzing task: Move mouse to center of scr
+2026-06-02 01:57:44,410 - core.brain - INFO - Goal generated: Category=computer_control, Confidence=95.0%
+2026-06-02 01:57:44,410 - core.planner - INFO - Creating plan for goal: 'Move mouse to center of scr', category: computer_control
+2026-06-02 01:57:44,410 - core.planner - INFO - Plan created with 5 steps
+2026-06-02 01:57:44,422 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 01:57:44,429 - core.memory - INFO - Memory saved successfully with ID: 6a1deb4037c4a6033aab612e
+2026-06-02 01:57:50,879 - computer_control.failsafe - INFO - PyAutoGUI fail-safe enabled (corner: top-left)
+2026-06-02 01:57:51,009 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 01:57:51,011 - computer_control.action_queue - WARNING - ActionQueue: move_to_center failed (attempt 1), retrying… error=MouseController: unsupported action 'move_to_center'
+2026-06-02 01:57:51,511 - computer_control.action_queue - ERROR - ActionQueue: move_to_center failed after 2 attempt(s): MouseController: unsupported action 'move_to_center'
+2026-06-02 02:05:08,980 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 02:05:08,990 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 02:05:09,291 - computer_control.action_queue - INFO - ActionQueue: mouse.move_to succeeded (attempt 1)
+2026-06-02 02:05:09,592 - computer_control.action_queue - INFO - ActionQueue: keyboard.press succeeded (attempt 1)
+2026-06-02 02:05:09,607 - computer_control.cc_permissions - WARNING - CC Permission denied — mouse.move_to: CRITICAL risk actions are unconditionally blocked.
+2026-06-02 02:05:10,072 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 02:05:10,079 - computer_control.action_queue - INFO - ActionQueue: app.open_app succeeded (attempt 1)
+2026-06-02 02:05:10,383 - computer_control.action_queue - INFO - ActionQueue: app.wait_for_app succeeded (attempt 1)
+2026-06-02 02:05:10,684 - computer_control.action_queue - INFO - ActionQueue: browser.search_google succeeded (attempt 1)
+2026-06-02 02:05:10,721 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 02:05:10,725 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 02:05:11,026 - computer_control.action_queue - INFO - ActionQueue: screenshot.capture_screen succeeded (attempt 1)
+2026-06-02 02:12:34,518 - __main__ - INFO - Task received: Move mouse to center of screen
+2026-06-02 02:12:34,518 - core.brain - INFO - Analyzing task: Move mouse to center of screen
+2026-06-02 02:12:34,519 - core.brain - INFO - Goal generated: Category=computer_control, Confidence=95.0%
+2026-06-02 02:12:34,519 - core.planner - INFO - Creating plan for goal: 'Move mouse to center of screen', category: computer_control
+2026-06-02 02:12:34,520 - core.planner - INFO - Plan created with 5 steps
+2026-06-02 02:12:34,529 - core.memory - INFO - Memory saved successfully with ID: 6a1deeba37c4a6033aab6130
+2026-06-02 02:12:36,927 - computer_control.action_queue - WARNING - ActionQueue: move_to_center failed (attempt 1), retrying… error=MouseController: unsupported action 'move_to_center'
+2026-06-02 02:12:37,428 - computer_control.action_queue - ERROR - ActionQueue: move_to_center failed after 2 attempt(s): MouseController: unsupported action 'move_to_center'
+2026-06-02 02:12:51,695 - database.mongodb - INFO - MongoDB connection closed
+2026-06-02 02:12:57,808 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 02:12:57,817 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 02:13:20,408 - __main__ - INFO - Task received: Move mouse to center of screen
+2026-06-02 02:13:20,409 - core.brain - INFO - Analyzing task: Move mouse to center of screen
+2026-06-02 02:13:20,409 - core.brain - INFO - Goal generated: Category=computer_control, Confidence=95.0%
+2026-06-02 02:13:20,410 - core.planner - INFO - Creating plan for goal: 'Move mouse to center of screen', category: computer_control
+2026-06-02 02:13:20,410 - core.planner - INFO - Plan created with 5 steps
+2026-06-02 02:13:20,420 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 02:13:20,438 - core.memory - INFO - Memory saved successfully with ID: 6a1deee8d3419313fa44bd28
+2026-06-02 02:13:23,440 - computer_control.failsafe - INFO - PyAutoGUI fail-safe enabled (corner: top-left)
+2026-06-02 02:13:23,457 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 02:13:23,459 - computer_control.action_queue - WARNING - ActionQueue: move_to_center failed (attempt 1), retrying… error=MouseController: unsupported action 'move_to_center'
+2026-06-02 02:13:23,961 - computer_control.action_queue - ERROR - ActionQueue: move_to_center failed after 2 attempt(s): MouseController: unsupported action 'move_to_center'
+2026-06-02 02:30:06,652 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 02:30:06,661 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 02:30:20,044 - __main__ - INFO - Task received: Move mouse to center of screen
+2026-06-02 02:30:20,044 - core.brain - INFO - Analyzing task: Move mouse to center of screen
+2026-06-02 02:30:20,044 - core.brain - INFO - Goal generated: Category=computer_control, Confidence=95.0%
+2026-06-02 02:30:20,045 - core.planner - INFO - Creating plan for goal: 'Move mouse to center of screen', category: computer_control
+2026-06-02 02:30:20,045 - core.planner - INFO - Plan created with 5 steps
+2026-06-02 02:30:20,055 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 02:30:20,060 - core.memory - INFO - Memory saved successfully with ID: 6a1df2e4e3261f37a0124e0c
+2026-06-02 02:30:22,251 - computer_control.failsafe - INFO - PyAutoGUI fail-safe enabled (corner: top-left)
+2026-06-02 02:30:22,283 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 02:30:22,710 - computer_control.mouse_controller - INFO - MouseController: moved to (960, 540)
+2026-06-02 02:30:22,710 - computer_control.action_queue - INFO - ActionQueue: mouse.move_to succeeded (attempt 1)
+2026-06-02 02:30:40,211 - __main__ - INFO - Task received: Right click
+2026-06-02 02:30:40,212 - core.brain - INFO - Analyzing task: Right click
+2026-06-02 02:30:40,212 - core.brain - INFO - Goal generated: Category=computer_control, Confidence=95.0%
+2026-06-02 02:30:40,212 - core.planner - INFO - Creating plan for goal: 'Right click', category: computer_control
+2026-06-02 02:30:40,212 - core.planner - INFO - Plan created with 5 steps
+2026-06-02 02:30:40,220 - core.memory - INFO - Memory saved successfully with ID: 6a1df2f8e3261f37a0124e0e
+2026-06-02 02:30:43,154 - computer_control.action_queue - INFO - ActionQueue: mouse.right_click succeeded (attempt 1)
+2026-06-02 02:30:51,077 - __main__ - INFO - Task received: Scroll down
+2026-06-02 02:30:51,078 - core.brain - INFO - Analyzing task: Scroll down
+2026-06-02 02:32:05,315 - __main__ - INFO - Task received: Type hello world
+2026-06-02 02:32:05,316 - core.brain - INFO - Analyzing task: Type hello world
+2026-06-02 02:32:05,316 - core.brain - INFO - Goal generated: Category=computer_control, Confidence=95.0%
+2026-06-02 02:32:05,316 - core.planner - INFO - Creating plan for goal: 'Type hello world', category: computer_control
+2026-06-02 02:32:05,316 - core.planner - INFO - Plan created with 5 steps
+2026-06-02 02:32:05,326 - core.memory - INFO - Memory saved successfully with ID: 6a1df34de3261f37a0124e10
+2026-06-02 02:32:07,450 - computer_control.keyboard_controller - INFO - KeyboardController: typed 11 chars: 'hello world'
+2026-06-02 02:32:07,450 - computer_control.action_queue - INFO - ActionQueue: keyboard.type_text succeeded (attempt 1)
+2026-06-02 02:32:21,580 - __main__ - INFO - Task received: Press ctrl s
+2026-06-02 02:32:21,580 - core.brain - INFO - Analyzing task: Press ctrl s
+2026-06-02 02:32:21,581 - core.brain - INFO - Goal generated: Category=computer_control, Confidence=80.3%
+2026-06-02 02:32:21,581 - core.planner - INFO - Creating plan for goal: 'Press ctrl s', category: computer_control
+2026-06-02 02:32:21,581 - core.planner - INFO - Plan created with 5 steps
+2026-06-02 02:32:21,588 - core.memory - INFO - Memory saved successfully with ID: 6a1df35de3261f37a0124e12
+2026-06-02 02:32:23,351 - computer_control.keyboard_controller - INFO - KeyboardController: pressed 'ctrl' × 1
+2026-06-02 02:32:23,351 - computer_control.action_queue - INFO - ActionQueue: keyboard.press succeeded (attempt 1)
+2026-06-02 02:32:33,768 - __main__ - INFO - Task received: Open Chrome
+2026-06-02 02:32:33,768 - core.brain - INFO - Analyzing task: Open Chrome
+2026-06-02 02:32:33,768 - core.brain - INFO - Goal generated: Category=computer_control, Confidence=95.0%
+2026-06-02 02:32:33,768 - core.planner - INFO - Creating plan for goal: 'Open Chrome', category: computer_control
+2026-06-02 02:32:33,769 - core.planner - INFO - Plan created with 5 steps
+2026-06-02 02:32:33,776 - core.memory - INFO - Memory saved successfully with ID: 6a1df369e3261f37a0124e14
+2026-06-02 02:32:35,592 - computer_control.app_controller - INFO - AppController: launched 'chrome' (chrome.exe)
+2026-06-02 02:32:35,593 - computer_control.action_queue - INFO - ActionQueue: app.open_app succeeded (attempt 1)
+2026-06-02 02:34:02,598 - __main__ - INFO - Task received: Open VS Code
+2026-06-02 02:34:02,599 - core.brain - INFO - Analyzing task: Open VS Code
+2026-06-02 02:34:02,599 - core.brain - INFO - Goal generated: Category=computer_control, Confidence=94.3%
+2026-06-02 02:34:02,599 - core.planner - INFO - Creating plan for goal: 'Open VS Code', category: computer_control
+2026-06-02 02:34:02,600 - core.planner - INFO - Plan created with 5 steps
+2026-06-02 02:34:02,607 - core.memory - INFO - Memory saved successfully with ID: 6a1df3c2e3261f37a0124e16
+2026-06-02 02:34:04,390 - computer_control.app_controller - INFO - AppController: launched 'vscode' (code)
+2026-06-02 02:34:04,391 - computer_control.action_queue - INFO - ActionQueue: app.open_app succeeded (attempt 1)
+2026-06-02 02:34:37,811 - __main__ - INFO - Task received: Open Brave
+2026-06-02 02:34:37,811 - core.brain - INFO - Analyzing task: Open Brave
+2026-06-02 02:34:37,812 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-02 10:54:48,876 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 10:54:49,293 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 10:54:49,594 - computer_control.action_queue - INFO - ActionQueue: mouse.move_to succeeded (attempt 1)
+2026-06-02 10:54:49,895 - computer_control.action_queue - INFO - ActionQueue: keyboard.press succeeded (attempt 1)
+2026-06-02 10:54:50,008 - computer_control.cc_permissions - WARNING - CC Permission denied â€” mouse.move_to: CRITICAL risk actions are unconditionally blocked.
+2026-06-02 10:54:50,412 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 10:54:50,416 - computer_control.action_queue - INFO - ActionQueue: app.open_app succeeded (attempt 1)
+2026-06-02 10:54:50,716 - computer_control.action_queue - INFO - ActionQueue: app.wait_for_app succeeded (attempt 1)
+2026-06-02 10:54:51,017 - computer_control.action_queue - INFO - ActionQueue: browser.search_google succeeded (attempt 1)
+2026-06-02 10:54:51,335 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 10:54:51,337 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 10:54:51,639 - computer_control.action_queue - INFO - ActionQueue: screenshot.capture_screen succeeded (attempt 1)
+2026-06-02 10:55:08,726 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 10:55:08,734 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 10:55:09,035 - computer_control.action_queue - INFO - ActionQueue: mouse.move_to succeeded (attempt 1)
+2026-06-02 10:55:09,335 - computer_control.action_queue - INFO - ActionQueue: keyboard.press succeeded (attempt 1)
+2026-06-02 10:55:09,359 - computer_control.cc_permissions - WARNING - CC Permission denied â€” mouse.move_to: CRITICAL risk actions are unconditionally blocked.
+2026-06-02 10:55:09,872 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 10:55:09,874 - computer_control.action_queue - INFO - ActionQueue: app.open_app succeeded (attempt 1)
+2026-06-02 10:55:10,175 - computer_control.action_queue - INFO - ActionQueue: app.wait_for_app succeeded (attempt 1)
+2026-06-02 10:55:10,475 - computer_control.action_queue - INFO - ActionQueue: browser.search_google succeeded (attempt 1)
+2026-06-02 10:55:10,491 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 10:55:10,493 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 10:55:10,794 - computer_control.action_queue - INFO - ActionQueue: screenshot.capture_screen succeeded (attempt 1)
+2026-06-02 11:35:51,560 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 11:35:51,567 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 11:35:51,868 - computer_control.action_queue - INFO - ActionQueue: mouse.move_to succeeded (attempt 1)
+2026-06-02 11:35:52,169 - computer_control.action_queue - INFO - ActionQueue: keyboard.press succeeded (attempt 1)
+2026-06-02 11:35:52,180 - computer_control.cc_permissions - WARNING - CC Permission denied â€” mouse.move_to: CRITICAL risk actions are unconditionally blocked.
+2026-06-02 11:35:52,558 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 11:35:52,559 - computer_control.action_queue - INFO - ActionQueue: app.open_app succeeded (attempt 1)
+2026-06-02 11:35:52,859 - computer_control.action_queue - INFO - ActionQueue: app.wait_for_app succeeded (attempt 1)
+2026-06-02 11:35:53,160 - computer_control.action_queue - INFO - ActionQueue: browser.search_google succeeded (attempt 1)
+2026-06-02 11:35:53,200 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 11:35:53,202 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 11:35:53,503 - computer_control.action_queue - INFO - ActionQueue: screenshot.capture_screen succeeded (attempt 1)
+2026-06-02 11:36:50,152 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 11:36:50,160 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 11:36:50,460 - computer_control.action_queue - INFO - ActionQueue: mouse.move_to succeeded (attempt 1)
+2026-06-02 11:36:50,760 - computer_control.action_queue - INFO - ActionQueue: keyboard.press succeeded (attempt 1)
+2026-06-02 11:36:50,772 - computer_control.cc_permissions - WARNING - CC Permission denied â€” mouse.move_to: CRITICAL risk actions are unconditionally blocked.
+2026-06-02 11:36:51,151 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 11:36:51,154 - computer_control.action_queue - INFO - ActionQueue: app.open_app succeeded (attempt 1)
+2026-06-02 11:36:51,454 - computer_control.action_queue - INFO - ActionQueue: app.wait_for_app succeeded (attempt 1)
+2026-06-02 11:36:51,755 - computer_control.action_queue - INFO - ActionQueue: browser.search_google succeeded (attempt 1)
+2026-06-02 11:36:51,770 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 11:36:51,772 - computer_control.action_queue - INFO - ActionQueue: screen.get_screen_info succeeded (attempt 1)
+2026-06-02 11:36:52,073 - computer_control.action_queue - INFO - ActionQueue: screenshot.capture_screen succeeded (attempt 1)
+2026-06-02 14:20:30,841 - autonomy.background_scheduler - WARNING - schedule library not found. Install with: pip install schedule
+2026-06-02 14:20:30,861 - autonomy.recovery_manager - INFO - Running recovery check...
+2026-06-02 14:20:31,226 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 14:20:31,415 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding']
+2026-06-02 14:21:11,394 - __main__ - INFO - Task received: Speak hello world
+2026-06-02 14:21:11,394 - core.brain - INFO - Analyzing task: Speak hello world
+2026-06-02 14:21:11,395 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-02 14:31:11,551 - __main__ - INFO - Task received: Speak hello world
+2026-06-02 14:31:11,551 - core.brain - INFO - Analyzing task: Speak hello world
+2026-06-02 14:31:11,551 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-02 14:36:30,739 - __main__ - INFO - Task received: Speak hello world
+2026-06-02 14:36:30,739 - core.brain - INFO - Analyzing task: Speak hello world
+2026-06-02 14:36:30,739 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-02 14:36:38,819 - autonomy.background_scheduler - WARNING - schedule library not found. Install with: pip install schedule
+2026-06-02 14:36:38,831 - autonomy.recovery_manager - INFO - Running recovery check...
+2026-06-02 14:36:38,845 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 14:36:38,864 - voice.voice_memory - INFO - Loaded 23 voice interactions
+2026-06-02 14:36:38,876 - voice.audio_router - INFO - Found 2 input devices, 2 output devices
+2026-06-02 14:36:38,877 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding', 'voice']
+2026-06-02 14:36:41,718 - __main__ - INFO - Task received: Speak hello world
+2026-06-02 14:36:41,718 - core.brain - INFO - Analyzing task: Speak hello world
+2026-06-02 14:36:41,719 - core.brain - INFO - Goal generated: Category=text_to_speech, Confidence=95.0%
+2026-06-02 14:36:41,719 - core.planner - INFO - Creating plan for goal: 'Speak hello world', category: text_to_speech
+2026-06-02 14:36:41,719 - core.planner - INFO - Plan created with 3 steps
+2026-06-02 14:36:41,757 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 14:36:41,894 - core.memory - INFO - Memory saved successfully with ID: 6a1e9d21ed8b9574e04e842c
+2026-06-02 14:36:45,031 - skills.execution.task_router - INFO - TaskRouter: 1 step(s) planned for category='text_to_speech'
+2026-06-02 14:36:45,033 - skills.execution.task_router - INFO - TaskRouter: 1 step(s) planned for category='text_to_speech'
+2026-06-02 14:36:45,034 - skills.executors.base_executor - INFO - [voice] executing action='speak' params={'text': 'hello world'}
+2026-06-02 14:36:45,034 - skills.executors.voice_executor - INFO - VoiceExecutor: Speaking text: hello world
+2026-06-02 14:36:45,034 - voice.text_to_speech - INFO - Speaking: hello world
+2026-06-02 14:36:45,436 - voice.text_to_speech - INFO - TTS finished speaking
+2026-06-02 14:43:59,999 - database.mongodb - INFO - MongoDB connection closed
+2026-06-02 14:51:16,805 - autonomy.background_scheduler - WARNING - schedule library not found. Install with: pip install schedule
+2026-06-02 14:51:16,807 - autonomy.recovery_manager - INFO - Running recovery check...
+2026-06-02 14:51:16,824 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 14:51:16,841 - voice.text_to_speech - INFO - Initializing TTS engine (SAPI5)...
+2026-06-02 14:51:16,882 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jashw\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-02 14:51:16,882 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jashw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-06-02 14:51:17,049 - voice.text_to_speech - INFO - TTS volume set to 1.0
+2026-06-02 14:51:17,049 - voice.text_to_speech - INFO - TTS speech rate set to 170 wpm
+2026-06-02 14:51:17,051 - voice.text_to_speech - INFO - Available TTS voices: 2
+2026-06-02 14:51:17,051 - voice.text_to_speech - INFO - Voice 0: ID=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_DAVID_11.0, Name=Microsoft David Desktop - English (United States), Lang=['en-US']
+2026-06-02 14:51:17,051 - voice.text_to_speech - INFO - Voice 1: ID=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0, Name=Microsoft Zira Desktop - English (United States), Lang=['en-US']
+2026-06-02 14:51:17,051 - voice.text_to_speech - INFO - Selected voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_DAVID_11.0
+2026-06-02 14:51:17,051 - voice.text_to_speech - INFO - TTS engine initialized successfully
+2026-06-02 14:51:17,054 - voice.voice_memory - INFO - Loaded 24 voice interactions
+2026-06-02 14:51:17,066 - voice.audio_router - INFO - Found 2 input devices, 2 output devices
+2026-06-02 14:51:17,066 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding', 'voice']
+2026-06-02 14:51:20,681 - __main__ - INFO - Task received: Speak hello world
+2026-06-02 14:51:20,681 - core.brain - INFO - Analyzing task: Speak hello world
+2026-06-02 14:51:20,681 - core.brain - INFO - Goal generated: Category=text_to_speech, Confidence=95.0%
+2026-06-02 14:51:20,682 - core.planner - INFO - Creating plan for goal: 'Speak hello world', category: text_to_speech
+2026-06-02 14:51:20,682 - core.planner - INFO - Plan created with 3 steps
+2026-06-02 14:51:20,688 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 14:51:20,710 - core.memory - INFO - Memory saved successfully with ID: 6a1ea0904bea6d36a7cfefb3
+2026-06-02 14:51:22,744 - skills.execution.task_router - INFO - TaskRouter: 1 step(s) planned for category='text_to_speech'
+2026-06-02 14:51:22,745 - skills.execution.task_router - INFO - TaskRouter: 1 step(s) planned for category='text_to_speech'
+2026-06-02 14:51:22,746 - skills.executors.base_executor - INFO - [voice] executing action='speak' params={'text': 'hello world'}
+2026-06-02 14:51:22,746 - skills.executors.voice_executor - INFO - VoiceExecutor: Speaking text: hello world
+2026-06-02 14:51:22,746 - voice.text_to_speech - INFO - Speaking: hello world
+2026-06-02 14:51:24,851 - voice.text_to_speech - INFO - TTS finished speaking successfully
+2026-06-02 14:52:36,688 - database.mongodb - INFO - MongoDB connection closed
+2026-06-02 15:05:25,406 - autonomy.background_scheduler - WARNING - schedule library not found. Install with: pip install schedule
+2026-06-02 15:05:25,407 - autonomy.recovery_manager - INFO - Running recovery check...
+2026-06-02 15:05:25,415 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 15:05:25,446 - voice.voice_profile_manager - INFO - Loaded 4 voice profiles
+2026-06-02 15:05:25,476 - voice.text_to_speech - INFO - Loading voice profile: jarvis_classic
+2026-06-02 15:05:25,477 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 15:05:25,630 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 15:05:25,630 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 15:05:25,632 - voice.tts_engines.engine_selector - WARNING - Failed to initialize piper, falling back...
+2026-06-02 15:05:25,632 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 15:05:25,632 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 15:05:25,632 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 15:05:25,634 - voice.tts_engines.pyttsx3_engine - INFO - Initializing pyttsx3 TTS engine...
+2026-06-02 15:05:25,688 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jashw\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-02 15:05:25,733 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jashw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-06-02 15:05:25,917 - voice.tts_engines.pyttsx3_engine - INFO - pyttsx3 TTS initialized successfully!
+2026-06-02 15:05:25,917 - voice.tts_engines.engine_selector - INFO - Using TTS engine: pyttsx3
+2026-06-02 15:05:25,920 - voice.voice_memory - INFO - Loaded 25 voice interactions
+2026-06-02 15:05:25,929 - voice.audio_router - INFO - Found 2 input devices, 2 output devices
+2026-06-02 15:05:25,930 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding', 'voice']
+2026-06-02 15:05:32,977 - __main__ - INFO - Task received: speak hello world
+2026-06-02 15:05:32,977 - core.brain - INFO - Analyzing task: speak hello world
+2026-06-02 15:05:32,977 - core.brain - INFO - Goal generated: Category=text_to_speech, Confidence=95.0%
+2026-06-02 15:05:32,977 - core.planner - INFO - Creating plan for goal: 'speak hello world', category: text_to_speech
+2026-06-02 15:05:32,977 - core.planner - INFO - Plan created with 3 steps
+2026-06-02 15:05:32,985 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 15:05:32,990 - core.memory - INFO - Memory saved successfully with ID: 6a1ea3e4e833f66d858e75e5
+2026-06-02 15:05:34,536 - skills.execution.task_router - INFO - TaskRouter: 1 step(s) planned for category='text_to_speech'
+2026-06-02 15:05:34,537 - skills.execution.task_router - INFO - TaskRouter: 1 step(s) planned for category='text_to_speech'
+2026-06-02 15:05:34,538 - skills.executors.base_executor - INFO - [voice] executing action='speak' params={'text': 'hello world'}
+2026-06-02 15:05:34,538 - skills.executors.voice_executor - INFO - VoiceExecutor: Speaking text: hello world
+2026-06-02 15:05:34,538 - voice.text_to_speech - INFO - Speaking: hello world
+2026-06-02 15:05:35,587 - voice.text_to_speech - INFO - TTS finished speaking (success: True)
+2026-06-02 15:12:29,649 - database.mongodb - INFO - MongoDB connection closed
+2026-06-02 15:26:38,434 - autonomy.background_scheduler - WARNING - schedule library not found. Install with: pip install schedule
+2026-06-02 15:26:38,436 - autonomy.recovery_manager - INFO - Running recovery check...
+2026-06-02 15:26:38,444 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 15:26:38,465 - voice.voice_profile_manager - INFO - Loaded 4 voice profiles
+2026-06-02 15:26:38,469 - voice.text_to_speech - INFO - Loading voice profile: jarvis_classic
+2026-06-02 15:26:38,469 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 15:26:38,681 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 15:26:38,681 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 15:26:38,681 - voice.tts_engines.engine_selector - WARNING - Failed to initialize piper, falling back...
+2026-06-02 15:26:38,683 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 15:26:38,683 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 15:26:38,683 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 15:26:38,684 - voice.tts_engines.pyttsx3_engine - INFO - Initializing pyttsx3 TTS engine...
+2026-06-02 15:26:38,735 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jashw\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-02 15:26:38,735 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jashw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-06-02 15:26:38,865 - voice.tts_engines.pyttsx3_engine - INFO - pyttsx3 TTS initialized successfully!
+2026-06-02 15:26:38,865 - voice.tts_engines.engine_selector - INFO - Using TTS engine: pyttsx3
+2026-06-02 15:26:38,868 - voice.voice_memory - INFO - Loaded 26 voice interactions
+2026-06-02 15:26:38,881 - voice.audio_router - INFO - Found 2 input devices, 2 output devices
+2026-06-02 15:26:38,881 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding', 'voice']
+2026-06-02 15:38:15,572 - autonomy.background_scheduler - WARNING - schedule library not found. Install with: pip install schedule
+2026-06-02 15:38:15,573 - autonomy.recovery_manager - INFO - Running recovery check...
+2026-06-02 15:38:15,580 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 15:38:15,592 - voice.voice_profile_manager - INFO - Loaded 4 voice profiles
+2026-06-02 15:38:15,594 - voice.text_to_speech - INFO - Loading voice profile: jarvis_classic
+2026-06-02 15:38:15,594 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 15:38:15,748 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 15:38:15,748 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 15:38:15,748 - voice.tts_engines.engine_selector - WARNING - Failed to initialize piper, falling back...
+2026-06-02 15:38:15,748 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 15:38:15,749 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 15:38:15,749 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 15:38:15,750 - voice.tts_engines.pyttsx3_engine - INFO - Initializing pyttsx3 TTS engine...
+2026-06-02 15:38:15,800 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jashw\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-02 15:38:15,800 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jashw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-06-02 15:38:15,934 - voice.tts_engines.pyttsx3_engine - INFO - Set initial TTS speed to 150 WPM
+2026-06-02 15:38:15,936 - voice.tts_engines.pyttsx3_engine - INFO - Available voices: 2 found
+2026-06-02 15:38:15,936 - voice.tts_engines.pyttsx3_engine - INFO -   Voice 0: Microsoft David Desktop - English (United States)
+2026-06-02 15:38:15,936 - voice.tts_engines.pyttsx3_engine - INFO - Found target voice: Microsoft David Desktop - English (United States)
+2026-06-02 15:38:15,936 - voice.tts_engines.pyttsx3_engine - INFO - pyttsx3 TTS initialized successfully!
+2026-06-02 15:38:15,936 - voice.tts_engines.engine_selector - INFO - Using TTS engine: pyttsx3
+2026-06-02 15:38:15,936 - voice.tts_engines.pyttsx3_engine - INFO - Set TTS speed to 150 WPM (scale: 1.0)
+2026-06-02 15:38:15,938 - voice.voice_memory - INFO - Loaded 26 voice interactions
+2026-06-02 15:38:15,949 - voice.audio_router - INFO - Found 2 input devices, 2 output devices
+2026-06-02 15:38:15,949 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding', 'voice']
+2026-06-02 16:05:01,457 - autonomy.background_scheduler - WARNING - schedule library not found. Install with: pip install schedule
+2026-06-02 16:05:01,458 - autonomy.recovery_manager - INFO - Running recovery check...
+2026-06-02 16:05:01,466 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 16:05:01,478 - voice.voice_profile_manager - INFO - Loaded 4 voice profiles
+2026-06-02 16:05:01,481 - voice.text_to_speech - INFO - Loading voice profile: jarvis_classic
+2026-06-02 16:05:01,481 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 16:05:01,639 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 16:05:01,639 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 16:05:01,639 - voice.tts_engines.engine_selector - WARNING - Failed to initialize piper, falling back...
+2026-06-02 16:05:01,639 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 16:05:01,639 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 16:05:01,639 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 16:05:01,642 - voice.tts_engines.pyttsx3_engine - INFO - Initializing pyttsx3 TTS engine...
+2026-06-02 16:05:01,697 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jashw\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-02 16:05:01,697 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jashw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-06-02 16:05:01,844 - voice.tts_engines.pyttsx3_engine - INFO - Set initial TTS speed to 150 WPM
+2026-06-02 16:05:01,846 - voice.tts_engines.pyttsx3_engine - INFO - Available voices: 2 found
+2026-06-02 16:05:01,846 - voice.tts_engines.pyttsx3_engine - INFO -   Voice 0: Microsoft David Desktop - English (United States)
+2026-06-02 16:05:01,847 - voice.tts_engines.pyttsx3_engine - INFO - Found target voice: Microsoft David Desktop - English (United States)
+2026-06-02 16:05:01,847 - voice.tts_engines.pyttsx3_engine - INFO - pyttsx3 TTS initialized successfully!
+2026-06-02 16:05:01,847 - voice.tts_engines.engine_selector - INFO - Using TTS engine: pyttsx3
+2026-06-02 16:05:01,847 - voice.tts_engines.pyttsx3_engine - INFO - Set TTS speed to 150 WPM (scale: 1.0)
+2026-06-02 16:05:01,850 - voice.voice_memory - INFO - Loaded 26 voice interactions
+2026-06-02 16:05:01,860 - voice.audio_router - INFO - Found 2 input devices, 2 output devices
+2026-06-02 16:05:01,862 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding', 'voice']
+2026-06-02 16:10:54,677 - autonomy.background_scheduler - WARNING - schedule library not found. Install with: pip install schedule
+2026-06-02 16:10:54,678 - autonomy.recovery_manager - INFO - Running recovery check...
+2026-06-02 16:10:54,686 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 16:10:54,703 - voice.voice_profile_manager - INFO - Loaded 4 voice profiles
+2026-06-02 16:10:54,706 - voice.text_to_speech - INFO - Loading voice profile: jarvis_classic
+2026-06-02 16:10:54,707 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 16:10:54,872 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 16:10:54,873 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 16:10:54,873 - voice.tts_engines.engine_selector - WARNING - Failed to initialize piper, falling back...
+2026-06-02 16:10:54,873 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 16:10:54,873 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 16:10:54,873 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 16:10:54,875 - voice.tts_engines.pyttsx3_engine - INFO - Initializing pyttsx3 TTS engine...
+2026-06-02 16:10:54,929 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jashw\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-02 16:10:54,929 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jashw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-06-02 16:10:55,071 - voice.tts_engines.pyttsx3_engine - INFO - Set initial TTS speed to 150 WPM
+2026-06-02 16:10:55,072 - voice.tts_engines.pyttsx3_engine - INFO - Available voices: 2 found
+2026-06-02 16:10:55,072 - voice.tts_engines.pyttsx3_engine - INFO -   Voice 0: Microsoft David Desktop - English (United States)
+2026-06-02 16:10:55,073 - voice.tts_engines.pyttsx3_engine - INFO - Found target voice: Microsoft David Desktop - English (United States)
+2026-06-02 16:10:55,073 - voice.tts_engines.pyttsx3_engine - INFO - pyttsx3 TTS initialized successfully!
+2026-06-02 16:10:55,073 - voice.tts_engines.engine_selector - INFO - Using TTS engine: pyttsx3
+2026-06-02 16:10:55,073 - voice.tts_engines.pyttsx3_engine - INFO - Set TTS speed to 150 WPM (scale: 1.0)
+2026-06-02 16:10:55,075 - voice.voice_memory - INFO - Loaded 26 voice interactions
+2026-06-02 16:10:55,086 - voice.audio_router - INFO - Found 2 input devices, 2 output devices
+2026-06-02 16:10:55,087 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding', 'voice']
+2026-06-02 16:11:05,285 - __main__ - INFO - Task received: Open Chrome
+2026-06-02 16:11:05,285 - core.brain - INFO - Analyzing task: Open Chrome
+2026-06-02 16:11:05,286 - core.brain - INFO - Goal generated: Category=computer_control, Confidence=95.0%
+2026-06-02 16:11:05,286 - core.planner - INFO - Creating plan for goal: 'Open Chrome', category: computer_control
+2026-06-02 16:11:05,286 - core.planner - INFO - Plan created with 5 steps
+2026-06-02 16:11:05,297 - database.mongodb - INFO - Connected to MongoDB database: jarvis
+2026-06-02 16:11:05,317 - core.memory - INFO - Memory saved successfully with ID: 6a1eb3418ec22732bc86ea24
+2026-06-02 16:11:10,032 - computer_control.failsafe - INFO - PyAutoGUI fail-safe enabled (corner: top-left)
+2026-06-02 16:11:10,318 - computer_control.control_manager - INFO - ControlManager: registered ['mouse', 'keyboard', 'window', 'browser', 'app', 'screen', 'screenshot', 'ui']
+2026-06-02 16:11:10,319 - computer_control.control_workflow_generator - INFO - ControlWorkflowGenerator: 'Open Chrome' â†’ open_chrome
+2026-06-02 16:11:10,319 - computer_control.action_translator - WARNING - ActionTranslator: unknown semantic action 'open_chrome' â€” skipped
+2026-06-02 16:11:53,592 - database.mongodb - INFO - MongoDB connection closed
+2026-06-02 16:12:01,384 - autonomy.background_scheduler - WARNING - schedule library not found. Install with: pip install schedule
+2026-06-02 16:12:01,385 - autonomy.recovery_manager - INFO - Running recovery check...
+2026-06-02 16:12:01,393 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 16:12:01,405 - voice.voice_profile_manager - INFO - Loaded 4 voice profiles
+2026-06-02 16:12:01,407 - voice.text_to_speech - INFO - Loading voice profile: jarvis_classic
+2026-06-02 16:12:01,407 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 16:12:01,556 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 16:12:01,556 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 16:12:01,556 - voice.tts_engines.engine_selector - WARNING - Failed to initialize piper, falling back...
+2026-06-02 16:12:01,556 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 16:12:01,556 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 16:12:01,556 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 16:12:01,558 - voice.tts_engines.pyttsx3_engine - INFO - Initializing pyttsx3 TTS engine...
+2026-06-02 16:12:01,603 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jashw\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-02 16:12:01,603 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jashw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-06-02 16:12:01,741 - voice.tts_engines.pyttsx3_engine - INFO - Set initial TTS speed to 150 WPM
+2026-06-02 16:12:01,743 - voice.tts_engines.pyttsx3_engine - INFO - Available voices: 2 found
+2026-06-02 16:12:01,743 - voice.tts_engines.pyttsx3_engine - INFO -   Voice 0: Microsoft David Desktop - English (United States)
+2026-06-02 16:12:01,743 - voice.tts_engines.pyttsx3_engine - INFO - Found target voice: Microsoft David Desktop - English (United States)
+2026-06-02 16:12:01,744 - voice.tts_engines.pyttsx3_engine - INFO - pyttsx3 TTS initialized successfully!
+2026-06-02 16:12:01,744 - voice.tts_engines.engine_selector - INFO - Using TTS engine: pyttsx3
+2026-06-02 16:12:01,744 - voice.tts_engines.pyttsx3_engine - INFO - Set TTS speed to 150 WPM (scale: 1.0)
+2026-06-02 16:12:01,746 - voice.voice_memory - INFO - Loaded 26 voice interactions
+2026-06-02 16:12:01,756 - voice.audio_router - INFO - Found 2 input devices, 2 output devices
+2026-06-02 16:12:01,757 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding', 'voice']
+2026-06-02 16:57:39,393 - autonomy.background_scheduler - WARNING - schedule library not found. Install with: pip install schedule
+2026-06-02 16:57:39,394 - autonomy.recovery_manager - INFO - Running recovery check...
+2026-06-02 16:57:39,402 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 16:57:39,416 - voice.voice_profile_manager - INFO - Loaded 4 voice profiles
+2026-06-02 16:57:39,419 - voice.text_to_speech - INFO - Loading voice profile: jarvis_classic
+2026-06-02 16:57:39,419 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 16:57:39,579 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 16:57:39,580 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 16:57:39,580 - voice.tts_engines.engine_selector - WARNING - Failed to initialize piper, falling back...
+2026-06-02 16:57:39,580 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 16:57:39,580 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 16:57:39,580 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 16:57:39,582 - voice.tts_engines.pyttsx3_engine - INFO - Initializing pyttsx3 TTS engine...
+2026-06-02 16:57:39,631 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jashw\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-02 16:57:39,632 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jashw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-06-02 16:57:39,768 - voice.tts_engines.pyttsx3_engine - INFO - Set initial TTS speed to 150 WPM
+2026-06-02 16:57:39,769 - voice.tts_engines.pyttsx3_engine - INFO - Available voices: 2 found
+2026-06-02 16:57:39,770 - voice.tts_engines.pyttsx3_engine - INFO -   Voice 0: Microsoft David Desktop - English (United States)
+2026-06-02 16:57:39,770 - voice.tts_engines.pyttsx3_engine - INFO - Found target voice: Microsoft David Desktop - English (United States)
+2026-06-02 16:57:39,770 - voice.tts_engines.pyttsx3_engine - INFO - pyttsx3 TTS initialized successfully!
+2026-06-02 16:57:39,770 - voice.tts_engines.engine_selector - INFO - Using TTS engine: pyttsx3
+2026-06-02 16:57:39,770 - voice.tts_engines.pyttsx3_engine - INFO - Set TTS speed to 150 WPM (scale: 1.0)
+2026-06-02 16:57:39,772 - voice.voice_memory - INFO - Loaded 26 voice interactions
+2026-06-02 16:57:39,782 - voice.audio_router - INFO - Found 2 input devices, 2 output devices
+2026-06-02 16:57:39,782 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding', 'voice']
+2026-06-02 16:59:49,989 - autonomy.background_scheduler - WARNING - schedule library not found. Install with: pip install schedule
+2026-06-02 16:59:49,990 - autonomy.recovery_manager - INFO - Running recovery check...
+2026-06-02 16:59:50,007 - skills.execution.sandbox - INFO - Sandbox workspace: C:\Users\jashw\OneDrive\Desktop\jarvis project\v1\workspace
+2026-06-02 16:59:50,040 - voice.voice_profile_manager - INFO - Loaded 4 voice profiles
+2026-06-02 16:59:50,048 - voice.text_to_speech - INFO - Loading voice profile: jarvis_classic
+2026-06-02 16:59:50,048 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 16:59:50,316 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 16:59:50,316 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 16:59:50,316 - voice.tts_engines.engine_selector - WARNING - Failed to initialize piper, falling back...
+2026-06-02 16:59:50,316 - voice.tts_engines.piper_engine - INFO - Initializing Piper TTS engine...
+2026-06-02 16:59:50,316 - voice.tts_engines.piper_engine - ERROR - Piper TTS dependencies not installed: No module named 'piper.download'
+2026-06-02 16:59:50,316 - voice.tts_engines.piper_engine - WARNING - To install Piper: pip install piper-tts sounddevice numpy
+2026-06-02 16:59:50,322 - voice.tts_engines.pyttsx3_engine - INFO - Initializing pyttsx3 TTS engine...
+2026-06-02 16:59:50,421 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\jashw\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-06-02 16:59:50,421 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\jashw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2026-06-02 16:59:50,592 - voice.tts_engines.pyttsx3_engine - INFO - Set initial TTS speed to 150 WPM
+2026-06-02 16:59:50,593 - voice.tts_engines.pyttsx3_engine - INFO - Available voices: 2 found
+2026-06-02 16:59:50,593 - voice.tts_engines.pyttsx3_engine - INFO -   Voice 0: Microsoft David Desktop - English (United States)
+2026-06-02 16:59:50,593 - voice.tts_engines.pyttsx3_engine - INFO - Found target voice: Microsoft David Desktop - English (United States)
+2026-06-02 16:59:50,593 - voice.tts_engines.pyttsx3_engine - INFO - pyttsx3 TTS initialized successfully!
+2026-06-02 16:59:50,594 - voice.tts_engines.engine_selector - INFO - Using TTS engine: pyttsx3
+2026-06-02 16:59:50,594 - voice.tts_engines.pyttsx3_engine - INFO - Set TTS speed to 150 WPM (scale: 1.0)
+2026-06-02 16:59:50,599 - voice.voice_memory - INFO - Loaded 26 voice interactions
+2026-06-02 16:59:50,619 - voice.audio_router - INFO - Found 2 input devices, 2 output devices
+2026-06-02 16:59:50,620 - skills.execution.manager - INFO - Registered executors: ['file', 'terminal', 'browser', 'coding', 'voice']
+2026-06-02 17:02:13,449 - __main__ - INFO - Task received: hi
+2026-06-02 17:02:13,449 - core.brain - INFO - Analyzing task: hi
+2026-06-02 17:34:17,800 - runtime.wake_listener - INFO - Brain analyzing command: hey jarvis
+2026-06-02 17:34:17,800 - core.brain - INFO - Analyzing task: hey jarvis
+2026-06-02 17:34:17,801 - core.brain - INFO - Goal generated: Category=unknown, Confidence=30.0%
+2026-06-02 17:34:17,801 - runtime.wake_listener - WARNING - Unknown command category
+2026-06-02 17:34:17,801 - runtime_core.runtime_state_machine - INFO - State transition: EXECUTING â†’ IDLE
+2026-06-02 17:34:17,801 - runtime_core.event_bus - INFO - Publishing event: STATE_CHANGE from state_machine
+2026-06-02 17:34:17,802 - runtime.wake_listener - DEBUG - Listening for wake word...
+2026-06-02 17:34:30,834 - runtime.wake_listener - INFO - Heard: open brave
+2026-06-02 17:34:30,834 - runtime.wake_listener - DEBUG - Listening for wake word...
+2026-06-02 17:34:41,772 - runtime.wake_listener - INFO - Heard: say hello world
+2026-06-02 17:34:41,772 - runtime.wake_listener - DEBUG - Listening for wake word...
+2026-06-02 17:34:50,881 - runtime.wake_listener - INFO - Heard: speak hello world
+2026-06-02 17:34:50,881 - runtime.wake_listener - DEBUG - Listening for wake word...
+2026-06-02 17:37:49,517 - runtime.wake_listener - DEBUG - Could not understand audio
+2026-06-02 17:37:49,518 - runtime.wake_listener - DEBUG - Listening for wake word...
+2026-06-02 17:37:59,650 - runtime.wake_listener - DEBUG - Could not understand audio
+2026-06-02 17:37:59,650 - runtime.wake_listener - DEBUG - Listening for wake word...

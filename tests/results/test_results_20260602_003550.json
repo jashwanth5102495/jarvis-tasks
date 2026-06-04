@@ -1,0 +1,2569 @@
+{
+  "timestamp": "2026-06-02T00:35:50.189197",
+  "total": 65,
+  "passed": 65,
+  "failed": 0,
+  "results": [
+    {
+      "index": 1,
+      "input": "Create brochure",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 89.6,
+      "requirements": [
+        "brochure"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.36,
+      "error": null,
+      "tags": [
+        "design",
+        "core"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "89.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "89.6%",
+          "detail": ""
+        },
+        {
+          "name": "req:brochure",
+          "passed": true,
+          "expected": "\"brochure\" in requirements",
+          "actual": "['brochure']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "input": "Create poster",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 89.6,
+      "requirements": [
+        "poster"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "design",
+        "core"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "89.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "89.6%",
+          "detail": ""
+        },
+        {
+          "name": "req:poster",
+          "passed": true,
+          "expected": "\"poster\" in requirements",
+          "actual": "['poster']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "input": "Make futuristic logo",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 94.2,
+      "requirements": [
+        "futuristic",
+        "logo"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.16,
+      "error": null,
+      "tags": [
+        "design",
+        "synonym"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "94.2%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "94.2%",
+          "detail": ""
+        },
+        {
+          "name": "req:logo",
+          "passed": true,
+          "expected": "\"logo\" in requirements",
+          "actual": "['futuristic', 'logo']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "input": "Create premium AI course poster with modern design",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 95.0,
+      "requirements": [
+        "modern design",
+        "poster",
+        "premium AI course"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.21,
+      "error": null,
+      "tags": [
+        "design",
+        "phrase",
+        "requirements"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "req:poster",
+          "passed": true,
+          "expected": "\"poster\" in requirements",
+          "actual": "['modern design', 'poster', 'premium AI course']",
+          "detail": ""
+        },
+        {
+          "name": "req:premium ai course",
+          "passed": true,
+          "expected": "\"premium ai course\" in requirements",
+          "actual": "['modern design', 'poster', 'premium AI course']",
+          "detail": ""
+        },
+        {
+          "name": "req:modern design",
+          "passed": true,
+          "expected": "\"modern design\" in requirements",
+          "actual": "['modern design', 'poster', 'premium AI course']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "input": "Design a company banner",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 95.0,
+      "requirements": [
+        "company banner",
+        "design"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.12,
+      "error": null,
+      "tags": [
+        "design",
+        "core"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "req:banner",
+          "passed": true,
+          "expected": "\"banner\" in requirements",
+          "actual": "['company banner', 'design']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "input": "Build a cybersecurity banner",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 95.0,
+      "requirements": [
+        "cybersecurity banner"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.12,
+      "error": null,
+      "tags": [
+        "design",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "req:cybersecurity banner",
+          "passed": true,
+          "expected": "\"cybersecurity banner\" in requirements",
+          "actual": "['cybersecurity banner']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "input": "Make a marketing flyer",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 94.7,
+      "requirements": [
+        "flyer"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.12,
+      "error": null,
+      "tags": [
+        "design",
+        "synonym"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "94.7%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "94.7%",
+          "detail": ""
+        },
+        {
+          "name": "req:flyer",
+          "passed": true,
+          "expected": "\"flyer\" in requirements",
+          "actual": "['flyer']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "input": "Generate a brand identity",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 94.2,
+      "requirements": [
+        "brand identity"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "design",
+        "synonym"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 60%",
+          "actual": "94.2%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "94.2%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "input": "Design a modern infographic",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 95.0,
+      "requirements": [
+        "design",
+        "infographic",
+        "modern"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "design"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "input": "Create a social media post",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 94.2,
+      "requirements": [
+        "social media post"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.12,
+      "error": null,
+      "tags": [
+        "design",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 60%",
+          "actual": "94.2%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "94.2%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "input": "Build website",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 81.6,
+      "requirements": [
+        "website"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.09,
+      "error": null,
+      "tags": [
+        "software",
+        "core"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "81.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "81.6%",
+          "detail": ""
+        },
+        {
+          "name": "req:website",
+          "passed": true,
+          "expected": "\"website\" in requirements",
+          "actual": "['website']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "input": "Build employee management system",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 95.0,
+      "requirements": [
+        "employee management system"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.13,
+      "error": null,
+      "tags": [
+        "software",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 75%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "req:employee management system",
+          "passed": true,
+          "expected": "\"employee management system\" in requirements",
+          "actual": "['employee management system']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "input": "Make inventory dashboard",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 95.0,
+      "requirements": [
+        "inventory dashboard"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "software",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 75%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "req:inventory dashboard",
+          "passed": true,
+          "expected": "\"inventory dashboard\" in requirements",
+          "actual": "['inventory dashboard']",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "input": "Generate CRM platform",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 94.8,
+      "requirements": [
+        "crm",
+        "platform"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "software",
+        "synonym"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "94.8%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "94.8%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "input": "Develop a REST API",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 95.0,
+      "requirements": [
+        "rest api"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "software",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "input": "Build a web application",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 95.0,
+      "requirements": [
+        "app",
+        "application"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "software",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "input": "Create a mobile app",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 95.0,
+      "requirements": [
+        "app"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.1,
+      "error": null,
+      "tags": [
+        "software"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "input": "Build an admin dashboard",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 95.0,
+      "requirements": [
+        "admin dashboard"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "software",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "input": "Create an ecommerce platform",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 95.0,
+      "requirements": [
+        "ecommerce platform"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "software",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "input": "Generate admin portal",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 74.7,
+      "requirements": [
+        "portal"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "software",
+        "synonym"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "74.7%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "74.7%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "input": "Clean temporary files",
+      "expected_category": "system_operations",
+      "actual_category": "system_operations",
+      "confidence": 95.0,
+      "requirements": [
+        "temporary files"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "system_ops",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "system_operations",
+          "actual": "system_operations",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 75%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "input": "Monitor server logs",
+      "expected_category": "system_operations",
+      "actual_category": "system_operations",
+      "confidence": 95.0,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.1,
+      "error": null,
+      "tags": [
+        "system_ops",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "system_operations",
+          "actual": "system_operations",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 75%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "input": "Schedule daily backup",
+      "expected_category": "system_operations",
+      "actual_category": "system_operations",
+      "confidence": 95.0,
+      "requirements": [
+        "daily backup"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "system_ops",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "system_operations",
+          "actual": "system_operations",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 75%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "input": "Deploy server update",
+      "expected_category": "system_operations",
+      "actual_category": "system_operations",
+      "confidence": 95.0,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.1,
+      "error": null,
+      "tags": [
+        "system_ops"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "system_operations",
+          "actual": "system_operations",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "input": "Restart the service",
+      "expected_category": "system_operations",
+      "actual_category": "system_operations",
+      "confidence": 93.7,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.09,
+      "error": null,
+      "tags": [
+        "system_ops"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "system_operations",
+          "actual": "system_operations",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 60%",
+          "actual": "93.7%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "93.7%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "input": "Run disk cleanup",
+      "expected_category": "system_operations",
+      "actual_category": "system_operations",
+      "confidence": 95.0,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.1,
+      "error": null,
+      "tags": [
+        "system_ops"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "system_operations",
+          "actual": "system_operations",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "input": "Send proposal to client",
+      "expected_category": "communication",
+      "actual_category": "communication",
+      "confidence": 95.0,
+      "requirements": [
+        "proposal"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "communication",
+        "phrase"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "communication",
+          "actual": "communication",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "input": "Send email to client",
+      "expected_category": "communication",
+      "actual_category": "communication",
+      "confidence": 95.0,
+      "requirements": [
+        "email"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "communication"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "communication",
+          "actual": "communication",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "input": "Write a newsletter",
+      "expected_category": "communication",
+      "actual_category": "communication",
+      "confidence": 74.7,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.09,
+      "error": null,
+      "tags": [
+        "communication"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "communication",
+          "actual": "communication",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 60%",
+          "actual": "74.7%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "74.7%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "input": "Draft internship email",
+      "expected_category": "communication",
+      "actual_category": "communication",
+      "confidence": 81.6,
+      "requirements": [
+        "email"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.1,
+      "error": null,
+      "tags": [
+        "communication",
+        "synonym"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "communication",
+          "actual": "communication",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 60%",
+          "actual": "81.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "81.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "input": "Research AI models",
+      "expected_category": "research",
+      "actual_category": "research",
+      "confidence": 81.6,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.1,
+      "error": null,
+      "tags": [
+        "research"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "research",
+          "actual": "research",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "81.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "81.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "input": "Analyze competitors",
+      "expected_category": "research",
+      "actual_category": "research",
+      "confidence": 65.6,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.09,
+      "error": null,
+      "tags": [
+        "research"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "research",
+          "actual": "research",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 60%",
+          "actual": "65.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "65.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "input": "Find market statistics",
+      "expected_category": "research",
+      "actual_category": "research",
+      "confidence": 89.6,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.1,
+      "error": null,
+      "tags": [
+        "research"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "research",
+          "actual": "research",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 60%",
+          "actual": "89.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "89.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "input": "Automate daily report generation",
+      "expected_category": "automation",
+      "actual_category": "automation",
+      "confidence": 79.4,
+      "requirements": [
+        "report"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.12,
+      "error": null,
+      "tags": [
+        "automation"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "automation",
+          "actual": "automation",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "79.4%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "79.4%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "input": "Create a workflow bot",
+      "expected_category": "automation",
+      "actual_category": "automation",
+      "confidence": 93.7,
+      "requirements": [
+        "bot",
+        "workflow"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.11,
+      "error": null,
+      "tags": [
+        "automation"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "automation",
+          "actual": "automation",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 60%",
+          "actual": "93.7%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "93.7%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "input": "Enable debug mode",
+      "expected_category": "internal_commands",
+      "actual_category": "internal_commands",
+      "confidence": 99.0,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 1.84,
+      "error": null,
+      "tags": [
+        "internal",
+        "debug"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "internal_commands",
+          "actual": "internal_commands",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 90%",
+          "actual": "99.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "input": "Disable debug mode",
+      "expected_category": "internal_commands",
+      "actual_category": "internal_commands",
+      "confidence": 99.0,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 2.78,
+      "error": null,
+      "tags": [
+        "internal",
+        "debug"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "internal_commands",
+          "actual": "internal_commands",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 90%",
+          "actual": "99.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "input": "Show logs",
+      "expected_category": "internal_commands",
+      "actual_category": "internal_commands",
+      "confidence": 99.0,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.04,
+      "error": null,
+      "tags": [
+        "internal"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "internal_commands",
+          "actual": "internal_commands",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 90%",
+          "actual": "99.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "input": "Clear memory",
+      "expected_category": "internal_commands",
+      "actual_category": "internal_commands",
+      "confidence": 99.0,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 0.03,
+      "error": null,
+      "tags": [
+        "internal"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "internal_commands",
+          "actual": "internal_commands",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 90%",
+          "actual": "99.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "input": "Toggle verbose mode",
+      "expected_category": "internal_commands",
+      "actual_category": "internal_commands",
+      "confidence": 99.0,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 2.03,
+      "error": null,
+      "tags": [
+        "internal"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "internal_commands",
+          "actual": "internal_commands",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 90%",
+          "actual": "99.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "input": "asdfghjkl",
+      "expected_category": "unknown",
+      "actual_category": null,
+      "confidence": null,
+      "requirements": [],
+      "passed": true,
+      "rejected": true,
+      "elapsed_ms": 0.03,
+      "error": "Unable to determine intent. Input appears to be gibberish",
+      "tags": [
+        "invalid",
+        "gibberish"
+      ],
+      "checks": [
+        {
+          "name": "rejection",
+          "passed": true,
+          "expected": "ValueError raised",
+          "actual": "ValueError raised",
+          "detail": "Unable to determine intent. Input appears to be gibberish"
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "input": "123456789",
+      "expected_category": "unknown",
+      "actual_category": null,
+      "confidence": null,
+      "requirements": [],
+      "passed": true,
+      "rejected": true,
+      "elapsed_ms": 0.02,
+      "error": "Unable to determine intent. Input appears to be gibberish",
+      "tags": [
+        "invalid",
+        "numbers"
+      ],
+      "checks": [
+        {
+          "name": "rejection",
+          "passed": true,
+          "expected": "ValueError raised",
+          "actual": "ValueError raised",
+          "detail": "Unable to determine intent. Input appears to be gibberish"
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "input": "zzzzzzzzz",
+      "expected_category": "unknown",
+      "actual_category": null,
+      "confidence": null,
+      "requirements": [],
+      "passed": true,
+      "rejected": true,
+      "elapsed_ms": 0.02,
+      "error": "Unable to determine intent. Input appears to be gibberish",
+      "tags": [
+        "invalid",
+        "repetition"
+      ],
+      "checks": [
+        {
+          "name": "rejection",
+          "passed": true,
+          "expected": "ValueError raised",
+          "actual": "ValueError raised",
+          "detail": "Unable to determine intent. Input appears to be gibberish"
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "input": "qwerty",
+      "expected_category": "unknown",
+      "actual_category": null,
+      "confidence": null,
+      "requirements": [],
+      "passed": true,
+      "rejected": true,
+      "elapsed_ms": 0.02,
+      "error": "Unable to determine intent. Input appears to be gibberish",
+      "tags": [
+        "invalid",
+        "keyboard"
+      ],
+      "checks": [
+        {
+          "name": "rejection",
+          "passed": true,
+          "expected": "ValueError raised",
+          "actual": "ValueError raised",
+          "detail": "Unable to determine intent. Input appears to be gibberish"
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "input": "!!!###$$$",
+      "expected_category": "unknown",
+      "actual_category": null,
+      "confidence": null,
+      "requirements": [],
+      "passed": true,
+      "rejected": true,
+      "elapsed_ms": 0.03,
+      "error": "Unable to determine intent. Input appears to be random characters",
+      "tags": [
+        "invalid",
+        "symbols"
+      ],
+      "checks": [
+        {
+          "name": "rejection",
+          "passed": true,
+          "expected": "ValueError raised",
+          "actual": "ValueError raised",
+          "detail": "Unable to determine intent. Input appears to be random characters"
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "input": "Build website",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 81.6,
+      "requirements": [
+        "website"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 21.66,
+      "error": null,
+      "tags": [
+        "synonym",
+        "software"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "81.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "81.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "input": "Create website",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 81.6,
+      "requirements": [
+        "website"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 22.38,
+      "error": null,
+      "tags": [
+        "synonym",
+        "software"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "81.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "81.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "input": "Develop website",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 81.6,
+      "requirements": [
+        "website"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 19.3,
+      "error": null,
+      "tags": [
+        "synonym",
+        "software"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "81.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "81.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "input": "Generate website",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 81.6,
+      "requirements": [
+        "website"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 18.48,
+      "error": null,
+      "tags": [
+        "synonym",
+        "software"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "81.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "81.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "input": "Make website",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 81.6,
+      "requirements": [
+        "website"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 15.82,
+      "error": null,
+      "tags": [
+        "synonym",
+        "software"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "81.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "81.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "input": "Create logo",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 89.6,
+      "requirements": [
+        "logo"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 18.54,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "89.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "89.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "input": "Generate flyer",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 89.6,
+      "requirements": [
+        "flyer"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 17.39,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "89.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "89.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "input": "Build CRM",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 89.6,
+      "requirements": [
+        "crm"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 19.22,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "89.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "89.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "input": "Monitor logs",
+      "expected_category": "system_operations",
+      "actual_category": "system_operations",
+      "confidence": 95.0,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 21.3,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "system_operations",
+          "actual": "system_operations",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "input": "Enable debug mode",
+      "expected_category": "internal_commands",
+      "actual_category": "internal_commands",
+      "confidence": 99.0,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 1.65,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "internal_commands",
+          "actual": "internal_commands",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 90%",
+          "actual": "99.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "input": "Create AI course poster",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 95.0,
+      "requirements": [
+        "AI course",
+        "poster"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 20.87,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "input": "Analyze competitors",
+      "expected_category": "research",
+      "actual_category": "research",
+      "confidence": 65.6,
+      "requirements": [],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 22.87,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "research",
+          "actual": "research",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 60%",
+          "actual": "65.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "65.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "input": "Draft internship email",
+      "expected_category": "communication",
+      "actual_category": "communication",
+      "confidence": 81.6,
+      "requirements": [
+        "email"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 17.93,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "communication",
+          "actual": "communication",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 60%",
+          "actual": "81.6%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "81.6%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "input": "asdfghjkl",
+      "expected_category": "unknown",
+      "actual_category": null,
+      "confidence": null,
+      "requirements": [],
+      "passed": true,
+      "rejected": true,
+      "elapsed_ms": 0.03,
+      "error": "Unable to determine intent. Input appears to be gibberish",
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "rejection",
+          "passed": true,
+          "expected": "ValueError raised",
+          "actual": "ValueError raised",
+          "detail": "Unable to determine intent. Input appears to be gibberish"
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "input": "Clean temporary files",
+      "expected_category": "system_operations",
+      "actual_category": "system_operations",
+      "confidence": 95.0,
+      "requirements": [
+        "temporary files"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 25.36,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "system_operations",
+          "actual": "system_operations",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 75%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "input": "Generate admin portal",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 74.7,
+      "requirements": [
+        "portal"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 17.13,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 65%",
+          "actual": "74.7%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "74.7%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "input": "Design cybersecurity banner",
+      "expected_category": "design",
+      "actual_category": "design",
+      "confidence": 95.0,
+      "requirements": [
+        "cybersecurity banner",
+        "design"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 19.89,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "design",
+          "actual": "design",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "input": "Send proposal to client",
+      "expected_category": "communication",
+      "actual_category": "communication",
+      "confidence": 95.0,
+      "requirements": [
+        "proposal"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 19.56,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "communication",
+          "actual": "communication",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 70%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "input": "Schedule daily backup",
+      "expected_category": "system_operations",
+      "actual_category": "system_operations",
+      "confidence": 95.0,
+      "requirements": [
+        "daily backup"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 22.45,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "system_operations",
+          "actual": "system_operations",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 75%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "input": "Build employee management system",
+      "expected_category": "software_development",
+      "actual_category": "software_development",
+      "confidence": 95.0,
+      "requirements": [
+        "employee management system"
+      ],
+      "passed": true,
+      "rejected": false,
+      "elapsed_ms": 19.1,
+      "error": null,
+      "tags": [
+        "stress"
+      ],
+      "checks": [
+        {
+          "name": "category",
+          "passed": true,
+          "expected": "software_development",
+          "actual": "software_development",
+          "detail": ""
+        },
+        {
+          "name": "confidence",
+          "passed": true,
+          "expected": ">= 75%",
+          "actual": "95.0%",
+          "detail": ""
+        },
+        {
+          "name": "confidence_cap",
+          "passed": true,
+          "expected": "< 100%",
+          "actual": "95.0%",
+          "detail": ""
+        }
+      ]
+    }
+  ]
+}

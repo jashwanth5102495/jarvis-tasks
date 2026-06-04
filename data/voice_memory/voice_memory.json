@@ -1,0 +1,163 @@
+{
+  "interactions": [
+    {
+      "timestamp": "2026-06-02T13:31:32.864317",
+      "role": "user",
+      "content": "open chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:32:01.291531",
+      "role": "user",
+      "content": "open chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:32:33.579162",
+      "role": "user",
+      "content": "open chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:32:57.752591",
+      "role": "user",
+      "content": "open chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:32:57.754591",
+      "role": "assistant",
+      "content": "Opening the requested application.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:32:57.763125",
+      "role": "user",
+      "content": "Hello, Jarvis",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:32:57.771334",
+      "role": "assistant",
+      "content": "Hello, how can I help?",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:44:18.044024",
+      "role": "user",
+      "content": "Open Chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:44:18.046030",
+      "role": "assistant",
+      "content": "Opening the requested application.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:44:18.052817",
+      "role": "user",
+      "content": "Open Chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:44:18.062405",
+      "role": "assistant",
+      "content": "Opening the requested application.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:44:47.256203",
+      "role": "user",
+      "content": "Open Chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:44:47.258484",
+      "role": "assistant",
+      "content": "Opening the requested application.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:44:47.266940",
+      "role": "user",
+      "content": "Open Chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:44:47.276471",
+      "role": "assistant",
+      "content": "Opening the requested application.",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:46:01.854387",
+      "role": "user",
+      "content": "open chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:49:24.152261",
+      "role": "user",
+      "content": "open chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T13:52:07.644863",
+      "role": "user",
+      "content": "Open Chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T14:01:47.730979",
+      "role": "user",
+      "content": "open chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T14:02:40.898604",
+      "role": "user",
+      "content": "Open Chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T14:12:22.717182",
+      "role": "user",
+      "content": "open chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T14:17:01.540414",
+      "role": "user",
+      "content": "Open Chrome",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T14:29:38.380146",
+      "role": "assistant",
+      "content": "Hello from JARVIS integration test!",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T14:36:45.451424",
+      "role": "assistant",
+      "content": "hello world",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T14:51:24.851239",
+      "role": "assistant",
+      "content": "hello world",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-06-02T15:05:35.587545",
+      "role": "assistant",
+      "content": "hello world",
+      "confidence": 1.0
+    }
+  ],
+  "preferences": {
+    "test_key": "test_value"
+  }
+}
